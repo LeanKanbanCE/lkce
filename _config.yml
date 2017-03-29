@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Lean Kanban Central Europe"
 email: "info@it-agile.de"
 description: "The world's biggest conference on Lean and Kanban!"
-baseurl: "/lkce"
+baseurl: "/LKCE"
 url: "https://LeanKanbanCE.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
