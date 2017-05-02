@@ -11,6 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Lean Kanban Central Europe"
+
 email: "lkce@it-agile.de"
 description: "World's biggest conference on Lean and Kanban!"
 baseurl: "/LKCE"
@@ -31,6 +32,7 @@ organizerLink: "http://www.it-agile.de"
 # Head
 metaKeywords: "event, kanban, lean, modern management, change, it-agile, LKU, agile, hamburg"
 twitterAccount: "@LeanKanbanCE"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
