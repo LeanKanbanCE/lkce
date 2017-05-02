@@ -10,11 +10,19 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
+<<<<<<< HEAD
 title: "Lean Kanban Central Europe"
 email: "lkce@it-agile.de"
 description: "World's biggest conference on Lean and Kanban!"
 baseurl: "/LKCE"
 url: "https://LeanKanbanCE.github.io"
+=======
+title: "GDG DevFest Season 2014"
+email: "devfest@gdg.org.ua"
+description: "GDG DevFest is a set of events all around the world"
+baseurl: "/zeppelin"
+url: "https://gdg-x.github.io"
+>>>>>>> gdg-x/master
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -60,7 +68,11 @@ eventDate: "7th + 8th November, 2017"
 typeoutTextValues: '"", "Central Europe"'
 typeoutFallback: "Central Europe"
 heroButtons:
+<<<<<<< HEAD
  - {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
+=======
+ - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+>>>>>>> gdg-x/master
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -127,7 +139,11 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+<<<<<<< HEAD
 subscribeInfo: "Registration will be open around end of April. Number of tickets are limited. Stay tuned!"
+=======
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+>>>>>>> gdg-x/master
 
 # Tickets Block
 ticketsTitle: "Pricetable"
