@@ -123,7 +123,7 @@ twitterFeed: "http://leankanbance.com/tweetledee/searchjson.php?q=#lkce17&rt=rec
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Become a Sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -163,9 +163,10 @@ footerBlocks:
   links:
    - {link: "mailto:lkce@it-agile.de", text: "lkce@it-agile.de"}
  -
-  #title: "FAQ"
-  #links:
-  # - {permalink: "/cod/", text: "Code of Conduct"}
+  title: "Legal"
+  links:
+   - {permalink: "/impressum/", text: "Impressum"}
+   - {permalink: "/termsoftrade/", text: "Terms of Trade"}
 
 # Blog
 blogTitle: "Latest news"
