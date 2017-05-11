@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/socialevent/", text: "Social Event"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "curio.jpg"
@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Lean Kanban Central Europe is part of the world wide Lean Kanban conference series organized by it-agile. Every year, since 2011, LKCE invites people to learn and exchange ideas around organizational change with Lean and Kanban."}
+ - {title: "Conference", image: "conference.jpg", text: "Come and join us at the world’s most popular Lean Kanban conference of this world wide series. Two days packed with inspiring talks, workshops and networking opportunities."}
  - {title: "Social Event", image: "socialevent.jpg", text: "Join us for an evening of exchanging ideas, meeting new people and your favorite speaker while having a beer!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Want a deep dive into your favorite topic?" } 
+ - {title: "Workshops", image: "workshop.jpg", text: "Want to dig even deeper? Stay in Hamburg and attend one of many workshop that will take place on Nov. 9th. Stay tuned for more information!" } 
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -116,7 +116,7 @@ venueFeatures: ["4 rooms for talk", "Lounge to relax and talk", "Located close t
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "LKCE17"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://leankanbance.com/tweetledee/searchjson.php?q=#lkce17&rt=recent"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -175,7 +175,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "We are the place to be for everyone interested in Lean and Kanban in Central and Eastern Europe. This is the 7th international conference in Central Europe about Lean and Kanban, and we endeavor to host an unforgetable event for system thinkers, managers, leaders, out-of-the-box-thinkers, entrepreneurs, product developers, and people who care about the way they work."
+aboutUs: "It all started 2011 in Munich and since then Lean Kanban Central Europe grew to the biggest and most popular conference on Lean and Kanban. Our mission has always been and will be again in 2017 to host an unforgetable event for system thinkers, managers, leaders, out-of-the-box-thinkers, entrepreneurs, product developers, and people who care about the way they work."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
