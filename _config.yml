@@ -115,7 +115,7 @@ venueTitle: "Curio-Haus"
 venueFeatures: ["4 rooms for talk", "Lounge to relax and talk", "Located close to the Außenalster"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "direction-details.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "LKCE17"
 twitterFeed: "http://leankanbance.com/tweetledee/searchjson.php?q=#lkce17&rt=recent"
