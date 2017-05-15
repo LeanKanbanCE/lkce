@@ -14,8 +14,8 @@ title: "Lean Kanban Central Europe"
 
 email: "lkce@it-agile.de"
 description: "World's biggest conference on Lean and Kanban!"
-baseurl: "/LKCE"
-url: "https://LeanKanbanCE.github.io"
+baseurl: ""
+url: "https://www.leankanbance.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -37,8 +37,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://bit.ly/cfp-lkce17"
+c4sponsorsUrl: "/assets/LKCE_Partnership.pdf"
 
 
 # Navigation
@@ -57,9 +57,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "curio.jpg"
-heroTitle: "Lean Kanban <typeout> 2017"
+heroTitle: "Lean Kanban Central Europe <typeout>"
 eventDate: "7th + 8th November, 2017"
-typeoutTextValues: '"", "Central Europe"'
+typeoutTextValues: '"", "2017"'
 typeoutFallback: "Central Europe"
 heroButtons:
  - {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
@@ -123,7 +123,7 @@ twitterFeed: "http://leankanbance.com/tweetledee/searchjson.php?q=#lkce17&rt=rec
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a Sponsor"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
