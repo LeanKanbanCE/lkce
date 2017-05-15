@@ -77,7 +77,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of Lean and Kanban"}
- - {count: "30", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "30", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus lounge"}
 
 # Latest News Block
@@ -157,7 +157,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://it-agile.de", text: "it-agile GmbH"}
-   - {link: "https://leankanban.com", text: "Lean Kanban Inc."}
+   - {link: "http://leankanban.com", text: "Lean Kanban Inc."}
  -
   title: "Contacts"
   links:
