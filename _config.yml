@@ -112,7 +112,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Curio-Haus"
-venueFeatures: ["4 rooms for talk", "Lounge to relax and talk", "Located close to the Außenalster"]
+venueFeatures: ["4 rooms", "Lounge to relax and talk", "Located close to the Außenalster"]
 
 # Tweets Feed Block
 tweetsFeedImage: "direction-details.jpg"
