@@ -51,9 +51,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/socialevent/", text: "Social Event"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
+ #- {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
+ #- {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "curio.jpg"
@@ -62,7 +62,7 @@ eventDate: "7th + 8th November, 2017"
 typeoutTextValues: '"", "2017"'
 typeoutFallback: "Central Europe"
 heroButtons:
- - {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
+ #- {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -138,18 +138,18 @@ ticketsOffers:
  -
   name: "Single Ticket"
   price: "900"
-  priceCurrency: "EUR"
+  priceCurrency: "EUR (excl. 19% VAT)"
   ticketsNumber: ""
   ribbon: ""
   buyButtonLink: "https://ti.to/lkce/lkce17"
   buyButtonText: "Buy Now"
-  ticketContentList: ["2 Days", "4 Tracks", "Social Event"]
+  ticketContentList: ["2 Days", "3 Tracks", "Social Event"]
   validFrom: "2017-11-25T10:00"
   validThrough: "2014-09-30T23:59"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=LeanKanbanCE", icon: "twitter"}
+ - {link: "https://twitter.com/LeanKanbanCE", icon: "twitter"}
  - {link: "https://facebook.com/LeanKanbanCE", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
