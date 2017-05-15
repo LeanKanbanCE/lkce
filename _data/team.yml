@@ -3,7 +3,7 @@
   name: "Wolfgang"
   surname: "Wiedenroth"
   title: "Speakers Manager"
-  thumbnailUrl: WolfgangWiedenroth.jpg
+  thumbnailUrl: wolfgangwiedenroth.jpg
   team: true
   ribbon: 
     - {abbr: "it-agile", title: "it-agile Gmbh"}
@@ -15,7 +15,7 @@
   name: "Claudia"
   surname: "Reitenbach"
   title: "Location and Sponsor Manager"
-  thumbnailUrl: ClaudiaReitenbach.jpg
+  thumbnailUrl: claudiareitenbach.jpg
   team: true
   ribbon: 
     - {abbr: "it-agile", title: "it-agile Gmbh"}
