@@ -15,7 +15,7 @@ title: "Lean Kanban Central Europe"
 email: "lkce@it-agile.de"
 description: "World's biggest conference on Lean and Kanban!"
 baseurl: ""
-url: "https://www.leankanbance.com"
+url: "http://www.leankanbance.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -37,7 +37,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/cfp-lkce17"
+c4pUrl: "http://bit.ly/cfp-lkce17"
 c4sponsorsUrl: "/assets/Sponsoring_LKCE17.pdf"
 
 
@@ -51,9 +51,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/socialevent/", text: "Social Event"}
 bottomNavigationLinks:
- #- {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
+ #- {link: "http://bit.ly/cfp-lkce17", text: "Become a speaker"}
 rightNavigationButtons:
- #- {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
+ #- {link: "http://bit.ly/cfp-lkce17", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "curio.jpg"
@@ -62,7 +62,7 @@ eventDate: "7th + 8th November, 2017"
 typeoutTextValues: '"", "2017"'
 typeoutFallback: "Central Europe"
 heroButtons:
- #- {link: "https://bit.ly/cfp-lkce17", text: "Become a speaker"}
+ #- {link: "http://bit.ly/cfp-lkce17", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -92,7 +92,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Curio-Haus"
-eventLocationLink: "https://www.koflerkompanie.com/locations/hamburg/curiohaus/"
+eventLocationLink: "http://www.koflerkompanie.com/locations/hamburg/curiohaus/"
 eventStreetAddress: "Rothenbaumchaussee 13"
 eventAddressLocality: "Hamburg"
 eventAddressLocalityRegion: "Hamburg"
@@ -128,7 +128,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of April. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
@@ -141,7 +141,7 @@ ticketsOffers:
   priceCurrency: "EUR (excl. 19% VAT)"
   ticketsNumber: ""
   ribbon: ""
-  buyButtonLink: "https://ti.to/lkce/lkce17"
+  buyButtonLink: "http://ti.to/lkce/lkce17"
   buyButtonText: "Buy Now"
   ticketContentList: ["2 Days", "3 Tracks", "Social Event"]
   validFrom: "2017-11-25T10:00"
@@ -149,8 +149,8 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/LeanKanbanCE", icon: "twitter"}
- - {link: "https://facebook.com/LeanKanbanCE", icon: "facebook"}
+ - {link: "http://twitter.com/LeanKanbanCE", icon: "twitter"}
+ - {link: "http://facebook.com/LeanKanbanCE", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -206,9 +206,9 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://www.grand-elysee.com/", text: "Grand Elysee"}
-     - {link: "https://www.radissonblu.com/en/hotel-hamburg", text: "Radisson Blu"}
-     - {link: "https://www.superbude.de/", text: "Superbude"}
+     - {link: "http://www.grand-elysee.com/", text: "Grand Elysee"}
+     - {link: "http://www.radissonblu.com/en/hotel-hamburg", text: "Radisson Blu"}
+     - {link: "http://www.superbude.de/", text: "Superbude"}
    -
 
 # Hackathon

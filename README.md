@@ -9,7 +9,7 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 ### Live demo http://gdg-x.github.io/zeppelin/
 
-#### Automated version with Grunt <https://github.com/gdg-x/zeppelin-grunt>
+#### Automated version with Grunt <http://github.com/gdg-x/zeppelin-grunt>
 
 ### Features
 * Easy to setup
@@ -20,14 +20,14 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 
 ### Quick-start guide
-1. [Fork](https://github.com/gdg-x/zeppelin/fork) this repo
+1. [Fork](http://github.com/gdg-x/zeppelin/fork) this repo
 2. Clone locally
 3. Update ```_config.yml```
 4. Select what content blocks do you need
 5. Push changes to ```gh-pages``` branch
 6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/zeppelin/```
 
-Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.com/watch?v=xYmhheoLjcI). Slides available [here](https://docs.google.com/presentation/d/19aM7yNl_orDaCNND5LpCY3fShb6PyMltnzYfKvV8R_8/edit?usp=sharing)
+Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.com/watch?v=xYmhheoLjcI). Slides available [here](http://docs.google.com/presentation/d/19aM7yNl_orDaCNND5LpCY3fShb6PyMltnzYfKvV8R_8/edit?usp=sharing)
 
 
 ## Local development
@@ -55,15 +55,15 @@ Site will be available at http://127.0.0.1:4000/zeppelin/ or http://localhost:40
 **Note:** You need to install [Node.js](http://nodejs.org/download/)
 
 To watch changes of `.sass` files and compile it to the `.css` on a fly change property `safe: true` to `safe: false` in `_config.yml`.
-**Note: It works only on local machine, because GitHub runs Jekyll in `--save` [mode](https://help.github.com/articles/using-jekyll-with-pages/#configuration-overrides)**
+**Note: It works only on local machine, because GitHub runs Jekyll in `--save` [mode](http://help.github.com/articles/using-jekyll-with-pages/#configuration-overrides)**
 
-Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
+Learn more about Sass development from [documentation](http://github.com/gdg-x/zeppelin/wiki/Sass-development).
 
 
 ### Resource optimizations (optional)
 
 You can optimize images and minify css and javascript automatically (for now only on Windows).
-But for Mac OS users available amazing tool - [imageoptim](https://imageoptim.com/). Thanks [@raphaelsavina](https://github.com/raphaelsavina) for link.
+But for Mac OS users available amazing tool - [imageoptim](http://imageoptim.com/). Thanks [@raphaelsavina](http://github.com/raphaelsavina) for link.
 Optimize all images by running this script from `/automation/images/` folder:
 ```bash
     all_image_optimization.bat -d -jtran -pout -pquant -optip -gsicle -svgo
@@ -74,19 +74,19 @@ To minify CSS and JS run `minify_js.bat` (for Windows) and `minify_js.sh` (for L
     minify_js.bat
 ```
 
-Learn more about available optimization options from [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
+Learn more about available optimization options from [documentation](http://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
 
 ### Documentation
-Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
+Quick-start guide is not enough? Checkout [full documentation](http://github.com/gdg-x/zeppelin/wiki).
 
 ### Used libraries
-* [Bootstrap](https://github.com/twbs/bootstrap)
-* [Animate.css](https://github.com/daneden/animate.css)
-* [Waves](https://github.com/publicis-indonesia/Waves)
-* [jquery.appear](https://github.com/bas2k/jquery.appear)
-* [jQuery countTo Plugin](https://github.com/mhuggins/jquery-countTo)
-* [Typed.js](https://github.com/mattboldt/typed.js)
-* [Sticky-kit](https://github.com/leafo/sticky-kit)
+* [Bootstrap](http://github.com/twbs/bootstrap)
+* [Animate.css](http://github.com/daneden/animate.css)
+* [Waves](http://github.com/publicis-indonesia/Waves)
+* [jquery.appear](http://github.com/bas2k/jquery.appear)
+* [jQuery countTo Plugin](http://github.com/mhuggins/jquery-countTo)
+* [Typed.js](http://github.com/mattboldt/typed.js)
+* [Sticky-kit](http://github.com/leafo/sticky-kit)
 
 ### Who is using template?
 Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.
@@ -113,16 +113,16 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 | [JSday Maceio 2015](http://jsday.com.br) | [DevFest Nordeste 2015](http://2015.devfestne.com.br) | [GDG DevFest Vijayawada 2015](http://devfest.gdg-vijayawada.org) |
 | [Geek Night Recife](http://geeknightrecife.github.io/) | [IO Extended 2016 Madrid ](http://io.gdg.es/) | [AngularCamp](http://angularcamp.org/) |
 | [Mobile Era 2016](http://mobileera.rocks/) | [GDG Francisco Beltrão](http://gdg-fb.github.io) | [Women Techmakers Istanbul 2016](http://2016.wtmistanbul.com) |
-| [Droidcon Paris 2015](http://droidcon.fr) | [Android Makers Paris 2017](http://androidmakers.fr) | [Heidelberger Symposium 2017](https://heidelberger-symposium.de/) |
+| [Droidcon Paris 2015](http://droidcon.fr) | [Android Makers Paris 2017](http://androidmakers.fr) | [Heidelberger Symposium 2017](http://heidelberger-symposium.de/) |
 
 
 ### Contributors
-* Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
-* Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
+* Design and web development: [Oleh Zasadnyy](http://github.com/ozasadnyy)
+* Idea: [Vitaliy Zasadnyy](http://github.com/zasadnyy)
 
-See [list of contributors](https://github.com/gdg-x/zepplin/graphs/contributors)
+See [list of contributors](http://github.com/gdg-x/zepplin/graphs/contributors)
 
-Maintainers: [@tasomaniac](https://github.com/tasomaniac) and [@ozasadnyy](https://github.com/ozasadnyy).
+Maintainers: [@tasomaniac](http://github.com/tasomaniac) and [@ozasadnyy](http://github.com/ozasadnyy).
 
 ### License
-Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
+Project is published under the [MIT license](http://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
