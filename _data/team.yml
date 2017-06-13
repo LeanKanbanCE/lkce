@@ -8,7 +8,7 @@
   ribbon: 
     - {abbr: "it-agile", title: "it-agile Gmbh"}
   social:     
-    - {name: "twitter", link: "https://twitter.com/wwiedenroth"}
+    - {name: "twitter", link: "http://twitter.com/wwiedenroth"}
     - {name: "site", link: "http://agilemanic.com/"}
 - 
   id: 1

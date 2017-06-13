@@ -26,7 +26,7 @@
   speakers: [4, 5]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "http://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
@@ -36,7 +36,7 @@
   speakers: [4]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "http://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
@@ -45,7 +45,7 @@
   speakers: [6]
   language: uk
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  presentation: "http://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
@@ -55,5 +55,5 @@
   speakers: [7]
   language: en
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  presentation: "http://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
