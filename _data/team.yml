@@ -2,9 +2,10 @@
   id: 0
   name: "Wolfgang"
   surname: "Wiedenroth"
-  title: "Speakers Manager"
+  title: "Speakers Manager and Kanban Program Committee"
   thumbnailUrl: wolfgangwiedenroth.jpg
   team: true
+  subTeam: true
   ribbon: 
     - {abbr: "it-agile", title: "it-agile Gmbh"}
   social:     
@@ -19,3 +20,43 @@
   team: true
   ribbon: 
     - {abbr: "it-agile", title: "it-agile Gmbh"}
+-
+  id: 2
+  name: "Arne"
+  surname: "Roock"
+  title: "Beyond IT Program Committee"
+  thumbnailUrl: arneroock.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/arneroock"}
+    - {name: "site", link: "http://www.software-kanban.de"}
+-
+  id: 3
+  name: "Markus"
+  surname: "Andrezak"
+  title: "Business Matters Program Committee"
+  thumbnailUrl: markusandrezak.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/markusandrezak"}
+    - {name: "site", link: "http://ueberproduct.de"}
+-
+  id: 4
+  name: "Klaus"
+  surname: "Leopold"
+  title: "Business Matters Program Committee"
+  thumbnailUrl: klausleopold.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/klausleopold"}
+    - {name: "site", link: "https://www.leanability.com"}
+-
+  id: 5
+  name: "Pawel"
+  surname: "Brodzinki"
+  title: "Organizational Design Program Committee"
+  thumbnailUrl: pawelbrodzisnki.jpg
+  subTeam: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/pawelbrodzinski"}
+    - {name: "site", link: "http://brodzinski.com"} 
