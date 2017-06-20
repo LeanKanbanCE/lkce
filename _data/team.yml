@@ -53,9 +53,9 @@
 -
   id: 5
   name: "Pawel"
-  surname: "Brodzinki"
+  surname: "Brodzinski"
   title: "Organizational Design Program Committee"
-  thumbnailUrl: pawelbrodzisnki.jpg
+  thumbnailUrl: pawelbrodzinski.jpg
   subTeam: true
   social: 
     - {name: "twitter", link: "https://twitter.com/pawelbrodzinski"}
