@@ -53,6 +53,7 @@ bottomNavigationLinks:
 - {link: "http://bit.ly/cfp-lkce17", text: "Become a speaker"}
 rightNavigationButtons:
 - {link: "http://bit.ly/cfp-lkce17", text: "Become a speaker"}
+- {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "curio.jpg"
@@ -82,11 +83,11 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "speakers.jpg"
-rockstarSpeakersCount: 3
-rockstarSpeakersTitle: "Keynote Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+# Keynote Speakers Block
+keynoteSpeakersImage: "speakers.jpg"
+keynoteSpeakersCount: 3
+keynoteSpeakersTitle: "Keynote Speakers"
+keynoteSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"

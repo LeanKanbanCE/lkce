@@ -6,6 +6,6 @@
   title: "Chairman"
   bio: "David Anderson is a thought leader in managing effective teams. He leads a consulting, training and publishing and event planning business dedicated to developing, promoting and implementing sustainable evolutionary approaches for management of knowledge workers. He has 30+ years experience in the high technology industry starting with computer games in the early 1980’s. He has led software teams delivering superior productivity and quality using innovative agile methods at large companies such as Sprint and Motorola. David is the pioneer of the Kanban Method, an approach to evolutionary to improvement, and Enterprise Services Planning, a system of management for modern businesses operating in complex environments.</br></br>David is the author of three books, Kanban – Successful Evolutionary Change for your Technology Business; Lessons in Agile Management: On the Road to Kanban, and Agile Management for Software Engineering – Applying the Theory of Constraints for Business Results."
   thumbnailUrl: DavidAnderson.jpg
-  rockstar: true
+  keynote: true
   social: 
     - {name: "twitter", link: "http://twitter.com/lki_dja"}
