@@ -295,7 +295,7 @@
             geocoder = new google.maps.Geocoder();
 
             polyline = new google.maps.Polyline({
-                strokeColor: '#03a9f4',
+                strokeColor: '#f69f3c',
                 strokeOpacity: 1,
                 strokeWeight: 2
             });

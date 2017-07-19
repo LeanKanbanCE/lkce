@@ -3,7 +3,7 @@
   dateReadable: "October 24"
   tracks: 
     - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Web & Cloud", color: "#f69f3c"}
     - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
@@ -26,7 +26,7 @@
   dateReadable: "October 25"
   tracks: 
     - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Web & Cloud", color: "#f69f3c"}
   timeslots: 
     - {
     	startTime: "10:00",
