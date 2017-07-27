@@ -9,3 +9,14 @@
   keynote: true
   social: 
     - {name: "twitter", link: "http://twitter.com/lki_dja"}
+- 
+  id: 4
+  name: "Simon"
+  surname: "Wardley"
+  company: "Leading Edge Forum"
+  title: "Advisor"
+  bio: "Simon Wardley is a Researcher for Leading Edge Forum, a global research and thought leadership programme dedicated to helping large organizations reimagine their organizations and leadership for a technology-driven future. Simon is also lead practitioner for LEFs Wardley Maps Advisory service which helps client anticipate market and ecosystem developments so they know where to go and why.</br></br>Simon’s focus is on strategic play both at an industrial and global level. He is the author of multiple reports including Clash of the Titans: Can China Dethrone Silicon Valley?, a pioneer in the use of topographical intelligence within business, a former executive and an advisory board member for several successful start-ups. He has twice been voted as one of the UK's top 50 most influential people in technology. Simon has spent the last 20 years defining future strategies for companies in the FMCG, Retail and Technology industries. He is a passionate advocate in the fields of strategic play, organizational structure, open source and leadership and is a regular presenter at conferences worldwide."
+  thumbnailUrl: SimonWardley.jpg
+  keynote: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/swardley"}
