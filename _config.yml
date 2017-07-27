@@ -137,12 +137,12 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lu
 ticketsOffers:
  -
   name: "Single Ticket"
-  price: "900"
+  price: "1000"
   priceCurrency: "EUR (excl. 19% VAT)"
   ticketsNumber: ""
   ribbon: ""
   buyButtonLink: "http://ti.to/lkce/lkce17"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Buy Now - the price will go up"
   ticketContentList: ["2 Days", "3 Tracks", "Social Event"]
   validFrom: "2017-11-25T10:00"
   validThrough: "2014-09-30T23:59"
