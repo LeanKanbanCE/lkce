@@ -174,7 +174,7 @@ blogCommentsEnabled: false
 discusShortName: "lkce"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
@@ -198,18 +198,8 @@ directionDetailsTitle: "Get around Hamburg"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The airport is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.hamburg-airport.de/en/bus_rail_and_transfer.php">airport website</a>.'}
  - {title: "Public Transit", information: 'Go to Hamburg Dammtor for public transportation to the central station, the airport or anywhere else in Hamburg.'}
- - {title: "Hotels", information: 'Hamburg has lots of great hotels and hostels. More information will be available later.'}
+
 directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "http://www.grand-elysee.com/", text: "Grand Elysee"}
-     - {link: "http://www.radissonblu.com/en/hotel-hamburg", text: "Radisson Blu"}
-     - {link: "http://www.superbude.de/", text: "Superbude"}
-   -
 
 # Hackathon
 hackathonTitle: "Social Event"
