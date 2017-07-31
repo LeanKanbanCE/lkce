@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 0
   name: "David J."
   surname: "Anderson"
   company: "Lean Kanban Inc."
@@ -10,7 +10,7 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/lki_dja"}
 - 
-  id: 4
+  id: 1
   name: "Simon"
   surname: "Wardley"
   company: "Leading Edge Forum"
@@ -20,3 +20,15 @@
   keynote: true
   social: 
     - {name: "twitter", link: "http://twitter.com/swardley"}
+- 
+  id: 2
+  name: "Sara"
+  surname: "Öhrvall"
+  company: "Mindmill Network"
+  title: "Senior Advisor & Co-Founder"
+  bio: "Sara Öhrvall is a senior advisor and co-founder of Mindmill Network, an international network of experts advising companies and organizations in their digital transformation. She is a Board Director of Investor AB, the leading Nordic investment company, SEB, a leading Nordic financial services group, Vinnova, the Swedish government innovation agency, and Umeå University. She is also a columnist at Dagens Industri, the leading financial daily newspaper in Sweden, where she writes about technology trends and the chair of Pontus Schultz Foundation, which gathers some 300 CEOs, experts and change makers in the Swedish business community in yearly high-level events to advance sustainability for prosperity.</br></br>Sara’s background includes Senior Vice President, Research & Development at Bonnier, the leading Nordic media group of 175 companies in 15 countries. She was responsible for the digital transformation of new digital media products, including magazines, newspapers, books, TV, movies and games. During two years, she was based in San Francisco, starting up Bonnier’s R&D-initiative in the US.</br></br>Other experiences include Managing Director and partner of brand agency Differ, founder of the innovation agency Ninety and Product Development Director at Volvo Cars, where she was responsible for product development of jeep hybrids, sports and eco-friendly cars. Sara has worked in Tokyo, London, Singapore and Brussels and has a Master Degree from Umeå Business School in Sweden. She has also studied at Duke University and Parsons School of Design in the US."
+  thumbnailUrl: SaraOehrvall.jpg
+  keynote: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/SaraOhrvall"}
+    - {name: "site", link: "http://www.saraohrvall.com"}
