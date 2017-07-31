@@ -9,6 +9,8 @@
   keynote: true
   social: 
     - {name: "twitter", link: "http://twitter.com/lki_dja"}
+  ribbon: 
+    - {abbr: "Keynote", title: "Keynote"}
 - 
   id: 1
   name: "Simon"
@@ -20,6 +22,8 @@
   keynote: true
   social: 
     - {name: "twitter", link: "http://twitter.com/swardley"}
+  ribbon: 
+    - {abbr: "Keynote", title: "Keynote"}
 - 
   id: 2
   name: "Sara"
@@ -32,3 +36,5 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/SaraOhrvall"}
     - {name: "site", link: "http://www.saraohrvall.com"}
+  ribbon: 
+    - {abbr: "Keynote", title: "Keynote"}
