@@ -4,7 +4,6 @@
         <section class="image-section standart-height" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.directionDetailsImage }}');">
             <h3>{{ site.directionDetailsTitle }}</h3>
         </section>
-        <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-left">
                 {% assign animationDelay = 0 %}
                 {% for card in site.directionDetailsCards %}
@@ -17,27 +16,51 @@
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
                 {% endfor %}
-                
-                {% for wideCard in site.directionDetailsWideCards %}
-                <div class="col-md-12 col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="0">
-                    <div class="card questions">
-                        <h4>{{ wideCard.title }}</h4>
-                        {% for subCard in wideCard.subCards %}
-                        {% assign wideCardColWidth = 12 | divided_by: forloop.length %}
-                        <div class="col-md-{{ wideCardColWidth }} col-xs-12">
-                            <h5>{{ subCard.title }}</h5>
-                            <ul>
-                                {% for linkElement in subCard.links %}
-                                <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% endfor %}
             </div>
-        </div>
     </div>
 </section>
 <!-- End Direction Details -->
+
+<!-- Begin Hotels Details -->
+<section>
+    <div class="content-wrapper">   
+            <h3>{{ site.hotelsTitle }}</h3>
+        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
+            {% for hotel in site.data.hotels %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
+                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#hotelDetail-{{ hotel.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/hotels/' | append: hotel.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        {% if hotel.ribbon != null %}
+                        <ul class="ribbon-wrapper">
+                            {% for ribbon in hotel.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ hotel.name }}</h2>
+                                <div class="clearfix"></div>
+                                <span class="rating">{{ hotel.teaser}}</span>
+                            </div>
+                            {% for social in hotel.social %}
+                            <a href="{{ social.link }}" target="_blank">
+                                <svg class="icon icon-{{ social.name }}" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.name }}"></use>
+                                </svg>
+                            </a>
+                            {% endfor %}
+                        </figcaption>
+                        <p class="bio">{{ hotel.description | strip_html }}</p>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %}
+        </div>      
+    </div>
+</section>
+<!-- End Hotels Details -->

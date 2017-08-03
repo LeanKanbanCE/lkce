@@ -201,6 +201,9 @@ directionDetailsCards:
 
 directionDetailsWideCards:
 
+# Logistics Hotels Block
+hotelsTitle: "Hotels"
+
 # Hackathon
 hackathonTitle: "Social Event"
 enableHackathon: true

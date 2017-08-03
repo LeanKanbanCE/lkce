@@ -1,0 +1,52 @@
+-
+  id: 0
+  name: "Radisson Blu"
+  teaser: "5-star hotel next to the venue"
+  description: "The Grand Elysée Hotel Hamburg is the ideal starting point for your visit to Hamburg."
+  thumbnailUrl: RadissonBlu.jpg
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/Grand-Elys%C3%A9e-Hamburg-188365453166"}
+    - {name: "site", link: "http://www.radissonblu.com/en/hotel-hamburg"}
+  ribbon: 
+    - {abbr: "Discount Code", title: "Use LKCE17 on www.radissonblu.com"}
+- 
+  id: 1
+  name: "Hotel Vorbach"
+  teaser: "Close to the city centre"
+  description: "You will feel at home in the hotel Vorbach, which is situated in Harvestehude, one of Hamburg’s most beautiful areas.<br>Close to the city centre, in a quiet side street and only a stone’s throw from the pulsating life of the city.<br>The famed shopping areas of the inner city are almost around the corner. The congress center is a 12 minute foot walk away, and in only 8 minutes you are at the the shores of the Alster, Hamburg´s great lake.<br>Imbedded in a royal row of houses belonging to the Harvestehuder noblemen, the Hotel Vorbach offers the stylish ambiebte and the service of a house which has been self-run for three generations.<br>The rooms inside the historical building have the ample dimensions of the Hamburg “Gründerzeit” and a relaxing atmosphere, which is important to all our travelling guests.<br>Every room of our 190 bed house is decorated and maintained carefully for your high expectations.<br>Welcome to our hotel!"
+  thumbnailUrl: HotelVorbach.jpg
+  social: 
+    - {name: "site", link: "http://www.hotel-vorbach.de/index_en.htm"}
+  ribbon: 
+    - {abbr: "Discount Code", title: "Book my mail using LKCE2017"}
+- 
+  id: 2
+  name: "Hotel Alsterhof"
+  teaser: "Close to the Alster lake"
+  description: "Whether on a leisure stay or business trip: It couldn’t be more central! The privately run 3-star superior hotel Alster-Hof Hamburg is set in the city centre of Hamburg, right on the Alster lake. Both the Hamburg Trade Fair and Hamburg Congress Centre, as well as the railway station Dammtor, are only within a few minutes walking distance. The hotel is very close to shopping facilities and different sightseeing attractions. This is the way to enjoy a relaxed overnight stay in the metropolis on the Elbe: Enjoy one of our 108 rooms which are generously distributed across seven floors. Whether a single room, double room or apartment- we offer the right package for everyone. Traditional elements blend in with the pleasant modern furnishing. The lovingly furnished rooms and friendly environment will make your stay in Hamburg as pleasant as possible. Enjoy Hamburg with service and comfort: Start your day with our rich breakfast buffet that leaves no wishes unfulfilled. Wireless internet connection is available to you at any time throughout the hotel to connect you with events in the virtual world. After completing your daily schedule, you can work out in a well-equipped fitness area and relax in the sauna and solarium. Feel like a cozy nightcap in the evening? Our pleasure! Our bartenders at the hotel bar look forward to your visit. Come and meet us - and we hope to be able to meet you too, soon!"
+  thumbnailUrl: Alsterhof.jpg
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/hotelalsterhof"}
+    - {name: "twitter", link: "https://twitter.com/AlsterHof"}
+    - {name: "site", link: "https://www.alster-hof.de/?lang=en"}
+  ribbon: 
+    - {abbr: "Discount Code", title: "Book by mail using LKCE17"}
+-
+  id: 3
+  name: "Superbude St. Pauli"
+  teaser: "Ahoy at hostel St. Pauli"
+  description: "At Superbude we like to treat our guests like friends and show them the things we enjoy ourselves. We are right in the middle of the 'Schanzenviertel', a lively and arty district."
+  thumbnailUrl: superbude.jpg
+  social: 
+    - {name: "twitter", link: "http://twitter.com/superbude"}
+    - {name: "facebook", link: "https://www.facebook.com/superbude.hamburg"}
+    - {name: "site", link: "https://www.superbude.de/en/hostel-hamburg/st-pauli"}
+- 
+  id: 4
+  name: "Grand Elysee"
+  teaser: "5-star hotel next to the venue"
+  description: "The Grand Elysée Hotel Hamburg is the ideal starting point for your visit to Hamburg."
+  thumbnailUrl: grandElysee.jpg
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/Grand-Elys%C3%A9e-Hamburg-188365453166"}
+    - {name: "site", link: "https://www.grand-elysee.com/en/location"}
