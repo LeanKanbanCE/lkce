@@ -167,6 +167,7 @@ footerBlocks:
   links:
    - {permalink: "/impressum/", text: "Impressum"}
    - {permalink: "/termsoftrade/", text: "Terms of Trade"}
+   - {permalink: "/datenschutz/", text: "Datenschutz"}
 
 # Blog
 blogTitle: "Latest news"
