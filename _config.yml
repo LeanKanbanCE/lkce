@@ -50,10 +50,10 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/socialevent/", text: "Social Event"}
 bottomNavigationLinks:
-- {link: "http://bit.ly/cfp-lkce17", text: "Become a speaker"}
-rightNavigationButtons:
-- {link: "http://bit.ly/cfp-lkce17", text: "Become a speaker"}
 - {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
+rightNavigationButtons:
+- {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
+- {permalink: "/#tickets", text: "Buy your ticket"}
 
 # Hero Block
 heroImage: "aligned.png"
@@ -62,7 +62,6 @@ eventDate: "7th + 8th November, 2017"
 typeoutTextValues: '"", "2017"'
 typeoutFallback: "2017"
 heroButtons:
- - {link: "http://bit.ly/cfp-lkce17", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
