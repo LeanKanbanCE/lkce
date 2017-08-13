@@ -53,7 +53,7 @@ bottomNavigationLinks:
 - {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
 rightNavigationButtons:
 - {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
-- {permalink: "/#tickets", text: "Buy your ticket"}
+- {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "aligned.png"
