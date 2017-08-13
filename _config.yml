@@ -63,6 +63,7 @@ typeoutTextValues: '"", "2017"'
 typeoutFallback: "2017"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
