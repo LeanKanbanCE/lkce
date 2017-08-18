@@ -50,3 +50,5 @@
   social:
     - {name: "twitter", link: "http://twitter.com/salfreudenberg"}
     - {name: "site", link: "https://salfreudenberg.wordpress.com"}
+  ribbon:
+    - {abbr: "Organizational Design", title: "Organizational Design"}  
