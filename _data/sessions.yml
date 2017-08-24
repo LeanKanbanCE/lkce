@@ -14,7 +14,7 @@
   title: "Keynote: details coming soon"
   description: "more details coming soon"
   subtype: keynote
-  speakers: [0, 1, 2]
+  speakers: [1, 2]
   language: en
   complexity: "more details coming soon"
   video: "//player.vimeo.com/video/115797493"
@@ -23,7 +23,32 @@
   title: "more details coming soon"
   description: "more details coming soon"
   subtype: presentation
-  speakers: [3, 4, 5, 6]
+  speakers: [3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15]
   language: en
   complexity: "more details coming soon"
   video: "//player.vimeo.com/video/115797493"
+-
+  id: 003
+  title: "First Who, Then Why"
+  description: "Who we are, and how strongly we are attached to our identity, affects core decisions and decides whether we survive in a complex, rapidly changing world. Businesses like people have identities. Strategically, senior leaders need to be actively managing the identity of their businesses as a social entity. Simon Sinek told us that 'customer by your why' and it's become popular to focus on 'why'. 'Why' is important for success, but 'who' determines survival. There are several strategies that leaders can take to actively manage identity and to lead identity change during the emergence of disruptive innovation or changes in other externalities. This talk will help you understand your corporate social identity, how it affects your decision making, how it can lead to your extinction if not actively managed, and three approaches to managing identity to enable long term survival of a corporation."
+  subtype: keynote
+  speakers: [0]
+  language: en
+  complexity: "intermediate"
+-
+  id: 004
+  title: "From 20/20 Hindsight to ESP at Optimizely"
+  description: "Optimizely has grown from a single product company, built by a handful of engineers and designers, to a multi-product company built by teams of engineers and designers. But its development processes didn't adapt fast enough to keep up with Optimizely's growth. Engineers had too many dependencies in flight, designers were added too late in the process to be effective, and the highest value work wasn't properly prioritized. Join us to hear how we implemented ESP and the 7 kanban cadences to increase our velocity while decreasing our time to customer value across multiple products and delivery teams."
+  subtype: presentation
+  speakers: [11, 12]
+  language: en
+  complexity: "beginner"
+-
+  id: 005
+  title: "Whole Organisation Kanban: how to start; how to scale"
+  description: "When considering how to use the Kanban method throughout the whole of your organisation, there are two key questions:</br></br>* how to start?</br>and</br>
+  * how to scale?</br></br>Kanban already contains answers to these questions. _Start_ from where you are, without initially changing current processes, roles or responsibilities; see your work as a flow of value to your customers; and agree together to evolve the processes, responsibilities, policies and organisation, in order to make services more fit for the customers' purposes. _Scale_ by seeing your organisation as a network of interdependent services; scaling out sequentially one service at a time; designing each from first principles; and using management feedback loops on specific cadences, to balance demand with capability, and enable the organisation to service its customers' needs ever more effectively.</br></br>Such simple explanations hide the hard work, determination and leadership (at all levels) that is needed to achieve true and rapid transformation, as well as on-going continuous improvement. Thus the presentation will look both at the 'How-tos', and at the experience of organisations on this journey, to learn what 'whole organisation Kanban' means and how it can be achieved."
+  subtype: presentation
+  speakers: [16]
+  language: en
+  complexity: "intermediate"
