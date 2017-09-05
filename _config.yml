@@ -50,10 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/socialevent/", text: "Social Event"}
 bottomNavigationLinks:
-- {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
+  - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
-- {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
-- {permalink: "/#tickets", text: "Buy tickets"}
+  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "aligned.png"
@@ -63,7 +62,6 @@ typeoutTextValues: '"", "2017"'
 typeoutFallback: "2017"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "http://bit.ly/cfp-lkce17", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
