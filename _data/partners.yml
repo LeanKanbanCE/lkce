@@ -1,8 +1,9 @@
-- 
+-
   group: "Diamond sponsor"
-  elements: 
+  elements:
     - {name: "Kanbanize", description: "Kanbanize", link: "https://kanbanize.com", imageUrl: "kanbanize.svg"}
-- 
+-
   group: "Platinum sponsor"
-  elements: 
+  elements:
     - {name: "Leanovate", description: "Leanovate", link: "https://leanovate.de", imageUrl: "leanovate.svg"}
+    - {name: "SwiftKanban", description: "SwiftKanban", link: "https://www.digite.com/swiftkanban/", imageUrl: "SwiftKanban.png"}
