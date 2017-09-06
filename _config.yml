@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- #- {permalink: "/socialevent/", text: "Social Event"}
+ - {permalink: "/socialevent/", text: "Social Event"}
 bottomNavigationLinks:
   - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
@@ -76,7 +76,7 @@ statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of Lean and Kanban"}
  - {count: "30", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus lounge"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -203,45 +203,37 @@ directionDetailsWideCards:
 # Logistics Hotels Block
 hotelsTitle: "Hotels"
 
-# Hackathon
-hackathonTitle: "Social Event"
-enableHackathon: true
+# socialevent
+socialeventTitle: "Social Event"
+enablesocialevent: true
 
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+# About Social Event Block
+socialEventBlockTitle: "About Tropen-Aquarium Hagenbeck"
+aboutSocialEvent: "In May 2007, 100 years after the opening of the world renowned zoo, Hagenbeck gave the all-clear for its new recreational attraction: the Tropical World Adventure Aquarium. That finally gives the citizens of Hamburg and the steadily growing number of tourists to the Hanseatic city an aquarium of the highest international standard. This new attraction has given Hamburg, the waterside city and “gateway to the world“, an access to the flora and fauna of the equatorial regions. For the visitor, a truly unique world of adventure opens itself up which is designed as though Carl Hagenbeck himself had done it: with barless open enclosures, right up close to the animals. Visitors can see 14,300 exotic animals in their habitat – on land, in the water and in caves.</br></br>
 
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+The concept: animals ashore, in water and in caves 300 animals live in the Tropen-Aquarium, some are endangered species from the equatorial regions. In all a total of 14,300 exotic animals have found a home here in Hamburg. The round tour leads the visitor through several theme areas: the tropical and sub-tropical seas, forests and the world of caves. This combination is unique in the world. The species-specific and close-to-nature design of the enclosures together with the fascinating presentation of the animals results in the illusion for the visitor of finding themselves transported into the middle of their habitat. In the biotopes, animals whose territory would also overlap in the wild share a habitat with each other.</br></br>
 
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+Visitors are struck by the unbelievable multiplicity of colours and forms of the living coral reef.</br></br>
 
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
+The multitude of fresh and salt water pools are home to red lion fish, moray eels, unusua lschooling fish and rarities of the aquatic habitat. "
+
+# socialevent Location Block
+socialeventLocationBlockTitle: "Location"
+socialeventLocationName: "Tropen-Aquarium Hagenbeck"
+socialeventLocationLink: "http://www.hagenbeck.de/en/tropen-aquarium/start.html"
+socialeventStreetAddress: "Lokstedter Grenzstraße 2"
+socialeventAddressLocality: "Hamburg"
+socialeventAddressLocalityRegion: "Hamburg"
+socialeventPostalCode: "22527"
+socialeventAddressCountry: "Germany"
+socialeventTimeTitle: "Meet new friends"
+socialeventStartTime: "2017-11-07T19:00"
+socialeventDoorTime: "19:00"
+socialeventEndTime: "2017-11-07T23:00"
 viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
-ackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+socialeventPlaceCoordinates: "53.5953473, 9.9394337"
+socialeventMapCenterCoordinates: "53.5953473, 9.9394337"
+socialeventMapMobileCenterCoordinates: "53.5953473, 9.9394337"
+socialeventPlaceCoordinates: "53.5953473, 9.9394337"
+socialeventMapCenterCoordinates: "53.5953473, 9.9394337"
+socialeventMapMobileCenterCoordinates: "53.5953473, 9.9394337"

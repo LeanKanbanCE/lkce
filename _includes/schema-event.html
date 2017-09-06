@@ -40,30 +40,30 @@
         // },
         "subEvent" : {
             "@type" : "Event",
-            "name" : "{{ site.hackathonTitle }}",
-            "description": "{{ site.hackathonRows[0].details }}",
+            "name" : "{{ site.socialeventTitle }}",
+            "description": "{{ site.socialeventRows[0].details }}",
             "image" : "{{ site.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
-            "url" : "{{ site.url | append: site.baseurl }}/hackathon/",
-            "startDate" : "{{ site.hackathonStartTime }}",
-            "doorTime" : "{{ site.hackathonDoorTime }}",
-            "endDate" : "{{ site.hackathonEndTime }}",
+            "url" : "{{ site.url | append: site.baseurl }}/socialevent/",
+            "startDate" : "{{ site.socialeventStartTime }}",
+            "doorTime" : "{{ site.socialeventDoorTime }}",
+            "endDate" : "{{ site.socialeventEndTime }}",
             "location" : {
                 "@type" : "Place",
-                "name" : "{{ site.hackathonLocationName }}",
-                "sameAs" : "{{ site.hackathonLocationLink }}",
+                "name" : "{{ site.socialeventLocationName }}",
+                "sameAs" : "{{ site.socialeventLocationLink }}",
                 "address" : {
                     "@type" : "PostalAddress",
-                    "streetAddress" : "{{ site.hackathonStreetAddress }}",
-                    "addressLocality" : "{{ site.hackathonAddressLocality }}",
-                    "addressRegion" : "{{ site.hackathonAddressLocalityRegion }}",
-                    "postalCode" : "{{ site.hackathonPostalCode }}",
-                    "addressCountry" : "{{ site.hackathonAddressCountry }}"
+                    "streetAddress" : "{{ site.socialeventStreetAddress }}",
+                    "addressLocality" : "{{ site.socialeventAddressLocality }}",
+                    "addressRegion" : "{{ site.socialeventAddressLocalityRegion }}",
+                    "postalCode" : "{{ site.socialeventPostalCode }}",
+                    "addressCountry" : "{{ site.socialeventAddressCountry }}"
                 },
                 "geo" : {
                     "@type" : "GeoCoordinates",
-                    {% assign hackathonCoordinates = site.hackathonPlaceCoordinates | split:"," %}
-                    "latitude" : "{{ hackathonCoordinates[0] }}",
-                    "longitude" : "{{ hackathonCoordinates[1] }}"
+                    {% assign socialeventCoordinates = site.socialeventPlaceCoordinates | split:"," %}
+                    "latitude" : "{{ socialeventCoordinates[0] }}",
+                    "longitude" : "{{ socialeventCoordinates[1] }}"
                 }
             }
         },
