@@ -23,7 +23,7 @@
   title: "more details coming soon"
   description: "more details coming soon"
   subtype: presentation
-  speakers: [3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15]
+  speakers: [3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
   language: en
   complexity: "more details coming soon"
   video: "//player.vimeo.com/video/115797493"
@@ -52,3 +52,35 @@
   speakers: [16]
   language: en
   complexity: "intermediate"
+-
+  id: 006
+  title: "Kanban Maturity Model: Why should you care about it?"
+  description: "Once understood that Kanban is a lot more than sticky notes on a white board a number of additional questions arise. Executives want to know whether and how Kanban can help to develop the agility of their organizations and their resilience in dynamic business environments. They want to see an improvement path rather than a single step initiative for introducing the six Kanban practices. Project, Service and Quality Managers, and teams need guidance on how to put the practices in place while maintaining the conformance to other organizational standards. Coaches look for most appropriate approaches to introducing change in organizations.</br></br>Where can we find answers to so diverse questions?</br></br>This talk will be focussed on two key points: what the Kanban Maturity Model brings to managers, teams and coaches, and how to use it for evolving organizations’ capability to meet their business purpose."
+  subtype: presentation
+  speakers: [17]
+  language: en
+  complexity: "intermediate"
+-
+  id: 007
+  title: "In 18 Monaten von Quartalsreleases zu Flow mit 2 Wochen Lead-Time"
+  description: "In dieser Fallstudie zeigen wir den Weg, den mehrere international verteilte Teams von 'Wir tun was gerade notwendig ist' zu 'wir kontrollieren den Fluss (der Arbeit)' gegangen sind. Anfang 2016 fingen mehrere Teams bei arvato systems mit einer Initiative zur Verbesserung ihrer Arbeitsweise an und entschieden sich für Kanban als Werkzeug zur Unterstützung bei dieser Aufgabe. Nach mehreren Iteration sowohl des System- als auch des Board-Designs haben wir heute eine Reihe von zusammenarbeitenden Services, die aktiv mit einem Blick auf den Fluss der Arbeit gemanaged werden. In diesem Vortrag zeigen wir sowohl die Dinge, die wir ausprobiert haben, die nicht so gut funktioniert haben, als auch diejenigen, die sich entwickelt haben und die funktionieren."
+  subtype: presentation
+  speakers: [18]
+  language: en
+  complexity: "intermediate"
+-
+  id: 008
+  title: "Kanban in SAFe waters"
+  description: "As part of a wider SAFe initiative at the Berenberg private bank in Hamburg, the IT Operations department (consisting of appr. 80 people in 8 teams, providing the IT services backbone for about 800 people) initiated an agile / Kanban transition. In this talk, we will tell the unpolished story about how the Kanban implementation that started at the end of 2016 went, from both the external Kanban coaches' and the Berenberg Program Manager’s perspectives. The initiative is still ongoing. To date, a colorful mix of technical and non-technical teams within IT Operations have been partly or fully 'kanbanized'. Not all teams are alike! We will share the spectrum we had there, and the different characteristics and challenges present. We will use this example to illustrate how a Kanban transition is different from a 'classic' agile transition eg. a Scrum adoption. As this implementation was part of a wider SAFe transition within the bank, we will also talk about touch points that we had (and that we had not), and how we aligned with the SAFe structure. As a successor to an Excel sheet, a portfolio-level board feeding into the teams’ systems has been established recently, and we’ll have more experiences to share there. So far, it has worked brilliantly as a catalyst for communication amongst the management team. In this talk, we will share our experiences in the form of a dialogue, covering the good, the bad, and the ugly. As a side note, you will also hear why we think 'Kanban is for IT-Ops only' is really bullshit :)"
+  subtype: presentation
+  speakers: [19]
+  language: de
+  complexity: "intermediate"
+-
+  id: 009
+  title: "Implement ALL the cadences!?"
+  description: "My plan is to show a brief overview of the cadences and explain the reason why they are relevant in general. Then, I will give an introduction to the case study and give detailed facts about how we implemented the different meetings. We will reflect on the why again, this time with direct reference to the need of the company in the case study. Can be held in German, too."
+  subtype: presentation
+  speakers: [20]
+  language: de
+  complexity: "beginner"

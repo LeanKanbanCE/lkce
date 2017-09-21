@@ -95,7 +95,7 @@
     - {name: "twitter", link: "https://twitter.com/arneroock"}
     - {name: "site", link: "http://software-kanban.de"}
   ribbon:
-    - {abbr: "Beyond IT", title: "Beyond IT"}
+    - {abbr: "Organizational Design", title: "Organizational Design"}
 -
   id: 7
   name: "Leopold"
@@ -156,7 +156,7 @@
     - {name: "twitter", link: "https://twitter.com/mattphilip"}
     - {name: "site", link: "http://mattphilip.wordpress.com"}
   ribbon:
-    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "Workshop", title: "Workshop"}
 -
   id: 11
   name: "Jeff"
@@ -249,4 +249,267 @@
   ribbon:
     - {abbr: "Beyond IT", title: "Beyond IT"}
     - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 17
+  name: "Teodora"
+  surname: "Bozheva"
+  company: "Berriprocess"
+  title: "Co-founder"
+  bio: "Teodora Bozheva (@tbozheva) has more than 20 years of experience in the field of software development. Working as a programmer and later as a project manager she acquired good knowledge about how to deal with customers and build software products that satisfy them.  She has personally undergone all the challenges in meeting tough schedules and managing projects dependencies and limited resources. Teodora is passioned about helping traditional management companies to transition to flexible and efficient organizations, capable to thrive in dynamic work environments. With this aim in 2011 she founded Berriprocess. Teodora is Accredited Kanban Trainier and Certified Kanban Coaching Professional. She had also been a Certified CMMI Instructor for 15 years. Teodora is based in Bilbao, Spain."
+  thumbnailUrl: TeodoraBozheva.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/teodorabozheva"}
+    - {name: "twitter", link: "https://twitter.com/tbozheva"}
+    - {name: "site", link: "http://berriprocess.com/en/category/blog_en"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 18
+  name: "Michael"
+  surname: "Mahlberg"
+  company: "The Consulting Guild GmbH"
+  title: "CEO"
+  bio: "Michael Mahlberg ist Consultant und Coach und betreibt sein eigenes Unternehmen für Methodenberatung in Köln. Als 'Early Adopter' agiler Methoden ist er aktiv in der 'Leanen' und Agilen Community. Er ist beispielsweise Mitgründer der Limited WIP Society Cologne, einer der Organisatoren des Coach Refelection Day Cologne und startete 2014 in Köln die Initiative zur 'Agilen Intervision'. Beruflich verwendet er heutzutage den Großteil seiner Zeit dazu, Kunden zwischen Startup und Konzern bei ihrer Suche nach effektiverer Arbeit zu unterstützen – meistens durch die Anwendung von Konzepten aus den Bereichen Lean und Agile."
+  thumbnailUrl: MichaelMahlberg.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/michaelmahlberg"}
+    - {name: "twitter", link: "https://twitter.com/mmahlberg"}
+    - {name: "site", link: "http://www.michaelmahlberg.de"}
+  ribbon:
+    - {abbr: "German", title: "German"}
+    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 19
+  name: "Susanne"
+  surname: "Bartel"
+  company: "flow.hamburg"
+  title: "Agile and Kanban Coach"
+  bio: "Susanne is a freelancing Kanban coach and trainer. She lives with her family in Hamburg. Susanne works with teams, leaders, and organizations in and at their work systems. She is passionate about shaping people's working environments to the better, while increasing the effectiveness of the organization as a whole. As a Kanban coach she has learned to appreciate the evolutionary way of change, appreciating the human nature. As a trainer, she loves to spark the Kanban fire in people. Susanne has a strong information technology background, and enjoys working with clients in different industries today. She loves spending time with her family, playing nerdy board games, swimming, having time to read a good book, and traveling to Scandinavia."
+  thumbnailUrl: SusanneBartel.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/susannebartel"}
+    - {name: "twitter", link: "https://twitter.com/susannebartel"}
+    - {name: "site", link: "https://www.flow.hamburg"}
+  ribbon:
+    - {abbr: "German", title: "German"}
+    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 20
+  name: "Florian"
+  surname: "Eisenberg"
+  company: "Self-Employed"
+  title: "Kanban Trainer and Coach"
+  bio: "Florian is a self-employed coach focused on helping his customers achieve more. While originating from software development, he is now helping his customers mostly on a management level. He thinks that improving the system – especially the overall way of working together – is more helpful than agilizing standalone  teams.
+Florian has been an Accredited Kanban Trainer and Kanban Coaching Professional since the early days. His love for Kanban originates in the homane approach of beginning with what you do now."
+  thumbnailUrl: FlorianEisenberg.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/florian-eisenberg-34668b56/"}
+    - {name: "twitter", link: "https://twitter.com/fjeisenberg"}
+  ribbon:
+    - {abbr: "German", title: "German"}
+    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 21
+  name: "Katya"
+  surname: "Terekhova"
+  company: "Arello Mobile"
+  title: "Project Manager"
+  bio: "Katya Terekhova is a project manager at Arello Mobile in Novosibirsk, Russia. She has been experimenting with new ways of working over the past 3 years. She's been lucky to lead large projects with lots of autonomy to experiment and with talented people open to new ideas.</br></br>Katya is an alumni of the Kanban Coaching Masterclass and Lean Kanban India Conference."
+  thumbnailUrl: KatyaTerekhova.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ekaterina-terekhova-b3720412a/"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
+-
+  id: 22
+  name: "Jose"
+  surname: "Casal"
+  company: "Actineo Consulting LLP"
+  title: "Founder. Lean & Agile Coach and Trainer"
+  bio: "Jose Casal is a Business Agility consultant and coach. Starting out as a software developer, Jose quickly realised that he loved helping others succeed using agile.</br></br>He is intensely passionate about modern management methodologies focusing primarily on Lean Kanban, agile and strengths-based leadership. Jose is both a trainer and a student, striving to learn continuously and to help introduce or support the use of agile principles in companies. He has worked with large private and public sector organisations such as Ding.com, Vonage, Nexmo, The United Nations, The Scottish Government, Credit Suisse, Capita, Student Loans Company, NHS Choices, University of Kent and P&O Ferries.</br></br>Jose is the Founder and Chair of the BCS Agile Methods Specialist Group in the UK,. He is also the chair of the London Lean Kanban Days (LLKD) and Playcamp London conferences.  As an Accredited Kanban Trainer (AKT) Jose teaches certified Kanban as well as other courses in other areas of agility."
+  thumbnailUrl: JoseCasal.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jcasal"}
+    - {name: "twitter", link: "https://twitter.com/jose_casal"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+-
+  id: 23
+  name: "Jean-Paul"
+  surname: "Bayley"
+  company: "Bay Spark Ltd."
+  title: "Lead Consultant"
+  bio: "Jean-Paul Bayley is the Lead Consultant of Bay Spark Ltd., a firm specialising in business agility and organisational development.</br></br>JP led the Agile Transformation at Kaplan International and oversaw the significant growth of the development team. He i s a committed people person and is passionate about the use of play and games at work. Colleagues say he is a 'competent, good-natured facilitator that efficiently enables cultural change in teams and organisations'.</br></br>JP is a n organiser of the Playcamp London conference , an Accredited Kanban Trainer (AKT), an Innovation Games Certified Collaboration Instructor (CCI) and a Certified Trainer for 'Training from the BACK of the Room!'."
+  thumbnailUrl: JPBayley.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jpbayley"}
+    - {name: "twitter", link: "https://twitter.com/jpbayley"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+-
+  id: 24
+  name: "Dimitar"
+  surname: "Karaivanov"
+  company: "Kanbanize"
+  title: "CEO"
+  bio: "Dimitar is a Lean-thinker and a Kanban practitioner with background in the areas of software development and process improvement. Through the success of his company, he has proven that Kanban can be used for product development and not just change management activities. He is passionate about achieving extreme performance at scale and applying Lean / Kanban outside IT."
+  thumbnailUrl: DimitarKaraivanov.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dimitar-karaivanov"}
+    - {name: "twitter", link: "https://twitter.com/DimitarKaraivan"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
+-
+  id: 25
+  name: "Anna"
+  surname: "Miedzianowska"
+  company: "Ocadoa Technology"
+  title: "Head of Product"
+  bio: "I’m Anna Miedzianowska (for English speakers pronounced: Mid-Ja-Noff-Ska). I am a product professional with 14 years of experience in software development and product management across different countries – Poland, Ireland and the UK. I am a strong advocate of user-centric approach and customer dialogue. I believe that providing a strong product vision, encouraging collaboration and motivating the teams are the key to success of the product."
+  thumbnailUrl: AnnaMiedzianowska.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ankamiedzianka"}
+    - {name: "twitter", link: "https://twitter.com/ankamiedzianka"}
+    - {name: "site", link: "https://productownerblog.wordpress.com/"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
+-
+  id: 26
+  name: "Joey"
+  surname: "Spooner"
+  company: "TriTech Enterprise Systems Inc."
+  title: "Accredited Kanban Trainer and Kanban Coaching Professional"
+  bio: "Joey Spooner is an Accredited Kanban Trainer and Kanban Coaching Professional at TriTech Enterprise Systems, Inc. In a 15 year career spanning the communications, insurance, higher education, non-profit, and government sectors, Joey has been a software developer, IT director, strategic analyst, and technical expert. He blogs at www.spoonstein.com and tweets as @spoonstein. Joey holds a Bachelors in Business Administration."
+  thumbnailUrl: JoeySpooner.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/spoonstein"}
+    - {name: "twitter", link: "https://twitter.com/spoonstein"}
+    - {name: "site", link: "http://www.spoonstein.com"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 27
+  name: "Tobias"
+  surname: "Kupke"
+  company: "die kartenmacherei"
+  title: "Head of Online Marketing & Business Intelligence"
+  bio: "Tobias Kupke is Head of Online Marketing & Business Intelligence at kartenmacherei, a leading supplier for personalized stationery in Europe. With an engineering background, he entered the internet world 6 years ago gaining experience at a highly VC-funded E-Commerce Company. Being a data guy in and out, he focused on Business Intelligence and Performance Marketing and worked as freelance consultant. With this experience, he actively shapes data-driven decision making at kartenmacherei - and is well known for his kite surfing excursions on the weekends."
+  thumbnailUrl: TobiasKupke.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tobias-kupke-8b324468"}
+  ribbon:
+    - {abbr: "Beyond IT", title: "Beyond IT"}
+-
+  id: 28
+  name: "Matthias"
+  surname: "Patzak"
+  company: "AutoScout24"
+  title: "Vice President IT, CTO"
+  bio: "Matthias loves doing tech. For 13 years now he is a strong believer in working the Agile Way to build successful companies. His passion is on traveling the world, setting up performing agile organizations and building cloud native systems . After 8 years working for AutoScout24 as Vice President IT he is currently founding his own business becoming a digital advisor to help others delivering more impact..."
+  thumbnailUrl: MatthiasPatzak.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matthias-patzak-7157415b"}
+    - {name: "twitter", link: "https://twitter.com/MatthiasPatzak"}
+  ribbon:
+    - {abbr: "Business Matters", title: "Business Matters"}
+-
+  id: 29
+  name: "Siegfried"
+  surname: "Kaltenecker"
+  company: "Loop Consultancy GmbH"
+  title: "Managing Director"
+  bio: "Siegfried Kaltenecker is the joint managing director of Loop Consultancy GmbH, based in Vienna. As an expert in lean and agile change management, Sigi has already been involved with multiple companies such as bwin.party, eSailors, Magna, RWE, Swiss Federal Railways, and Thales Group. He authored the InfoQ book on Leading Self-Organising Teams, co-authored Kanban Change Leadership (Wiley) and is currently translating his latest book on Self-organising Enterprises (to be published end of 2017)"
+  thumbnailUrl: SigiKaltenecker.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/siegfried-kaltenecker-b6839a24"}
+    - {name: "twitter", link: "https://twitter.com/SigiKaltenecker"}
+  ribbon:
+    - {abbr: "Business Matters", title: "Business Matters"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 30
+  name: "Lars"
+  surname: "Lentfer"
+  company: "OTTO"
+  title: "Team Lead"
+  bio: "Lars Lentfer ist Teamleiter in der technischen Produktentwicklung im e-Commerce bei OTTO. Neben seiner technischen Passion für Frontend Performance lebt er agiles Mindset, ist Mitinitiator des Level 2 Kanban Koordinationsboards und gibt Kanban Workshops.
+Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die weltweite Auslieferung und Performance der Landingpages sowie des Webshops.  Als Developer war er unter anderem bei Xing im mobile Team, Wunderloop sowie Rapp Collins unterwegs."
+  thumbnailUrl: LarsLentfer.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lars-lentfer-b209971a"}
+    - {name: "twitter", link: "https://twitter.com/dread71"}
+  ribbon:
+    - {abbr: "Business Matters", title: "Business Matters"}
+    - {abbr: "German", title: "German"}
+-
+  id: 31
+  name: "Daniel"
+  surname: "Schimera"
+  company: "REWE Digital"
+  title: "Tribe Master"
+  bio: "Daniel Schimera is working as Tribe Master in the Technology Department of REWE Digital. His domain is delivery in scaled product development and organisational development. His focus topics are self organization around value streams and cooperation transformation."
+  thumbnailUrl: DanielSchimera.jpg
+  keynote: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/SchimeraD"}
+  ribbon:
+    - {abbr: "Business Matters", title: "Business Matters"}
+    - {abbr: "German", title: "German"}
+-
+  id: 32
+  name: "Patrick"
+  surname: "Steyaert"
+  company: "Okaloa"
+  title: "Founder"
+  bio: "Patrick Steyaert is founder of Okaloa. He trains and coaches clients in flow thinking as a way to move towards true Business Agility. Patrick is the co-creator of Okaloa Flowlab business simulations to experience flow and to learn about enterprise flow. He is the Brickell Key Award Winner 2015 for outstanding contribution to the Kanban community with Discovery Kanban and is an LKU Accredited Kanban Trainer and Kanban Coaching Professional. He is a regular speaker at international conferences."
+  thumbnailUrl: PatrickSteyaert.jpg
+  keynote: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/PatrickSteyaert"}
+    - {name: "site", link: "https://www.okaloa.com"}
+  ribbon:
+    - {abbr: "Workshop", title: "Workshop"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 33
+  name: "Pawel"
+  surname: "Brodzinski"
+  company: "Lunar Logic"
+  title: "CEO"
+  bio: "Pawel Brodzinski is a leader, a team builder and a change agent, but most of all he is an always experimenting practitioner trying to make his teams work better (and learn in the process). He has been a leader of the first Kanban implementation in software industry in Poland.</br></br>He is a Brickell Key Award nominee and the first Pole to become a Kanban Coaching Professional. Pawel leads Lunar Logic, a web software shop in Poland where he practices of what he preaches. He blogs sharing his thoughts on broadly understood software project management at http://brodzinski.com. Pawel is passionate about building great teams, creating superb organizational culture and helping people to grow."
+  thumbnailUrl: pawelbrodzinski.jpg
+  keynote: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/pawelbrodzinski"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pawelbrodzinski"}
+    - {name: "site", link: "http://brodzinski.com"}
+  ribbon:
+    - {abbr: "Organizational Design", title: "Organizational Design"}
     - {abbr: "KCP", title: "Kanban Coaching Professional"}

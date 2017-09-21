@@ -76,7 +76,7 @@ statisticBlock:
  - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of Lean and Kanban"}
  - {count: "30", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus workshops}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus workshops"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
