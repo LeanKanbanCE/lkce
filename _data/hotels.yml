@@ -2,24 +2,22 @@
   id: 0
   name: "Radisson Blu"
   teaser: "5-star hotel next to the venue"
-  description: "The Grand Elysée Hotel Hamburg is the ideal starting point for your visit to Hamburg."
+  description: "Central business hotel in Hamburg with stunning views"
   thumbnailUrl: RadissonBlu.jpg
-  social: 
+  social:
     - {name: "facebook", link: "https://www.facebook.com/Grand-Elys%C3%A9e-Hamburg-188365453166"}
     - {name: "site", link: "http://www.radissonblu.com/en/hotel-hamburg"}
-  ribbon: 
+  ribbon:
     - {abbr: "Discount Code", title: "Use LKCE17 on www.radissonblu.com"}
-- 
+-
   id: 1
   name: "Hotel Vorbach"
   teaser: "Close to the city centre"
   description: "You will feel at home in the hotel Vorbach, which is situated in Harvestehude, one of Hamburg’s most beautiful areas.<br>Close to the city centre, in a quiet side street and only a stone’s throw from the pulsating life of the city.<br>The famed shopping areas of the inner city are almost around the corner. The congress center is a 12 minute foot walk away, and in only 8 minutes you are at the the shores of the Alster, Hamburg´s great lake.<br>Imbedded in a royal row of houses belonging to the Harvestehuder noblemen, the Hotel Vorbach offers the stylish ambiebte and the service of a house which has been self-run for three generations.<br>The rooms inside the historical building have the ample dimensions of the Hamburg “Gründerzeit” and a relaxing atmosphere, which is important to all our travelling guests.<br>Every room of our 190 bed house is decorated and maintained carefully for your high expectations.<br>Welcome to our hotel!"
   thumbnailUrl: HotelVorbach.jpg
-  social: 
+  social:
     - {name: "site", link: "http://www.hotel-vorbach.de/index_en.htm"}
-  ribbon: 
-    - {abbr: "Discount Code", title: "Book my mail using LKCE2017"}
-- 
+-
   id: 2
   name: "Hotel Alsterhof"
   teaser: "Close to the Alster lake"
@@ -29,7 +27,7 @@
     - {name: "facebook", link: "https://www.facebook.com/hotelalsterhof"}
     - {name: "twitter", link: "https://twitter.com/AlsterHof"}
     - {name: "site", link: "https://www.alster-hof.de/?lang=en"}
-  ribbon: 
+  ribbon:
     - {abbr: "Discount Code", title: "Book by mail using LKCE17"}
 -
   id: 3
@@ -37,16 +35,16 @@
   teaser: "Ahoy at hostel St. Pauli"
   description: "At Superbude we like to treat our guests like friends and show them the things we enjoy ourselves. We are right in the middle of the 'Schanzenviertel', a lively and arty district."
   thumbnailUrl: superbude.jpg
-  social: 
+  social:
     - {name: "twitter", link: "http://twitter.com/superbude"}
     - {name: "facebook", link: "https://www.facebook.com/superbude.hamburg"}
     - {name: "site", link: "https://www.superbude.de/en/hostel-hamburg/st-pauli"}
-- 
+-
   id: 4
   name: "Grand Elysee"
   teaser: "5-star hotel next to the venue"
   description: "The Grand Elysée Hotel Hamburg is the ideal starting point for your visit to Hamburg."
   thumbnailUrl: grandElysee.jpg
-  social: 
+  social:
     - {name: "facebook", link: "https://www.facebook.com/Grand-Elys%C3%A9e-Hamburg-188365453166"}
     - {name: "site", link: "https://www.grand-elysee.com/en/location"}
