@@ -1,4 +1,9 @@
 -
+  id: 308
+  title: "Intro"
+  place: "Upstream"
+  description: "The best time to talk with speakers and attendees"
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
@@ -7,14 +12,28 @@
 -
   id: 503
   title: "Lunch Break"
-  place: "Dining room"
+  place: "Hall"
   service: true
+-
+  id: 504
+  title: "Room Change"
+  place: ""
+  service: false
 -
   id: 001
   title: "Keynote: details coming soon"
   description: "more details coming soon"
   subtype: keynote
-  speakers: [1, 2]
+  speakers: [1]
+  language: en
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 040
+  title: "Keynote: details coming soon"
+  description: "more details coming soon"
+  subtype: keynote
+  speakers: [2]
   language: en
   complexity: "more details coming soon"
   video: "//player.vimeo.com/video/115797493"
@@ -158,10 +177,10 @@
   complexity: "intermediate"
 -
   id: 017
-  title: "Hearding Cats: Wie koordiniere ich 20+ agile Teams um an den richtigen Dingen zu arbeiten"
-  description: "<p>Bei OTTO haben wir 20+ agile Teams die wissen was für ihren Kontext am Besten ist. Aber zahlt das auch auf die Unternehmensstrategie ein? Wie schafft man es, dass die Teams sich nicht im Abhängigkeitsdschungel zu anderen Teams verlieren und auch außerhalb des eigenen Scopes denken. Und wie hängt die Strategie mit der Koordination und dem operativen Umsetzen zusammen?</p><p>In dieser session versuchen wir genau diesen Fragen auf den Grund zu gehen. Wir teilen Erkenntnisse wie wir es bei OTTO schaffen (wollen), dass alle an einem Strang ziehen, um das Unternehmen voranzubringen. Dabei geben wir Einsichten in die Einführung eines Koordinationsboards auf Level 2 Ebene, inklusive Sync nach oben und unten, sowie aller Herausforderungen und Erfahrungen, die wir in unserem Bereich gesammelt haben.</p>"
+  title: "Faktor Mensch - 350 Menschen, ein Ziel @OTTO.de"
+  description: "<p>Bei OTTO haben wir 20+ agile Teams die wissen was für ihren Kontext am Besten ist.Aber zahlt das auch auf die Unternehmensstrategie ein? Wie schafft man es, dass die Teams sich nicht im Abhängigkeitsdschungel zu anderen Teams verlieren und auch außerhalb des eigenen Scopes denken. Und wie hängt die Strategie mit der Koordination von Themen und dem operativen Umsetzen zusammen?</p><p>In dieser Session versuchen wir genau diesen Fragen auf den Grund zu gehen.</p><p>Wir teilen Erkenntnisse wie wir es bei OTTO schaffen (wollen) ein übergreifendes Alignment herzustellen, um das Unternehmen als Ganzes voranzubringen.</p><p>Dabei geben wir Einsichten in die Einführung eines Koordinationsboards auf Level 2 Ebene,  sowie aller Herausforderungen und Erfahrungen, die wir in unserem Bereich gesammelt haben- insbesondere mit dem Faktor Mensch.</p>"
   subtype: presentation
-  speakers: [30]
+  speakers: [30, 34]
   language: de
   complexity: "intermediate"
 -
@@ -205,5 +224,13 @@
   description: "<p>Wondering what NoEstimates means in practice, or why you would want to adopt NoEstimates?<p></p>Perhaps you’ve heard the buzz or read Vasco Duarte’s book. Maybe you simply want to understand how you can spend less time estimating and more time delivering working software—all while providing your customers with some understanding of predictability. If so, this group boardgame-based workshop will help you understand what and to what degree different factors influence delivery time.<p></p>Join Matthew to learn how to move from upfront intuition-based estimates to create a data-based probabilistic forecast that provides a more reliable way to talk about when stuff will be done—and expend less effort to do so.</p><p>Learn to forecast when things will be done -- with less effort and more accuracy!</p>"
   subtype: workshop
   speakers: [10]
+  language: en
+  complexity: "beginner"
+-
+  id: 023
+  title: "more details coming soon"
+  description: "workshop"
+  subtype: workshop
+  speakers: []
   language: en
   complexity: "beginner"

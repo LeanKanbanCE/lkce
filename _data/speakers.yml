@@ -457,8 +457,8 @@ Florian has been an Accredited Kanban Trainer and Kanban Coaching Professional s
   surname: "Lentfer"
   company: "OTTO"
   title: "Team Lead"
-  bio: "Lars Lentfer ist Teamleiter in der technischen Produktentwicklung im e-Commerce bei OTTO. Neben seiner technischen Passion für Frontend Performance lebt er agiles Mindset, ist Mitinitiator des Level 2 Kanban Koordinationsboards und gibt Kanban Workshops.
-Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die weltweite Auslieferung und Performance der Landingpages sowie des Webshops.  Als Developer war er unter anderem bei Xing im mobile Team, Wunderloop sowie Rapp Collins unterwegs."
+  bio: "Lars Lentfer ist Teamleiter in der technischen Produktentwicklung im e-Commerce bei OTTO. Neben seiner technischen Passion für Frontend Performance lebt er agiles Mindset und kooperative Führung. Er ist Mitinitiator des Level 2 Kanban Koordinationsboards und gibt Kanban Workshops.
+Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die weltweite Auslieferung und Performance der Landingpages sowie des Webshops.  Als Developer war er unter anderem bei Xing im mobile Team, Wunderloop sowie Rapp Collins unterwegs.  "
   thumbnailUrl: LarsLentfer.jpg
   keynote: false
   social:
@@ -513,3 +513,17 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
   ribbon:
     - {abbr: "Organizational Design", title: "Organizational Design"}
     - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 34
+  name: "Kathrin"
+  surname: "Schroeder"
+  company: "OTTO Group"
+  title: "Agile Coach"
+  bio: "Kathrin ist Agile Coach im Agile Center der OTTO Group. Ihre Leidenschaft ist es in Trainings und Workshops Agilität spielerisch erlebbar zu machen und ihre Kollegen mit dem agilen Mindset anzustecken. Sie verfolgt das Ziel OTTO zu einem selbstorganisierten Unternehmen zu entwickeln. Kathrin ist Mitinitiatorin des Flightlevel 2 Koordinationsboards von otto.de, mit dem über 20 agile Teams ihre Arbeit koordinieren. Zuvor war sie 3,5 Jahre Kanban Coach in zwei crossfunktionalen Teams im E-Commerce-Bereich bei OTTO."
+  thumbnailUrl: KathrinSchroeder.jpg
+  keynote: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Kath_Schh"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kathrin-schröder-80707aa"}
+  ribbon:
+    - {abbr: "Businees Matters", title: "Businees Matters"}
