@@ -23,14 +23,14 @@
   title: "more details coming soon"
   description: "more details coming soon"
   subtype: presentation
-  speakers: [3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
+  speakers: [3, 6, 7, 8, 10, 15, 21, 31, 32, 33]
   language: en
   complexity: "more details coming soon"
   video: "//player.vimeo.com/video/115797493"
 -
   id: 003
   title: "First Who, Then Why"
-  description: "Who we are, and how strongly we are attached to our identity, affects core decisions and decides whether we survive in a complex, rapidly changing world. Businesses like people have identities. Strategically, senior leaders need to be actively managing the identity of their businesses as a social entity. Simon Sinek told us that 'customer by your why' and it's become popular to focus on 'why'. 'Why' is important for success, but 'who' determines survival. There are several strategies that leaders can take to actively manage identity and to lead identity change during the emergence of disruptive innovation or changes in other externalities. This talk will help you understand your corporate social identity, how it affects your decision making, how it can lead to your extinction if not actively managed, and three approaches to managing identity to enable long term survival of a corporation."
+  description: "<p>Who we are, and how strongly we are attached to our identity, affects core decisions and decides whether we survive in a complex, rapidly changing world. Businesses like people have identities.</p><p>Strategically, senior leaders need to be actively managing the identity of their businesses as a social entity. Simon Sinek told us that ''customer by your why'' and it's become popular to focus on ''why''.</p><p>''Why'' is important for success, but ''who'' determines survival. There are several strategies that leaders can take to actively manage identity and to lead identity change during the emergence of disruptive innovation or changes in other externalities.</p><p>This talk will help you understand your corporate social identity, how it affects your decision making, how it can lead to your extinction if not actively managed, and three approaches to managing identity to enable long term survival of a corporation.</p>"
   subtype: keynote
   speakers: [0]
   language: en
@@ -38,7 +38,7 @@
 -
   id: 004
   title: "From 20/20 Hindsight to ESP at Optimizely"
-  description: "Optimizely has grown from a single product company, built by a handful of engineers and designers, to a multi-product company built by teams of engineers and designers. But its development processes didn't adapt fast enough to keep up with Optimizely's growth. Engineers had too many dependencies in flight, designers were added too late in the process to be effective, and the highest value work wasn't properly prioritized. Join us to hear how we implemented ESP and the 7 kanban cadences to increase our velocity while decreasing our time to customer value across multiple products and delivery teams."
+  description: "<p>Optimizely has grown from a single product company, built by a handful of engineers and designers, to a multi-product company built by teams of engineers and designers. But its development processes didn't adapt fast enough to keep up with Optimizely's growth. Engineers had too many dependencies in flight, designers were added too late in the process to be effective, and the highest value work wasn't properly prioritized.</p><p>Join us to hear how we implemented ESP and the 7 kanban cadences to increase our velocity while decreasing our time to customer value across multiple products and delivery teams.</p>"
   subtype: presentation
   speakers: [11, 12]
   language: en
@@ -46,8 +46,8 @@
 -
   id: 005
   title: "Whole Organisation Kanban: how to start; how to scale"
-  description: "When considering how to use the Kanban method throughout the whole of your organisation, there are two key questions:</br></br>* how to start?</br>and</br>
-  * how to scale?</br></br>Kanban already contains answers to these questions. _Start_ from where you are, without initially changing current processes, roles or responsibilities; see your work as a flow of value to your customers; and agree together to evolve the processes, responsibilities, policies and organisation, in order to make services more fit for the customers' purposes. _Scale_ by seeing your organisation as a network of interdependent services; scaling out sequentially one service at a time; designing each from first principles; and using management feedback loops on specific cadences, to balance demand with capability, and enable the organisation to service its customers' needs ever more effectively.</br></br>Such simple explanations hide the hard work, determination and leadership (at all levels) that is needed to achieve true and rapid transformation, as well as on-going continuous improvement. Thus the presentation will look both at the 'How-tos', and at the experience of organisations on this journey, to learn what 'whole organisation Kanban' means and how it can be achieved."
+  description: "<p>When considering how to use the Kanban method throughout the whole of your organisation, there are two key questions:</p><p>* how to start?</p><p>and</p><p>
+  * how to scale?</p><p>Kanban already contains answers to these questions. _Start_ from where you are, without initially changing current processes, roles or responsibilities; see your work as a flow of value to your customers; and agree together to evolve the processes, responsibilities, policies and organisation, in order to make services more fit for the customers' purposes. _Scale_ by seeing your organisation as a network of interdependent services; scaling out sequentially one service at a time; designing each from first principles; and using management feedback loops on specific cadences, to balance demand with capability, and enable the organisation to service its customers' needs ever more effectively.</p><p>Such simple explanations hide the hard work, determination and leadership (at all levels) that is needed to achieve true and rapid transformation, as well as on-going continuous improvement. Thus the presentation will look both at the ''How-tos'', and at the experience of organisations on this journey, to learn what 'whole organisation Kanban' means and how it can be achieved.</p>"
   subtype: presentation
   speakers: [16]
   language: en
@@ -55,7 +55,7 @@
 -
   id: 006
   title: "Kanban Maturity Model: Why should you care about it?"
-  description: "Once understood that Kanban is a lot more than sticky notes on a white board a number of additional questions arise. Executives want to know whether and how Kanban can help to develop the agility of their organizations and their resilience in dynamic business environments. They want to see an improvement path rather than a single step initiative for introducing the six Kanban practices. Project, Service and Quality Managers, and teams need guidance on how to put the practices in place while maintaining the conformance to other organizational standards. Coaches look for most appropriate approaches to introducing change in organizations.</br></br>Where can we find answers to so diverse questions?</br></br>This talk will be focussed on two key points: what the Kanban Maturity Model brings to managers, teams and coaches, and how to use it for evolving organizations’ capability to meet their business purpose."
+  description: "<p>Once understood that Kanban is a lot more than sticky notes on a white board a number of additional questions arise. Executives want to know whether and how Kanban can help to develop the agility of their organizations and their resilience in dynamic business environments. They want to see an improvement path rather than a single step initiative for introducing the six Kanban practices. Project, Service and Quality Managers, and teams need guidance on how to put the practices in place while maintaining the conformance to other organizational standards. Coaches look for most appropriate approaches to introducing change in organizations.</p><p>Where can we find answers to so diverse questions?</p><p>This talk will be focussed on two key points: what the Kanban Maturity Model brings to managers, teams and coaches, and how to use it for evolving organizations’ capability to meet their business purpose.</p>"
   subtype: presentation
   speakers: [17]
   language: en
@@ -63,7 +63,7 @@
 -
   id: 007
   title: "In 18 Monaten von Quartalsreleases zu Flow mit 2 Wochen Lead-Time"
-  description: "In dieser Fallstudie zeigen wir den Weg, den mehrere international verteilte Teams von 'Wir tun was gerade notwendig ist' zu 'wir kontrollieren den Fluss (der Arbeit)' gegangen sind. Anfang 2016 fingen mehrere Teams bei arvato systems mit einer Initiative zur Verbesserung ihrer Arbeitsweise an und entschieden sich für Kanban als Werkzeug zur Unterstützung bei dieser Aufgabe. Nach mehreren Iteration sowohl des System- als auch des Board-Designs haben wir heute eine Reihe von zusammenarbeitenden Services, die aktiv mit einem Blick auf den Fluss der Arbeit gemanaged werden. In diesem Vortrag zeigen wir sowohl die Dinge, die wir ausprobiert haben, die nicht so gut funktioniert haben, als auch diejenigen, die sich entwickelt haben und die funktionieren."
+  description: "<p>In dieser Fallstudie zeigen wir den Weg, den mehrere international verteilte Teams von ''Wir tun was gerade notwendig ist'' zu ''wir kontrollieren den Fluss (der Arbeit)'' gegangen sind.</p><p>Anfang 2016 fingen mehrere Teams bei arvato systems mit einer Initiative zur Verbesserung ihrer Arbeitsweise an und entschieden sich für Kanban als Werkzeug zur Unterstützung bei dieser Aufgabe. Nach mehreren Iteration sowohl des System- als auch des Board-Designs haben wir heute eine Reihe von zusammenarbeitenden Services, die aktiv mit einem Blick auf den Fluss der Arbeit gemanaged werden.</p><p>In diesem Vortrag zeigen wir sowohl die Dinge, die wir ausprobiert haben, die nicht so gut funktioniert haben, als auch diejenigen, die sich entwickelt haben und die funktionieren.</p>"
   subtype: presentation
   speakers: [18]
   language: en
@@ -71,7 +71,7 @@
 -
   id: 008
   title: "Kanban in SAFe waters"
-  description: "As part of a wider SAFe initiative at the Berenberg private bank in Hamburg, the IT Operations department (consisting of appr. 80 people in 8 teams, providing the IT services backbone for about 800 people) initiated an agile / Kanban transition. In this talk, we will tell the unpolished story about how the Kanban implementation that started at the end of 2016 went, from both the external Kanban coaches' and the Berenberg Program Manager’s perspectives. The initiative is still ongoing. To date, a colorful mix of technical and non-technical teams within IT Operations have been partly or fully 'kanbanized'. Not all teams are alike! We will share the spectrum we had there, and the different characteristics and challenges present. We will use this example to illustrate how a Kanban transition is different from a 'classic' agile transition eg. a Scrum adoption. As this implementation was part of a wider SAFe transition within the bank, we will also talk about touch points that we had (and that we had not), and how we aligned with the SAFe structure. As a successor to an Excel sheet, a portfolio-level board feeding into the teams’ systems has been established recently, and we’ll have more experiences to share there. So far, it has worked brilliantly as a catalyst for communication amongst the management team. In this talk, we will share our experiences in the form of a dialogue, covering the good, the bad, and the ugly. As a side note, you will also hear why we think 'Kanban is for IT-Ops only' is really bullshit :)"
+  description: "As part of a wider SAFe initiative at the Berenberg private bank in Hamburg, the IT Operations department (consisting of appr. 80 people in 8 teams, providing the IT services backbone for about 800 people) initiated an agile / Kanban transition. In this talk, we will tell the unpolished story about how the Kanban implementation that started at the end of 2016 went, from both the external Kanban coaches' and the Berenberg Program Manager’s perspectives. The initiative is still ongoing. To date, a colorful mix of technical and non-technical teams within IT Operations have been partly or fully ''kanbanized''. Not all teams are alike! We will share the spectrum we had there, and the different characteristics and challenges present. We will use this example to illustrate how a Kanban transition is different from a ''classic'' agile transition eg. a Scrum adoption. As this implementation was part of a wider SAFe transition within the bank, we will also talk about touch points that we had (and that we had not), and how we aligned with the SAFe structure. As a successor to an Excel sheet, a portfolio-level board feeding into the teams’ systems has been established recently, and we’ll have more experiences to share there. So far, it has worked brilliantly as a catalyst for communication amongst the management team. In this talk, we will share our experiences in the form of a dialogue, covering the good, the bad, and the ugly. As a side note, you will also hear why we think ''Kanban is for IT-Ops only'' is really bullshit :)"
   subtype: presentation
   speakers: [19]
   language: de
@@ -79,8 +79,123 @@
 -
   id: 009
   title: "Implement ALL the cadences!?"
-  description: "My plan is to show a brief overview of the cadences and explain the reason why they are relevant in general. Then, I will give an introduction to the case study and give detailed facts about how we implemented the different meetings. We will reflect on the why again, this time with direct reference to the need of the company in the case study. Can be held in German, too."
+  description: "My plan is to show a brief overview of the cadences and explain the reason why they are relevant in general. Then, I will give an introduction to the case study and give detailed facts about how we implemented the different meetings. We will reflect on the why again, this time with direct reference to the need of the company in the case study."
   subtype: presentation
   speakers: [20]
   language: de
   complexity: "beginner"
+-
+  id: 010
+  title: "The Kanban Guide: Self-Coaching Options for Teams"
+  description: "<p>Most teams exploring Kanban never go beyond Proto-Kanban. Although this provides significant improvements, we ask ourselves, ''How can a full Kanban System evolve?''</p><p>When working at Ding.com, JP and Jose (and Andy de Vale) had that same question. The company had a wide education programme to introduce all its staff to Kanban. The next step was to encourage teams to drive their own improvements and support teams in their discovery of new ways of working.</p><p>Initially, teams struggled to decide what parts of Kanban would help them to improve. They were like a writer facing a blank page: blocked and anxious.</p><p>The coaching team created the Kanban Guide. With the Guide, teams were able to pull coaching support based on their ongoing needs, rather than the coaches pushing what to do next. This completely flipped the coaching relationship.</p><p>In this session, JP and Jose will introduce their case study and show how they used the Kanban Guide at Ding. We believe that this approach leads to healthier and deeper improvements to work environments, Kanban or otherwise. We want to validate this in other organisations.</p>"
+  subtype: presentation
+  speakers: [22, 23]
+  language: en
+  complexity: "intermediate"
+-
+  id: 011
+  title: "Portfolio Kanban - The Common Sense Approach to Scaling Lean"
+  description: "<p>The way we manage knowledge work today differs from the way we managed knowledge work in the past. There has been a lot of progress, but have we gotten to a place where we could claim, that we know how to actually do it? Why are so many companies, big and small, going extinct at a rapid pace? How do we get faster so that we fight off competition? Do companies even know how much inefficient their value streams are?</p><p>These are all questions that need immediate attention in many organizations. The answer requires a holistic view of the business and a smart implementation of the Lean principles, so that we gain flexibility, resilience and economic competitive advantages.</p><p>This talk is a case study from two completely different companies that both transformed in unique ways. Maybe there is a pattern to be discovered? Is the name of this pattern Portfolio Kanban? Let's find out together...</p>"
+  subtype: presentation
+  speakers: [24]
+  language: en
+  complexity: "intermediate"
+-
+  id: 012
+  title: "The evolution of a Portfolio Wall"
+  description: "<p>Today, the Portfolio Wall at Ocado Technology is one of the most important tools we use to have global visibility and to aid collaboration across hundreds of people in 4 development centres. This is the place we go to, to talk about the products and when important decisions have to be made. This is the place to see the flow, learn, share and prioritise.</p><p>It took us a while to get there, but it was worth every step.</p><p>This is a story about the evolution of the Portfolio Wall, starting from scratch and lessons learnt on the way.</p>"
+  subtype: presentation
+  speakers: [25]
+  language: en
+  complexity: "expert"
+-
+  id: 013
+  title: "Making the Change: Going Agile at the Department of Labor"
+  description: "<p>Going agile in the government is easy to say and hard to do. Teams and individuals prefer to stay apart and work on their own for weeks or months at a time. Documentation can quickly become more important than working software. Addressing the demands brought on by a change in administration, policy, or executive direction requires teams and individuals to start working together in order to succeed in their overall mission.</p><p>This experience report will discuss the benefits, challenges, and outcomes when implementing Kanban in a traditional waterfall and silo working environment. Techniques for creating a continuous change towards an agile way of working will be shared. Performance data from a two year Kanban initiative at the Department of Labor will be reviewed and discussed. Participants will walk away with a clear understanding of how Kanban can break down silos, improve the agility of a traditional waterfall and silo focused organization, and noticeably improve performance.</p>"
+  subtype: presentation
+  speakers: [26]
+  language: en
+  complexity: "intermediate"
+-
+  id: 014
+  title: "A Poker Mindset"
+  description: "<p>Poker is just a game - of luck. Isn’t it? Why are many very successful entrepreneurs fascinated by this game? What has poker to do with business? How are poker decisions made and how can we transform this approach to our work life?</p><p>For many years I have been a passionate poker player and constantly transfer my learnings from poker to business situations. Let me introduce you to my favorite insights and how a ''poker mindset'' can help you tackling difficult situations or decisions in your daily work.</p>"
+  subtype: lightning talk
+  speakers: [27]
+  language: en
+  complexity: "intermediate"
+-
+  id: 015
+  title: "Being Agile - It is not about being fast, it is about making impact!"
+  description: "<p>AutoScout24 is working the Agile Way for 10 years now. On this journey we realized that delivering fast and reliable is worth nothing as long as you don't make any difference to your customers and your company. So we are not (only) optimizing on throughput and cycle time. Furthermore we are trying to optimize the impact we achieve.</p><p>One of our best tools is Kanban, implemented on all three flight levels. Our company wall starts with the strategy and KPI's of each of our cross functional units and ends with ''Measure Success'' and ''Impact Achieved''.</p><p>This talk covers our organizational setup, our processes and the learnings and traps we encountered so far.</p>"
+  subtype: presentation
+  speakers: [28]
+  language: en
+  complexity: "intermediate"
+-
+  id: 016
+  title: "Agility and Selforganisation. The Computest Story"
+  description: "Computest is a fast growing company, currently with about 120 people, based in the Den Haag area, specialising on testing services and consultancy throughout the Netherlands. At the beginning of 2016 Computest started out on an ambitious mission. ‚Towards a self-managing organisation‘ as CEO Hartger Ruijs, 2017 entrepreneur of the year in the Den Haag area, pointed out in his first blog on the topic. (http://corporate-rebels.com/guest-blog-hartger-ruijs/)
+</br></br>This mission was driven by:
+  <ul>
+	 <li>Computest´s growth rate and the question of how to handle an organization with 50+ people without an additional management layer</li>
+	 <li>the need to become more market and customer driven</li>
+	 <li>the conviction that self-organisation is a key driver for becoming a truly agile enterprise</li>
+	 <li>the willingness to find a way of how to preserve Computest´s both informal and entrepreneurial spirit while growing</li>
+  </ul>
+<p>The presentation shows how Computest followed its mission. What have been the key drivers so far? What kind of obstacles did the company meet and how did it deal with them? What are the biggest challenges for the future? By reviewing what we experimented with so far, I´ll address:</p>
+	<ul>
+    <li>how the journey got started: from functional silos to multi-disciplinary teams, from a traditional to an agile approach, from hierarchical management to leadership services,</li>
+	  <li>how we applied lean and systems thinking to overcome a few classic pitfalls (e.g. the temptation of standardised recipes)</li>
+	  <li>why focusing on customer centric value streams and work flow was essential</li>
+	  <li>how decision-making authorities were distributed and a smart system of feedback loops installed</li>
+	  <li>how a culture of coaching and sparring became mission-critical on all levels</li>
+	  <li>what we are currently busy with</li>
+  </ul>"
+  subtype: presentation
+  speakers: [29]
+  language: en
+  complexity: "intermediate"
+-
+  id: 017
+  title: "Hearding Cats: Wie koordiniere ich 20+ agile Teams um an den richtigen Dingen zu arbeiten"
+  description: "<p>Bei OTTO haben wir 20+ agile Teams die wissen was für ihren Kontext am Besten ist. Aber zahlt das auch auf die Unternehmensstrategie ein? Wie schafft man es, dass die Teams sich nicht im Abhängigkeitsdschungel zu anderen Teams verlieren und auch außerhalb des eigenen Scopes denken. Und wie hängt die Strategie mit der Koordination und dem operativen Umsetzen zusammen?</p><p>In dieser session versuchen wir genau diesen Fragen auf den Grund zu gehen. Wir teilen Erkenntnisse wie wir es bei OTTO schaffen (wollen), dass alle an einem Strang ziehen, um das Unternehmen voranzubringen. Dabei geben wir Einsichten in die Einführung eines Koordinationsboards auf Level 2 Ebene, inklusive Sync nach oben und unten, sowie aller Herausforderungen und Erfahrungen, die wir in unserem Bereich gesammelt haben.</p>"
+  subtype: presentation
+  speakers: [30]
+  language: de
+  complexity: "intermediate"
+-
+  id: 018
+  title: "Spaceship Kanban - Lean methods work if they feel light!"
+  description: "<p>Imagine this: a bunch of crazy and nice people with a mission to create wonderful pictures in motion or in stills. High market dynamics, high complexity, chaos, fun.</p><p>This is a story about how team synergies and creativity are used to implement a lean kanban method. We visualized our workflow with the help of abstracted spaceships it’s a result of a transformation process.</p><p>In the beginning there was chaos, mistrust and intransparency.With the trust in the own resources, the power of the system intelligence and guidance of a coach - we transformed the company into a lean, purpose driven environment.</p><p>The talk will illustrate how we created that environment, how we use Kanban the Method and why a spaceship-metaphor makes us happy and successful in our business. Our lean method feels light! This talk is to inspire and to encourage you to work with the context, to use systems intelligence and and team synergies to make your lean environment feel light.</p>"
+  subtype: presentation
+  speakers: [14]
+  language: en
+  complexity: "intermediate"
+-
+  id: 019
+  title: "''Are we working on the most important thing now?'' - how we answer that questions throughout the organization through common goals and priorities."
+  description: "This is the NetEnt story of how we are moving towards our target condition of having self-driven employees taking wise decisions on their own.</br>We’ve started working with clear WINGs (Widely Important NetEnt Goals) throughout the organization as well as establishing a room dedicated to visualizing all ongoing work. Enforcing WIP limits on a company level has led to discussions and a better understanding around how we prioritize our work and why things are important."
+  subtype: presentation
+  speakers: [13]
+  language: en
+  complexity: "intermediate"
+-
+  id: 020
+  title: "Applying lean principles and agile tools in marketing"
+  description: "<p>What happens when you apply Agile tools and Lean principles in marketing? Which parts are useful, and in what way? In this case study we will share lessons learned from applying  Lean and Agile within Digital Marketing.</p><p>We will share how we used them to coordinate efforts across multiple teams , how we tripped, fell over, and finally found a recipe that worked for us.</p>"
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "intermediate"
+-
+  id: 021
+  title: "Want less conflict? Do Nothing."
+  description: "<p>Leadership has been famously defined as the capacity to translate vision into reality. In business, this can be achieved in a variety of ways. Some leaders believe in actively involving others in decision-making processes; other set out to use unilateral control, contingent rewards or sheer economic force. Finally, there are those that believe that in order for the vision to be realized, you don’t have to do anything.</p>
+<p>Traditionally these three types of leadership have been labeled as democratic, autocratic and laissez-faire. At the outset of the WWII, in 1939, the effectiveness of these three types of leadership was put to the test by one of the most famous research programs in social psychology, orchestrated by Kurt Lewin and his colleagues. Since then, a certain consensus has been developing in organizational psychology. Although for simple tasks some levels of autocracy might work, for complex and knowledge-heavy tasks, democratic leadership has been deemed as better than both than autocratic and laissez faire, producing better group outcomes and less tensions. Laissez-faire, in particular, has been found to produce high levels of uncertainty, leading to greater aggression and conflict. Hence, non-leadership has been considered ineffective, unnoteworthy, and ultimately bound to be forgotten.</p>
+<p>In practice, however, laissez-faire leadership has been quietly finding its way back to the business world. With recent developments in Holacracy, self-management, sociocracy and teal organizations, the idea of getting rid of clear leadership roles and responsibilities has been gaining popularity and acclaim. Is this new support for laissez-faire leadership bound to reproduce the already recognized challenges related to conflict, aggression and uncertainty avoidance?</p>
+<p>In my research, I focus on how different leadership styles and decision making cultures are connected to how conflicts are resolved. Contrary to my initial beliefs, I found that laissez-faire leadership can be effective in building effective conflict resolution cultures. However, certain conditions need to be satisfied. Based on my studies, I argue that the performance and effective conflict resolution under non-leadership depends on three things: the reasons why laissez-faire leadership is employed, the beliefs held about the employees by the team introducing self-management and the level of managerial competencies among employees. In my presentation, I will show how these issues are addressed by different organizations, how they influence the effectiveness of conflict resolution and finally, what lessons stem for all organizations considering the employment of laissez-faire leadership.</p>"
+  subtype: presentation
+  speakers: [9]
+  language: en
+  complexity: "intermediate"
