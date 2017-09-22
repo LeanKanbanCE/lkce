@@ -23,7 +23,7 @@
   title: "more details coming soon"
   description: "more details coming soon"
   subtype: presentation
-  speakers: [3, 6, 7, 8, 10, 15, 21, 31, 32, 33]
+  speakers: [3, 6, 7, 8, 15, 21, 31, 32, 33]
   language: en
   complexity: "more details coming soon"
   video: "//player.vimeo.com/video/115797493"
@@ -199,3 +199,11 @@
   speakers: [9]
   language: en
   complexity: "intermediate"
+-
+  id: 022
+  title: "NoEstimates Workshop: Forecasting with Less Effort and More Accuracy"
+  description: "<p>Wondering what NoEstimates means in practice, or why you would want to adopt NoEstimates?<p></p>Perhaps you’ve heard the buzz or read Vasco Duarte’s book. Maybe you simply want to understand how you can spend less time estimating and more time delivering working software—all while providing your customers with some understanding of predictability. If so, this group boardgame-based workshop will help you understand what and to what degree different factors influence delivery time.<p></p>Join Matthew to learn how to move from upfront intuition-based estimates to create a data-based probabilistic forecast that provides a more reliable way to talk about when stuff will be done—and expend less effort to do so.</p><p>Learn to forecast when things will be done -- with less effort and more accuracy!</p>"
+  subtype: workshop
+  speakers: [10]
+  language: en
+  complexity: "beginner"
