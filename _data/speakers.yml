@@ -40,8 +40,8 @@
     - {abbr: "Keynote", title: "Keynote"}
 -
   id: 3
-  name: "Freudenberg"
-  surname: "Sallyann"
+  name: "Sallyann"
+  surname: "Freudenberg"
   company: "Sallyann Freudenberg Consulting Ltd."
   title: "Agile Specialist"
   bio: "Dr. Sallyann Freudenberg is a consultant and trainer focused on more human(e) ways of working. She holds a PhD in the Psychology of Collaborative Software Development and since parenting an autistic son has developed an interest in neuro-diversity. Through re-assessing her own traits and neurology, and considering the extra-ordinary people with whom she has worked over her 25+ years in tech, Sal is raising awareness of the benefits of having diversity in our organisations, and is helping the industry to begin to understand how to support and nurture every kind of brain."
@@ -54,8 +54,8 @@
     - {abbr: "Organizational Design", title: "Organizational Design"}
 -
   id: 4
-  name: "Skarin"
-  surname: "Mattias"
+  name: "Mattias"
+  surname: "Skarin"
   company: "Crisp AB"
   title: "Lean & Kanban Coach"
   bio: "Sun Tzu once said that the ultimate responsibility of generalship is to maneuver into a position of success. My quest is to figure out how best to do just that in complex fast moving environments.</br></br>I coach and train managers and teams across the value stream on how to use Lean and Agile tools to create and maintain a competitive edge. How do we use Agile to evolve areas outside IT, such as marketing, product management, has been a focus of mine for the last number of years.</br></br>I’m the author of the book Real World Kanban and the co-author of Kanban and Scrum, making the most of both."
@@ -83,8 +83,8 @@
     - {abbr: "Beyond IT", title: "Beyond IT"}
 -
   id: 6
-  name: "Roock"
-  surname: "Arne"
+  name: "Arne"
+  surname: "Roock"
   company: "Freelancer"
   title: "Dr. Rock"
   bio: "Arne Roock (aka Dr. Rock) has a great deal of experience with Lean and Kanban in different contexts like start-ups, medium sized companies and international corporations. He is fascinated by Systems Thinking and loves to experiment with ideas from Ackoff, Drucker, Deming etc. Back in 2012, Arne has been rewarded with the Brickell Key Award for his engagement in the Lean/Kanban community."
@@ -98,8 +98,8 @@
     - {abbr: "Organizational Design", title: "Organizational Design"}
 -
   id: 7
-  name: "Leopold"
-  surname: "Klaus"
+  name: "Klaus"
+  surname: "Leopold"
   company: "LEANability GmbH"
   title: "Managing Partner"
   bio: "Dr. Klaus Leopold is computer scientist with many years of experience in helping organizations from different industries on their improvement journey with Lean and Kanban. He is co-author of the book 'Kanban in der IT' (in German, published by Hanser Verlag) and co-author of the English translation 'Kanban Change Leadership' (to be published at the end of 2014 by Wiley). Klaus is one of the first Lean Kanban trainers and Lean Kanban coaching worldwide and he is co-founder of the Limited WIP Society Austria and the Swiss Limited WIP Society and founding member of the management network Stoos. His main interest is evolutionary change leadership at the value stream level using the Kanban method."
@@ -306,7 +306,7 @@
   id: 20
   name: "Florian"
   surname: "Eisenberg"
-  company: "Self-Employed"
+  company: "Freelancer"
   title: "Kanban Trainer and Coach"
   bio: "Florian is a self-employed coach focused on helping his customers achieve more. While originating from software development, he is now helping his customers mostly on a management level. He thinks that improving the system – especially the overall way of working together – is more helpful than agilizing standalone  teams.
 Florian has been an Accredited Kanban Trainer and Kanban Coaching Professional since the early days. His love for Kanban originates in the homane approach of beginning with what you do now."
@@ -455,7 +455,7 @@ Florian has been an Accredited Kanban Trainer and Kanban Coaching Professional s
   id: 30
   name: "Lars"
   surname: "Lentfer"
-  company: "OTTO"
+  company: "OTTO (GmbH & Co KG)"
   title: "Team Lead"
   bio: "Lars Lentfer ist Teamleiter in der technischen Produktentwicklung im e-Commerce bei OTTO. Neben seiner technischen Passion für Frontend Performance lebt er agiles Mindset und kooperative Führung. Er ist Mitinitiator des Level 2 Kanban Koordinationsboards und gibt Kanban Workshops.
 Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die weltweite Auslieferung und Performance der Landingpages sowie des Webshops.  Als Developer war er unter anderem bei Xing im mobile Team, Wunderloop sowie Rapp Collins unterwegs.  "

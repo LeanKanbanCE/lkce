@@ -2,7 +2,12 @@
   id: 308
   title: "Intro"
   place: "Upstream"
-  description: "The best time to talk with speakers and attendees"
+  description: "We are opening the conference with few announcements for orientation"
+-
+  id: 309
+  title: "Closing"
+  place: "Upstream"
+  description: "Everything comes to an end"
 -
   id: 307
   title: "Coffee Break"
@@ -38,17 +43,106 @@
   complexity: "more details coming soon"
   video: "//player.vimeo.com/video/115797493"
 -
+  id: 041
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: presentation
+  speakers: [33]
+  language: en
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 042
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: presentation
+  speakers: [7]
+  language: de
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 043
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: presentation
+  speakers: [8]
+  language: en
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 044
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: presentation
+  speakers: [31]
+  language: de
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 046
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: presentation
+  speakers: [3]
+  language: en
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 047
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 048
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 220
+  title: "20x20 - a variety of serious topics, presented in a fun way"
+  description: "20x20 will not be announced in advance"
+  subtype: 20x20
+  speakers: []
+  language: en
+  complexity: "fun"
+-
   id: 002
   title: "more details coming soon"
   description: "more details coming soon"
   subtype: presentation
-  speakers: [3, 6, 7, 8, 15, 21, 31, 32, 33]
+  speakers: [15]
+  language: en
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 049
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: presentation
+  speakers: [21]
+  language: en
+  complexity: "more details coming soon"
+  video: "//player.vimeo.com/video/115797493"
+-
+  id: 050
+  title: "more details coming soon"
+  description: "more details coming soon"
+  subtype: presentation
+  speakers: [32]
   language: en
   complexity: "more details coming soon"
   video: "//player.vimeo.com/video/115797493"
 -
   id: 003
-  title: "First Who, Then Why"
+  title: "Keynote: First Who, Then Why"
   description: "<p>Who we are, and how strongly we are attached to our identity, affects core decisions and decides whether we survive in a complex, rapidly changing world. Businesses like people have identities.</p><p>Strategically, senior leaders need to be actively managing the identity of their businesses as a social entity. Simon Sinek told us that ''customer by your why'' and it's become popular to focus on ''why''.</p><p>''Why'' is important for success, but ''who'' determines survival. There are several strategies that leaders can take to actively manage identity and to lead identity change during the emergence of disruptive innovation or changes in other externalities.</p><p>This talk will help you understand your corporate social identity, how it affects your decision making, how it can lead to your extinction if not actively managed, and three approaches to managing identity to enable long term survival of a corporation.</p>"
   subtype: keynote
   speakers: [0]
@@ -85,7 +179,7 @@
   description: "<p>In dieser Fallstudie zeigen wir den Weg, den mehrere international verteilte Teams von ''Wir tun was gerade notwendig ist'' zu ''wir kontrollieren den Fluss (der Arbeit)'' gegangen sind.</p><p>Anfang 2016 fingen mehrere Teams bei arvato systems mit einer Initiative zur Verbesserung ihrer Arbeitsweise an und entschieden sich für Kanban als Werkzeug zur Unterstützung bei dieser Aufgabe. Nach mehreren Iteration sowohl des System- als auch des Board-Designs haben wir heute eine Reihe von zusammenarbeitenden Services, die aktiv mit einem Blick auf den Fluss der Arbeit gemanaged werden.</p><p>In diesem Vortrag zeigen wir sowohl die Dinge, die wir ausprobiert haben, die nicht so gut funktioniert haben, als auch diejenigen, die sich entwickelt haben und die funktionieren.</p>"
   subtype: presentation
   speakers: [18]
-  language: en
+  language: de
   complexity: "intermediate"
 -
   id: 008
@@ -153,7 +247,7 @@
   complexity: "intermediate"
 -
   id: 016
-  title: "Agility and Selforganisation. The Computest Story"
+  title: "Agility and self-organisation. The Computest Story"
   description: "Computest is a fast growing company, currently with about 120 people, based in the Den Haag area, specialising on testing services and consultancy throughout the Netherlands. At the beginning of 2016 Computest started out on an ambitious mission. ‚Towards a self-managing organisation‘ as CEO Hartger Ruijs, 2017 entrepreneur of the year in the Den Haag area, pointed out in his first blog on the topic. (http://corporate-rebels.com/guest-blog-hartger-ruijs/)
 </br></br>This mission was driven by:
   <ul>
@@ -193,7 +287,7 @@
   complexity: "intermediate"
 -
   id: 019
-  title: "''Are we working on the most important thing now?'' - how we answer that questions throughout the organization through common goals and priorities."
+  title: "''Are we working on the most important thing now?''"
   description: "This is the NetEnt story of how we are moving towards our target condition of having self-driven employees taking wise decisions on their own.</br>We’ve started working with clear WINGs (Widely Important NetEnt Goals) throughout the organization as well as establishing a room dedicated to visualizing all ongoing work. Enforcing WIP limits on a company level has led to discussions and a better understanding around how we prioritize our work and why things are important."
   subtype: presentation
   speakers: [13]
@@ -234,3 +328,51 @@
   speakers: []
   language: en
   complexity: "beginner"
+-
+  id: 024
+  title: "more details coming soon"
+  description: "workshop"
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: ""
+-
+  id: 025
+  title: "tbd"
+  description: "tbd"
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "tbd"
+-
+  id: 026
+  title: "tbd"
+  description: "tbd"
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "tbd"
+-
+  id: 027
+  title: "more details coming soon"
+  description: "workshop"
+  subtype: workshop
+  speakers: []
+  language: en
+  complexity: ""
+-
+  id: 028
+  title: "lightning talks"
+  description: "Lightning talks about various topics from Beyond IT"
+  subtype: lightning talks
+  speakers: [4, 27]
+  language: en
+  complexity: ""
+-
+  id: 045
+  title: "Alignment: the forgotten child"
+  description: "In the Lean/Agile community we talk a lot about autonomy, empowerment and self-organization. While all this can be extremely valuable, any organization also needs sufficient alignment, in order to be successful. Individuals, teams and business units all must be pulling at the same thread. Projects, initiatives and resources must be organized in a way that supports the company‘s strategic goals. In this talk I will discuss the concept of organizational aligment share some ideas what can be done to increase alignment."
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "intermediate"
