@@ -528,3 +528,31 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
   ribbon:
     - {abbr: "German", title: "German"}
     - {abbr: "Businees Matters", title: "Businees Matters"}
+-
+  id: 35
+  name: "Markus"
+  surname: "Wissekal"
+  company: ""
+  title: "Kanban Trainer and Coach"
+  bio: "Markus is an experienced Agile Coach working in Europe. In the past he was a programmer writing code that makes things work and do cool stuff. Now he concentrates his talents on helping teams to work better together and make even cooler stuff. Markus is really passionate about what he does and loves hearing about, and trying out new ideas within Agile. This is what led him from Scrum to become Switzerlands only Accredited Kanban Trainer and this is what will continue to lead him into more agile, lean and positive future"
+  thumbnailUrl: MarkusWissekal.jpg
+  keynote: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/themaxxmaster"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mwissekal"}
+  ribbon:
+    - {abbr: "Workshop", title: "Workshop"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+-
+  id: 36
+  name: "Stefan"
+  surname: "Kinigadner"
+  company: ""
+  title: "Trainer and Coach"
+  bio: "coming soon"
+  thumbnailUrl: StefanKinigadner.jpg
+  keynote: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/coachstefan"}
+  ribbon:
+    - {abbr: "Workshop", title: "Workshop"}

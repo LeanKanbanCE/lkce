@@ -342,10 +342,10 @@
   complexity: "tbd"
 -
   id: 027
-  title: "more details coming soon"
-  description: "workshop"
+  title: "Improving your Service Delivery Review and identification of risks with TLM"
+  description: "Learning zones (Michl et al.) are a widely-known model in the psychology of learning. Almost every one of us knows the saying: "“I’m completely in my comfort zone when doing …”". In this workshop we take the model one step further and use it to coach entire teams (Teambased Learningzone Model). In small groups, attendees will pick a context to actually create the groups’ TLM, thereby getting both theoretical background and gain experience using them. Attending this session will help you discover your teams professional fields of learning and improve its Service Delivery. Also, Risk Reviews will gain from this workshop – just see for yourself."
   subtype: workshop
-  speakers: []
+  speakers: [35, 36]
   language: en
   complexity: ""
 -
