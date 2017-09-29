@@ -114,12 +114,12 @@
   complexity: "more details coming soon"
 -
   id: 049
-  title: "more details coming soon"
-  description: "more details coming soon"
+  title: "A Siberian tale of two Kanban implementations"
+  description: "Arello Mobile and Pushwoosh are two sister companies based in Novosibirsk in Siberia, Russia. 3 years ago, the workplace was stressful and the days very long. Managers and clients were constantly fighting, while teams failed to meet delivery dates. We chose to pursue Kanban to address these challenges. Adoption at Arello was relatively easy and the maturity of the implementation is now quite deep. Pushwoosh has been another story. There was skepticism and resistance. This talk describes in detail what has been achieved at Arello, a mobile application development company of around 50 people, and contrasts it with the challenges at Pushwoosh, a push notification service with a similar number of staff. Both companies have the same owners and share some common staff and resources, however, cultural reaction to Kanban was very different. Some of the latest Kanban coaching concepts including use of the Kanban Maturity Model are now being applied at Pushwoosh. There are indications this measured and thoughtful approach is likely to succeed."
   subtype: presentation
   speakers: [21]
   language: en
-  complexity: "more details coming soon"
+  complexity: "beginner"
 -
   id: 050
   title: "more details coming soon"
