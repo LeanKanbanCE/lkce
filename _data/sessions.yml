@@ -318,12 +318,12 @@
   complexity: "beginner"
 -
   id: 024
-  title: "more details coming soon"
-  description: "workshop"
+  title: "How to successfully turn a 30 day process into a 2 day process."
+  description: "<p>A step by step presentation about how we transitioned a lengthy and customer unfriendly process of 30 days to a broad celebrated customer promise of 2 days. And keeping that promise to this day.</p><p>I will share our vision and experiences of the organisational transition where we combined the best of Agile and Lean. What this leads to is teams who quickly adapt to the customer needs and do this with complete ownership of the process, with great velocity and in a constant flow.</p><p>Come find out how and how this could benefit your teams.</p>"
   subtype: presentation
-  speakers: []
+  speakers: [37]
   language: en
-  complexity: ""
+  complexity: "intermediate"
 -
   id: 025
   title: "tbd"
@@ -362,5 +362,13 @@
   description: "In the Lean/Agile community we talk a lot about autonomy, empowerment and self-organization. While all this can be extremely valuable, any organization also needs sufficient alignment, in order to be successful. Individuals, teams and business units all must be pulling at the same thread. Projects, initiatives and resources must be organized in a way that supports the company‘s strategic goals. In this talk I will discuss the concept of organizational aligment share some ideas what can be done to increase alignment."
   subtype: presentation
   speakers: [6]
+  language: en
+  complexity: "intermediate"
+-
+  id: 051
+  title: "You don't need (yet another system) - you need Agile contracts"
+  description: "Who is this guy? And what the heck is Agile contracts? Let me walk through the basics of Agile contracts and procurement, and share why the people in Värmland (a Swedish county) have a hospital that just works."
+  subtype: lightning talk
+  speakers: [4]
   language: en
   complexity: "intermediate"

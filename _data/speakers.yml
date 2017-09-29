@@ -556,3 +556,16 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
     - {name: "twitter", link: "https://twitter.com/coachstefan"}
   ribbon:
     - {abbr: "Workshop", title: "Workshop"}
+-
+  id: 37
+  name: "Jessica"
+  surname: "George"
+  company: "ING"
+  title: "Agile Coach"
+  bio: "<p>Jessica George is an Expert Lead for a team of Agile Coaches in the client services department within ING Netherlands. A bank who is the benchmark for Agile, embedding it from boardroom to shop floor. As an Expert lead she is coaching the Agile coaches and contributing to the customer promise.</p><p>Coming from a product development environment where Scrum is common and now working in an operations environment she has seen the power of combining Agile with Lean/ Kanban.</p>"
+  thumbnailUrl: JessicaGeorge.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/georgejessica/"}
+  ribbon:
+    - {abbr: "Beyond IT", title: "Beyond IT"}
