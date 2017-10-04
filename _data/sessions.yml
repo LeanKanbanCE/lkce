@@ -50,12 +50,12 @@
   complexity: "more details coming soon"
 -
   id: 042
-  title: "more details coming soon"
-  description: "more details coming soon"
+  title: "Warum agile Teams nichts mit Business-Agilität zu tun hat"
+  description: "In diesem Talk berichte ich von einer Agile Transition in die ca. 600 Leute involviert waren. Das erklärte Ziel war es, Time-to-Market von Initiativen zu verkürzen, damit man schneller auf Kundenbedürfnisse reagieren kann und somit die Business Agilität steigt. Um das zu erreichen,  wurde eine Reorganisation durchgeführt. Alle Teams wurden crossfunktional aufgestellt, damit das notwendige Wissen für die Entwicklung im Team vollständig vorhanden ist. Zusätzlich wurden die Teams nach Produkten aufgestellt, um Abhängigkeiten zu entfernen. Visualisierung der Arbeit, Standup-Meetings und Retrospektiven machten die Agile Transition komplett - einzig die erwartete Verbesserung blieb aus. In dieser Session zeige ich, was wir getan haben, um die Situation doch noch zu verbessern und das Ziel “mehr Business Agilität” zu erreichen. Ich zeige auch, wie man eine Agile Transition in dieser Größenordnung angeht, damit man erst gar nicht in die missliche Lage kommt, keine Verbesserungen zu sehen. So viel sei vorab erwähnt: nicht auf Teamebene starten - das spart nicht nur Nerven sondern auch noch sehr viel Geld!"
   subtype: presentation
   speakers: [7]
   language: de
-  complexity: "more details coming soon"
+  complexity: "intermediate"
 -
   id: 043
   title: "more details coming soon"
