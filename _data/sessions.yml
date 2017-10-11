@@ -90,12 +90,23 @@
   complexity: "more details coming soon"
 -
   id: 047
-  title: "more details coming soon"
-  description: "more details coming soon"
+  title: "Be best at getting better"
+  description: "<p>Perhaps you’ve heard of the Spotify Model, many people seem to be inspired by how they’ve interpreted what we’re doing things.
+  Over my 3+ years at Spotify we've doubled in size, twice.</p>
+  <p>In that time I've worked with teams building backend and infrastructure, to User facing features to conducting exploration
+  Adaptation and the pursuit of beneficial change is how we’ve been able to respond to the evolving needs of our customers.</p>
+
+  <p>In this session I’ll share stories of:<p>
+  <ul>
+    <li>The reality of a “model” in practice. Spoiler alert: we keep changing stuff.</li>
+    <li>Why I believe it’s more important how you improve your model, than where you start.</li>
+    <li>How we think about process improvement in R&D.</li>
+  </ul>
+  <p>Come join us if you’re also aiming to be the best at getting better.</p>"
   subtype: presentation
-  speakers: []
+  speakers: [38]
   language: en
-  complexity: "more details coming soon"
+  complexity: "intermediate"
 -
   id: 048
   title: "more details coming soon"

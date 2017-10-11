@@ -569,3 +569,19 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
     - {name: "linkedin", link: "https://www.linkedin.com/in/georgejessica/"}
   ribbon:
     - {abbr: "Beyond IT", title: "Beyond IT"}
+-
+  id: 38
+  name: "Cliff"
+  surname: "Hazell"
+  company: "Spotify"
+  title: "Agile Coach Chapter Lead"
+  bio: "<p>Cliff has made a career out of breaking down the obstacles that stand in the way of great work. He is often challenging the status quo in his quest to develop the right culture and systems for creation of excellent products.</p>
+  <p>After a tour of addresses across South Africa, Cliff moved to Stockholm where he leads a team of Coaches at Spotify.</p>"
+  thumbnailUrl: CliffHazell.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cliff-hazell-517289"}
+    - {name: "twitter", link: "https://twitter.com/ixhd"}
+    - {name: "site", link: "https://medium.com/@ixhd"}
+  ribbon:
+    - {abbr: "Business Matters", title: "Business Matters"}
