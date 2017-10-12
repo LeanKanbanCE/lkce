@@ -585,3 +585,17 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
     - {name: "site", link: "https://medium.com/@ixhd"}
   ribbon:
     - {abbr: "Business Matters", title: "Business Matters"}
+-
+  id: 39
+  name: "Marc"
+  surname: "Burgauer"
+  company: "ISBAN"
+  title: "Agile Transformation Consultant"
+  bio: "<p>Marc Burgauer has experienced professional life as a biologist, an award-winning performance artist and musician, business analyst, enterprise database architect and early web applications programmer, founder, board member, in various management functions and is currently working as an Agile coach and transformation consultant.</p>"
+  thumbnailUrl: MarcBurgauer.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/marc-burgauer-a8a2292"}
+    - {name: "twitter", link: "https://twitter.com/somesheep"}
+  ribbon:
+    - {abbr: "Business Matters", title: "Business Matters"}

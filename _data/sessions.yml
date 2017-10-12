@@ -345,12 +345,16 @@
   complexity: "intermediate"
 -
   id: 025
-  title: "tbd"
-  description: "tbd"
+  title: "Putting collaboration and trust at the heart of work"
+  description: "<p>In work, we solve other people’s problems and we mostly do so by collaborating with people. Work is a social activity, which makes managing work a social practice. But management, in most of its current incarnations, is an institutionalized form of distrust.</p>
+  <p>In knowledge work, where the underlying complexity exceeds the ability of any individual to realize valuable outcomes for customers, it’s in the interactions where we create capability beyond the individual. Cooperative performance can be more than expected of the outcome when adding up individual performances, but such cooperation requires that we believe that we can rely on each other or, in other words, that we trust each other.</p>
+  <p>Abraham Maslow’s research into organisations in the 1960s showed that productivity is directly linked to the level of safety and self-actualisation that individuals experience. The most striking insight (at the time) was that different people have to be managed differently. Effective management and collaboration in knowledge work require trusted relationships.</p>
+  <p>Maslow points out that as individuals, we’re constrained in how we can collaborate by the nature of the organization, but that how well an organization can enable collaboration is constrained by the nature of its individuals.</p>
+  <p>In this talk I will explore how we can foster trusted relationships in organizations and what trust is in the context of collaborative work.</p>"
   subtype: presentation
-  speakers: []
+  speakers: [39]
   language: en
-  complexity: "tbd"
+  complexity: "intermediate"
 -
   id: 026
   title: "tbd"
