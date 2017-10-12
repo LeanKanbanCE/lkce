@@ -487,10 +487,18 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
   surname: "Steyaert"
   company: "Okaloa"
   title: "Founder"
-  bio: "Patrick Steyaert is founder of Okaloa. He trains and coaches clients in flow thinking as a way to move towards true Business Agility. Patrick is the co-creator of Okaloa Flowlab business simulations to experience flow and to learn about enterprise flow. He is the Brickell Key Award Winner 2015 for outstanding contribution to the Kanban community with Discovery Kanban and is an LKU Accredited Kanban Trainer and Kanban Coaching Professional. He is a regular speaker at international conferences."
+  bio: "Patrick Steyaert is founder of Okaloa. Patrick teaches, coaches and speaks about 21 st century business agility
+  and setting in motion a new type of change that is more resilient to setbacks. Patrick is the co-creator of Okaloa
+  Flowlab business simulations teaching the foundations of flow, self-organization and active learning as the
+  corner stones of agile business. He is the Brickell Key Award Winner 2015 for outstanding contribution to the
+  Kanban community with Discovery Kanban and is an LKU Accredited Kanban Trainer and Kanban Coaching
+  Professional. He is a regular speaker at international conferences. Arlette Vercammen, co-founder of Okaloa,
+  will be co-facilitating. Toghether with Patrick, she develops Okaloa Flowlab and is responsible for product
+  design, marketing and operations."
   thumbnailUrl: PatrickSteyaert.jpg
   keynote: false
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/patricksteyaert"}
     - {name: "twitter", link: "https://twitter.com/PatrickSteyaert"}
     - {name: "site", link: "https://www.okaloa.com"}
   ribbon:
@@ -599,3 +607,18 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
     - {name: "twitter", link: "https://twitter.com/somesheep"}
   ribbon:
     - {abbr: "Business Matters", title: "Business Matters"}
+-
+  id: 40
+  name: "Arlette"
+  surname: "Vercammen"
+  company: "Okaloa"
+  title: "Co-Founder"
+  bio: "Toghether with Patrick Steyaert, Arlette, co-founder of Okaloa, develops Okaloa Flowlab and is responsible for product
+  design, marketing and operations."
+  thumbnailUrl: ArletteVercammen.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arlette-vercammen-34b131"}
+    - {name: "site", link: "https://www.okaloa.com"}
+  ribbon:
+    - {abbr: "Workshop", title: "Workshop"}

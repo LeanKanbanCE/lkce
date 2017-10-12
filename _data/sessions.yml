@@ -109,12 +109,32 @@
   complexity: "intermediate"
 -
   id: 048
-  title: "more details coming soon"
-  description: "more details coming soon"
+  title: "Okaloa Flowlab simulation"
+  description: "<p>Okaloa Flowlab is a new, experiential, way of teaching and coaching 21 st century business agility that
+  involves the entire organization. Rather than teaching a specific agile or lean method, it allows
+  participants to explore the foundations of flow, self-organization and active learning that together
+  form the corner stones of agile business.</p>
+  <p> On a tactical level, Okaloa Flowlab consists of a set of
+  engaging business simulations that range from teaching business agility basics to advanced
+  simulations that scale up to enterprise level (including upstream and cross-team). As the simulations
+  are not targeted at a specific business domain or a specific function, experience shows that
+  attending an Okaloa Flowlab workshop has a viral, mobilizing effect on all levels (including
+  management) and across all functions (not just IT, but also HR, Marketing and communications,
+  Finance, Legal, Product management, …).</p>
+  <p> On a more strategic level it allows participants to
+  experience the difference between 20 th century old style linear, reductionist thinking about Agile
+  (''either-or'', ''recipe'' thinking) and 21 st century integrative, systems thinking (''and'', ''context-
+  sensitive'' thinking). Scrum, Kanban, SAFe, LeSS, Lean start-up, Sociocracy, Holacracy, … practitioners
+  can all benefit from this new type of thinking as a way to more effective coaching. By setting aside
+  any dogmatic discussions, it builds a common, deeper, understanding between practitioners of
+  different lean and agile methods leading to change that is more resilient to setback.</p>
+  <p>Join this Okaloa
+  Flowlab simulation to get a taste of a more integrative approach to teach and coach 21 st century
+  business agility.</p>"
   subtype: workshop
-  speakers: []
+  speakers: [32, 40]
   language: en
-  complexity: "more details coming soon"
+  complexity: "beginner"
 -
   id: 220
   title: "20x20 - a variety of serious topics, presented in a fun way"
