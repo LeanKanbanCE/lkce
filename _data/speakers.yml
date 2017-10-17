@@ -622,3 +622,18 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
     - {name: "site", link: "https://www.okaloa.com"}
   ribbon:
     - {abbr: "Workshop", title: "Workshop"}
+-
+  id: 41
+  name: "Peter"
+  surname: "Kerschbaumer"
+  company: "eDream Odigeo"
+  title: "Group Head of Lean & Agile Practices"
+  bio: "Peter is one of few certified trainers of Enterprise Services Planning and an expert in building lean and agile development processes at scale (from idea to release). He has for the last three years been leading the evolution of eDreams Odigeo from a plan-driven, inefficient organisation to an agile and lean company with high predictability."
+  thumbnailUrl: PeterKerschbaumer.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kerschbaumer"}
+    - {name: "twitter", link: "https://twitter.com/germanicus1"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
+    - {abbr: "ESPT", title: "Enterprise Services Planning Trainer"}
