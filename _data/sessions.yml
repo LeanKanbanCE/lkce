@@ -66,12 +66,12 @@ in an era of unprecedented and widespread transformation.</p>"
   complexity: "intermediate"
 -
   id: 043
-  title: "more details coming soon"
-  description: "more details coming soon"
+  title: "Welcome to the Jungle"
+  description: "Startup entrepreneurs didn’t invent agile or lean thinking. Both the principles and practices used by ''cutting-edge'' startups and innovative web shops came out of large corporations. And yet, I keep running into resistance when I’m training in multinationals. I'm told, ''That may work in your little startups, but our environment is too complex.'' So, after decades of working with small teams in greenfield startup projects, I took a project management job at the biggest, oldest, global company I could find, just to prove that the theory works even under complex conditions. I’ll be sharing my stories and experiences after almost a year of taking the lean principles I've used in startups into a world of distributed teams, annual performance reviews, conference calls, and acronyms. Some are funny; some are sad, but overall my findings will offer encouragement to people who punch a time clock and wear shoes to work."
   subtype: presentation
   speakers: [8]
   language: en
-  complexity: "more details coming soon"
+  complexity: "beginner"
 -
   id: 044
   title: "Business-Agility@REWE-Digtal - ein Rennen im Nebel"
@@ -84,18 +84,12 @@ in an era of unprecedented and widespread transformation.</p>"
   complexity: "intermediate"
 -
   id: 046
-  title: "The Trouble with Culture"
-  description: "<p>Several highly successful organisations speak proudly about how they have nurtured their company culture.</p>
-  <p>Whilst in some cases this has resulted in a culture of inclusion, in many others it has not. We are left trying to navigate the tension between company culture and inclusivity.</p>
-  <p>This talk examines the temptation to confuse an ''easy'' working environment with a meaningful, creative and productive one. It aims to:</p>
-<ul>
-<li>Challenge our views on cultural fit
-<li>Show how a focus on the ''right attitude'' can feed directly into some core cognitive biases
-<li>Explore why people who are the opposite of what we think we want might be the very thing we need.</ul>"
+  title: ""
+  description: ""
   subtype: presentation
-  speakers: [3]
-  language: en
-  complexity: "more details coming soon"
+  speakers: []
+  language: 
+  complexity: ""
 -
   id: 047
   title: "Be best at getting better"

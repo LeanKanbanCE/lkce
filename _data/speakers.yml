@@ -39,20 +39,6 @@
   ribbon:
     - {abbr: "Keynote", title: "Keynote"}
 -
-  id: 3
-  name: "Sallyann"
-  surname: "Freudenberg"
-  company: "Sallyann Freudenberg Consulting Ltd."
-  title: "Agile Specialist"
-  bio: "Dr. Sallyann Freudenberg is a consultant and trainer focused on more human(e) ways of working. She holds a PhD in the Psychology of Collaborative Software Development and since parenting an autistic son has developed an interest in neuro-diversity. Through re-assessing her own traits and neurology, and considering the extra-ordinary people with whom she has worked over her 25+ years in tech, Sal is raising awareness of the benefits of having diversity in our organisations, and is helping the industry to begin to understand how to support and nurture every kind of brain."
-  thumbnailUrl: SallyannFreudenberg.jpg
-  keynote: false
-  social:
-    - {name: "twitter", link: "http://twitter.com/salfreudenberg"}
-    - {name: "site", link: "https://salfreudenberg.wordpress.com"}
-  ribbon:
-    - {abbr: "Organizational Design", title: "Organizational Design"}
--
   id: 4
   name: "Mattias"
   surname: "Skarin"
@@ -115,16 +101,15 @@
     - {abbr: "KCP", title: "Kanban Coaching Professional"}
 -
   id: 8
-  name: "Katherine"
-  surname: "Kirk"
-  company: "Freelancer"
-  title: "Agile/Lean Coach"
-  bio: "Katherine Kirk is a solidly experienced independent Agile/Lean Coach and regular international conference speaker. Her primary area of expertise lies in co-discovery and insight facilitation through exploring and combining eastern and tribal philosophy to find practical answers to tough, on-the-ground issues, specifically involving contextually driven edge-cases and the cultural interaction between hierarchical management and Agile/Lean teams. After gaining a first class BSc (Hons) in computing she completed post graduate studies in software engineering at University of Oxford and currently enjoys being an active participant of a community of Lean and Agile practitioners in Europe who explore and challenge the status quo through experimenting and collaborating."
-  thumbnailUrl: KatherineKirk.jpg
+  name: "Paul"
+  surname: "Klipp"
+  company: "HSBC"
+  title: "Agile Coach"
+  bio: "Paul is the founder of Lunar Logic and Kanbanery.com. He has been involved in encouraging, supporting, and participating in Polish agile communities for over a decade. He was an early adopter of the Kanban Method and is the only Accredited Kanban Trainer in Poland. He is currently working for the HSBC Service Delivery in Krakow."
+  thumbnailUrl: PaulKlipp.jpg
   keynote: false
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ktkirk"}
-    - {name: "twitter", link: "https://twitter.com/kkirk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paulklipp"}
   ribbon:
     - {abbr: "Organizational Design", title: "Organizational Design"}
 -
