@@ -88,7 +88,7 @@ in an era of unprecedented and widespread transformation.</p>"
   description: ""
   subtype: presentation
   speakers: []
-  language: 
+  language:
   complexity: ""
 -
   id: 047
@@ -207,7 +207,7 @@ in an era of unprecedented and widespread transformation.</p>"
   title: "In 18 Monaten von Quartalsreleases zu Flow mit 2 Wochen Lead-Time"
   description: "<p>In dieser Fallstudie zeigen wir den Weg, den mehrere international verteilte Teams von ''Wir tun was gerade notwendig ist'' zu ''wir kontrollieren den Fluss (der Arbeit)'' gegangen sind.</p><p>Anfang 2016 fingen mehrere Teams bei arvato systems mit einer Initiative zur Verbesserung ihrer Arbeitsweise an und entschieden sich für Kanban als Werkzeug zur Unterstützung bei dieser Aufgabe. Nach mehreren Iteration sowohl des System- als auch des Board-Designs haben wir heute eine Reihe von zusammenarbeitenden Services, die aktiv mit einem Blick auf den Fluss der Arbeit gemanaged werden.</p><p>In diesem Vortrag zeigen wir sowohl die Dinge, die wir ausprobiert haben, die nicht so gut funktioniert haben, als auch diejenigen, die sich entwickelt haben und die funktionieren.</p>"
   subtype: presentation
-  speakers: [18]
+  speakers: [18, 42]
   language: de
   complexity: "intermediate"
 -

@@ -111,6 +111,7 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/paulklipp"}
   ribbon:
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
     - {abbr: "Organizational Design", title: "Organizational Design"}
 -
   id: 9
@@ -622,3 +623,16 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
   ribbon:
     - {abbr: "Kanban", title: "Kanban"}
     - {abbr: "ESPT", title: "Enterprise Services Planning Trainer"}
+-
+  id: 42
+  name: "Claudia"
+  surname: "Stölzel"
+  company: "arvato Systems S4M"
+  title: "Head of Software Development Solutions"
+  bio: "Claudia Stölzel hat seit vielen Jahren eine aktive Rolle bei der Entwicklung von Software und Lösungen für die Medienindustrie. Vor einiger Zeit hat sie die Leitung der Softwareentwicklung bei arvato systems BMS (Broadcast Management Solutions) übernommen. In dieser Rolle war sie eine der treibenden Kräfte hinter der Kanban-Initiative von der wir hier berichten wollen. Treibende Kraft hinter ihrer Motivation wiederum ist ihr unaufhörliches Interesse daran, Prozesse für alle Beteiligten transparent zu machen."
+  thumbnailUrl: ClaudiaStoelzel.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/claudia-stölzel-6b475020/"}
+  ribbon:
+    - {abbr: "Kanban", title: "Kanban"}
