@@ -49,6 +49,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/socialevent/", text: "Social Event"}
+ - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
   - {permalink: "/#tickets", text: "Buy tickets"}
 rightNavigationButtons:
@@ -156,6 +157,7 @@ footerBlocks:
   links:
    - {link: "http://it-agile.de", text: "it-agile GmbH"}
    - {link: "http://leankanban.com", text: "Lean Kanban Inc."}
+   - {permalink: "/cod/", text: "Code of Conduct"}
  -
   title: "Contacts"
   links:
