@@ -142,7 +142,7 @@ in an era of unprecedented and widespread transformation.</p>"
   title: "20x20 - a variety of serious topics, presented in a fun way"
   description: "20x20 will not be announced in advance"
   subtype: 20x20
-  speakers: []
+  speakers: [1, 33, 10, 16]
   language: en
   complexity: "fun"
 -
