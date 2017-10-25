@@ -351,10 +351,10 @@ in an era of unprecedented and widespread transformation.</p>"
   complexity: "beginner"
 -
   id: 023
-  title: "more details coming soon"
-  description: "workshop"
-  subtype: workshop
-  speakers: []
+  title: "Lean Kanban University Programs"
+  description: "If you are interested in earning a credential as a Kanban coach, trainer, or manager with Lean Kanban University, join this informative session to learn about the LKU professional development programs and how to apply.  We will discuss the Lean Kanban body of knowledge, the history, culture and activities of Lean Kanban, and what makes a great Kanban change agent."
+  subtype: information event
+  speakers: [44]
   language: en
   complexity: "beginner"
 -
@@ -395,10 +395,18 @@ in an era of unprecedented and widespread transformation.</p>"
   complexity: ""
 -
   id: 028
-  title: "lightning talks"
-  description: "Lightning talks about various topics from Beyond IT"
+  title: "Lightning talks"
+  description: "
+    <h5>A Poker Mindset</h5>
+    <p>Poker is just a game - of luck. Isn’t it? Why are many very successful entrepreneurs fascinated by this game? What has poker to do with business? How are poker decisions made and how can we transform this approach to our work life?</p><p>For many years I have been a passionate poker player and constantly transfer my learnings from poker to business situations. Let me introduce you to my favorite insights and how a ''poker mindset'' can help you tackling difficult situations or decisions in your daily work.</p>
+
+    <h5>You don't need (yet another system) - you need Agile contracts</h5>
+    <p>Who is this guy? And what the heck is Agile contracts? Let me walk through the basics of Agile contracts and procurement, and share why the people in Värmland (a Swedish county) have a hospital that just works.</p>
+
+    <h5>A new focused leadership model</h5>
+    <p>How good are we at developing our employees? How flexible are we to change our organization according to business and people needs? Let’s look into some ideas how to avoid wasting our employee’s talents.</p>"
   subtype: lightning talks
-  speakers: [4, 27]
+  speakers: [4, 27, 43]
   language: en
   complexity: ""
 -
@@ -415,5 +423,14 @@ in an era of unprecedented and widespread transformation.</p>"
   description: "Who is this guy? And what the heck is Agile contracts? Let me walk through the basics of Agile contracts and procurement, and share why the people in Värmland (a Swedish county) have a hospital that just works."
   subtype: lightning talk
   speakers: [4]
+  language: en
+  complexity: "intermediate"
+-
+  id: 052
+  title: "A new focused leadership model"
+  description: "<p>How good are we at developing our employees? How flexible are we to change our organization according to business and people needs? Let’s look into some ideas how to avoid wasting our employee’s talents.</p>
+  <p>One of my best examples of Lean Exercise in private life is the trip around the world in 325 days which I did with very small budget, minimal equipment and one rule – no hotels J. My work journey shows a couple of different stations, from being an engineer to leading IT Projects and teams into the world of Agility, where I had different roles over time. Currently I am working at trivago, heading the Organizational Agility area – my passion here is detecting and resolving company bottlenecks.</p>"
+  subtype: lightning talk
+  speakers: [43]
   language: en
   complexity: "intermediate"

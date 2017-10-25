@@ -636,3 +636,29 @@ Vor OTTO war er Abteilungsleiter bei Goodgame Studios und zuständig für die we
     - {name: "linkedin", link: "https://www.linkedin.com/in/claudia-stölzel-6b475020/"}
   ribbon:
     - {abbr: "Kanban", title: "Kanban"}
+
+  id: 43
+  name: "Ute"
+  surname: "Krawelitzki"
+  company: "trivago"
+  title: "Agile Coach, Lead of Organizational Agility"
+  bio: "coming soon"
+  thumbnailUrl: UteKrawelitzki.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ute-krawelitzki-805bb337"}
+  ribbon:
+    - {abbr: "Beyond IT", title: "Beyond IT"}
+-
+  id: 44
+  name: "Janice"
+  surname: "Linden-Reed"
+  company: "Lean Kanban Inc."
+  title: "Chief Program Officer"
+  bio: "Janice Linden-Reed is the Chief Program Officer of Lean Kanban, Inc. She has worked to grow the Kanban market worldwide since 2010.  Janice oversees the Lean Kanban training programs and curriculum, the events, and especially the global network of Kanban professionals.  She is based in Seattle, Washington, USA."
+  thumbnailUrl: JaniceLindenReed.jpg
+  keynote: false
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/janicel1"}
+  ribbon:
+    - {abbr: "Information Event", title: "Information Event"}
