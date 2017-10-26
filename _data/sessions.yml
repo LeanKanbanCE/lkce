@@ -50,12 +50,14 @@ in an era of unprecedented and widespread transformation.</p>"
   complexity: "intermediate"
 -
   id: 041
-  title: "more details coming soon"
-  description: "more details coming soon"
+  title: "Progressive Organizations"
+  description: "<p>Every year we hear about another novel approach to management: Holacracy, Teal, Sociocracy, and whatnot. Many proponents of these methods offer a view that their approach will become the mainstream, or even standard, way of managing organizations in foreseeable future. Should we embark on a journey of transforming our companies to one of these models? If so, which one is the way to go?</p>
+  <p>In this presentation, we’ll look beyond technicalities of each method and define common themes and underlying patterns. These themes and patterns are what in the first place enabled emergence of new approaches to management. They are also what fuels the changes we experience in novel workplace. In that course of  discussion we will dive into the concepts of autonomy, transparency and alignment. We will cover different contexts of leadership. We will explore how the end game of organizational design may look like.</p>
+  <p>Only through understanding this bigger picture we are able to discern valuable parts from the snake oil. That, in turn, enables us to transform our organizations not by applying a method as a recipe but rather using it as inspiration to find the right approach in any given context. Ultimately, that’s what gives an organization an edge both in commercial context and, even more importantly, on a job market.</p>"
   subtype: presentation
   speakers: [33]
   language: en
-  complexity: "more details coming soon"
+  complexity: "intermediate"
 -
   id: 042
   title: "Warum agile Teams nichts mit Business-Agilität zu tun hat"
@@ -147,12 +149,12 @@ in an era of unprecedented and widespread transformation.</p>"
   complexity: "fun"
 -
   id: 002
-  title: "more details coming soon"
+  title: "Manage Flow - crossing the chasm"
   description: "more details coming soon"
   subtype: presentation
   speakers: [15]
   language: en
-  complexity: "more details coming soon"
+  complexity: "intermediate"
 -
   id: 049
   title: "A Siberian tale of two Kanban implementations"
