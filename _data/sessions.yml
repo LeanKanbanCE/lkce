@@ -223,7 +223,9 @@ in an era of unprecedented and widespread transformation.</p>"
 -
   id: 009
   title: "Implement ALL the cadences!?"
-  description: "My plan is to show a brief overview of the cadences and explain the reason why they are relevant in general. Then, I will give an introduction to the case study and give detailed facts about how we implemented the different meetings. We will reflect on the why again, this time with direct reference to the need of the company in the case study."
+  description: "<p>Have you ever wondered who actually bothers with implementing all seven Kanban cadences? Beginning of this year, I was asked whether I had ever seen full implementation. I was able to confirm – I helped one of my clients implement all cadences</p>.
+  <p>But should YOU implement them? Probably! They make a lot of sense.</p>
+<p>With the case study at hand, we will go through all cadences and explain in detail what‘s in it for the implementing organization. So after this talk, you will have a list of things you should think about concerning your very own Kanban implementation. And maybe ask yourself why you might not have thought about doing a larger scale risk review...</p>"
   subtype: presentation
   speakers: [20]
   language: de
