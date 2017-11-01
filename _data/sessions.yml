@@ -86,11 +86,11 @@ in an era of unprecedented and widespread transformation.</p>"
   complexity: "intermediate"
 -
   id: 046
-  title: ""
-  description: ""
-  subtype: presentation
+  title: "Lean Coffee"
+  description: "Grab a coffee, bring your topic! Discuss your idea with others or share your problem and get advice!"
+  subtype: lean coffee
   speakers: []
-  language:
+  language: en
   complexity: ""
 -
   id: 047
