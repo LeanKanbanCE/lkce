@@ -150,11 +150,13 @@ in an era of unprecedented and widespread transformation.</p>"
 -
   id: 002
   title: "Manage Flow - crossing the chasm"
-  description: "more details coming soon"
+  description: "<p>Kanban first principle ''Start with what you do now'' and its first practice ''Visualize'' go hand in hand. Visualizing is the first step to learn about your work and the system wherein it is processed - how it arrives, how it flows through your system and delivered to the requester.</p>
+  <p>But all the learning isn’t worth anything, if you never start to manage the flow of work. Only by managing the flow of work and only then, you can cross the chasm and move from sustainable service delivery to service-oriented service delivery.</p>
+  <p>This talk will help you understand the importance of the third Kanban practice „Manage Flow“ and how to actually manage the flow of work and eventually provide a service your customer will call fit for purpose.</p>"
   subtype: presentation
   speakers: [15]
   language: en
-  complexity: "intermediate"
+  complexity: "beginner"
 -
   id: 049
   title: "A Siberian tale of two Kanban implementations"
