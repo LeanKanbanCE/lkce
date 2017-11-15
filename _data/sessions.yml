@@ -31,7 +31,8 @@
   subtype: keynote
   speakers: [1]
   language: en
-  complexity: ""
+  complexity:
+  slides: LKCE17_SimonWardley.pdf
 -
   id: 040
   title: "Keynote: Successful digital transformation - seven strategies to drive change"
@@ -48,6 +49,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [2]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_MarjannaToiminen.pdf
 -
   id: 041
   title: "Progressive Organizations"
@@ -58,6 +60,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [33]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_PawelBrodzinski.pdf
 -
   id: 042
   title: "Warum agile Teams nichts mit Business-Agilität zu tun hat"
@@ -66,6 +69,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [7]
   language: de
   complexity: "intermediate"
+  slides: LKCE17_KlausLeopoldEN.pdf
 -
   id: 043
   title: "Welcome to the Jungle"
@@ -74,6 +78,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [8]
   language: en
   complexity: "beginner"
+  slides:
 -
   id: 044
   title: "Business-Agility@REWE-Digital - ein Rennen im Nebel"
@@ -84,6 +89,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [31]
   language: de
   complexity: "intermediate"
+  slides: LKCE17_DanielSchimera.pdf
 -
   id: 046
   title: "Lean Coffee"
@@ -111,6 +117,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [38]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_CliffHazell.pdf
 -
   id: 048
   title: "Okaloa Flowlab simulation"
@@ -147,6 +154,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [1, 33, 10, 16]
   language: en
   complexity: "fun"
+  slides: 20x20.zip
 -
   id: 002
   title: "Manage Flow - crossing the chasm"
@@ -157,6 +165,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [15]
   language: en
   complexity: "beginner"
+  slides: LKCE17_WolfgangWiedenroth.pdf
 -
   id: 049
   title: "A Siberian tale of two Kanban implementations"
@@ -165,14 +174,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [21]
   language: en
   complexity: "beginner"
--
-  id: 050
-  title: "more details coming soon"
-  description: "more details coming soon"
-  subtype: presentation
-  speakers: [32]
-  language: en
-  complexity: "more details coming soon"
+  slides: LKCE17_KatyaTerekhova.pdf
 -
   id: 003
   title: "Keynote: First Who, Then Why"
@@ -181,6 +183,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [0]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_DavidAnderson.pdf
 -
   id: 004
   title: "From 20/20 Hindsight to ESP at Optimizely"
@@ -189,6 +192,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [11, 12]
   language: en
   complexity: "beginner"
+  slides: LKCE17_JeffZych.pdf
 -
   id: 005
   title: "Whole Organisation Kanban: how to start; how to scale"
@@ -198,6 +202,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [16]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_AndyCarmichael.pdf
 -
   id: 006
   title: "Kanban Maturity Model: Why should you care about it?"
@@ -206,6 +211,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [17]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_TeodoraBozheva.pdf
 -
   id: 007
   title: "In 18 Monaten von Quartalsreleases zu Flow mit 2 Wochen Lead-Time"
@@ -214,6 +220,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [18, 42]
   language: de
   complexity: "intermediate"
+  slides:
 -
   id: 008
   title: "Kanban in SAFe waters"
@@ -222,6 +229,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [19]
   language: de
   complexity: "intermediate"
+  slides: LKCE17_SusanneBartel.pdf
 -
   id: 009
   title: "Implement ALL the cadences!?"
@@ -232,6 +240,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [20]
   language: de
   complexity: "beginner"
+  slides:
 -
   id: 010
   title: "The Kanban Guide: Self-Coaching Options for Teams"
@@ -240,6 +249,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [22, 23]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_CasalBailey.pdf
 -
   id: 011
   title: "Portfolio Kanban - The Common Sense Approach to Scaling Lean"
@@ -248,6 +258,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [24]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_DimitarKaraivanov.pdf
 -
   id: 012
   title: "The evolution of a Portfolio Wall"
@@ -256,6 +267,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [25]
   language: en
   complexity: "expert"
+  slides: LKCE17_AnnaMiedzianowska.pdf
 -
   id: 013
   title: "Making the Change: Going Agile at the Department of Labor"
@@ -264,6 +276,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [26]
   language: en
   complexity: "intermediate"
+  slides:
 -
   id: 014
   title: "A Poker Mindset"
@@ -272,6 +285,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [27]
   language: en
   complexity: "intermediate"
+  slides:
 -
   id: 015
   title: "Being Agile - It is not about being fast, it is about making impact!"
@@ -280,6 +294,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [28]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_MatthiasPatzak.pdf
 -
   id: 016
   title: "Agility and self-organisation. The Computest Story"
@@ -304,6 +319,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [29]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_SigiKaltenecker.pdf
 -
   id: 017
   title: "Faktor Mensch - 350 Menschen, ein Ziel @OTTO.de"
@@ -320,6 +336,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [14]
   language: en
   complexity: "intermediate"
+  slides:
 -
   id: 019
   title: "''Are we working on the most important thing now?''"
@@ -328,6 +345,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [13]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_ÅsaBredin.pdf
 -
   id: 020
   title: "Applying lean principles and agile tools in marketing"
@@ -347,6 +365,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [9]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_PiotrProkopowicz.pdf
 -
   id: 022
   title: "NoEstimates Workshop: Forecasting with Less Effort and More Accuracy"
@@ -373,16 +392,13 @@ in an era of unprecedented and widespread transformation.</p>"
   complexity: "intermediate"
 -
   id: 025
-  title: "Putting collaboration and trust at the heart of work"
-  description: "<p>In work, we solve other people’s problems and we mostly do so by collaborating with people. Work is a social activity, which makes managing work a social practice. But management, in most of its current incarnations, is an institutionalized form of distrust.</p>
-  <p>In knowledge work, where the underlying complexity exceeds the ability of any individual to realize valuable outcomes for customers, it’s in the interactions where we create capability beyond the individual. Cooperative performance can be more than expected of the outcome when adding up individual performances, but such cooperation requires that we believe that we can rely on each other or, in other words, that we trust each other.</p>
-  <p>Abraham Maslow’s research into organisations in the 1960s showed that productivity is directly linked to the level of safety and self-actualisation that individuals experience. The most striking insight (at the time) was that different people have to be managed differently. Effective management and collaboration in knowledge work require trusted relationships.</p>
-  <p>Maslow points out that as individuals, we’re constrained in how we can collaborate by the nature of the organization, but that how well an organization can enable collaboration is constrained by the nature of its individuals.</p>
-  <p>In this talk I will explore how we can foster trusted relationships in organizations and what trust is in the context of collaborative work.</p>"
+  title: "Why Agile Teams Have Nothing With Business Agility"
+  description: ""
   subtype: presentation
-  speakers: [39]
+  speakers: [7]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_KlausLeopoldEN.pdf
 -
   id: 026
   title: "Evolutionary change from the trenches"
@@ -391,6 +407,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [41]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_PeterKerschbaumer.pdf
 -
   id: 027
   title: "Improving your Service Delivery Review and identification of risks with TLM"
@@ -398,7 +415,7 @@ in an era of unprecedented and widespread transformation.</p>"
   subtype: workshop
   speakers: [35, 36]
   language: en
-  complexity: ""
+  complexity:
 -
   id: 028
   title: "Lightning talks"
@@ -414,7 +431,8 @@ in an era of unprecedented and widespread transformation.</p>"
   subtype: lightning talks
   speakers: [4, 27, 43]
   language: en
-  complexity: ""
+  complexity:
+  slides:
 -
   id: 045
   title: "Alignment: the forgotten child"
@@ -423,6 +441,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [6]
   language: en
   complexity: "intermediate"
+  slides: LKCE17_ArneRoock.pdf
 -
   id: 051
   title: "You don't need (yet another system) - you need Agile contracts"
@@ -431,6 +450,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [4]
   language: en
   complexity: "intermediate"
+  slides:
 -
   id: 052
   title: "A new focused leadership model"
@@ -440,3 +460,4 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [43]
   language: en
   complexity: "intermediate"
+  slides:
