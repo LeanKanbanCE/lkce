@@ -220,7 +220,7 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [18, 42]
   language: de
   complexity: "intermediate"
-  slides:
+  slides: LKCE17_MahlbergStoelzel.pdf
 -
   id: 008
   title: "Kanban in SAFe waters"
