@@ -160,6 +160,7 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "fun"
   slides: 20x20.zip
+  video: "https://player.vimeo.com/video/244002864"
 -
   id: 002
   title: "Manage Flow - crossing the chasm"
@@ -264,6 +265,7 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_CasalBailey.pdf
+  video: "https://player.vimeo.com/video/244003484"
 -
   id: 011
   title: "Portfolio Kanban - The Common Sense Approach to Scaling Lean"
@@ -283,7 +285,7 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "expert"
   slides: LKCE17_AnnaMiedzianowska.pdf
-  video:
+  video: "https://player.vimeo.com/video/244004413"
 -
   id: 013
   title: "Making the Change: Going Agile at the Department of Labor"
@@ -293,6 +295,8 @@ in an era of unprecedented and widespread transformation.</p>"
   language: en
   complexity: "intermediate"
   slides: LKCE17_JoeySpooner.pdf
+  video: "https://player.vimeo.com/video/244015237"
+
 -
   id: 014
   title: "A Poker Mindset"
@@ -301,7 +305,8 @@ in an era of unprecedented and widespread transformation.</p>"
   speakers: [27]
   language: en
   complexity: "intermediate"
-  slides:
+  slides: LKCE17_TobiasKupke.pdf
+  video: "https://player.vimeo.com/video/243658294"
 -
   id: 015
   title: "Being Agile - It is not about being fast, it is about making impact!"
