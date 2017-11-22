@@ -135,12 +135,12 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Single Ticket"
-  price: "1000"
+  name: "LKCE18 - Super Early Bird Ticket"
+  price: "700"
   priceCurrency: "EUR (excl. 19% VAT)"
-  ticketsNumber: ""
+  ticketsNumber: "50"
   ribbon: ""
-  buyButtonLink: "http://ti.to/lkce/lkce17"
+  buyButtonLink: "http://ti.to/lkce/lkce18"
   buyButtonText: "Buy Now - the price will go up"
   ticketContentList: ["2 Days", "3 Tracks", "Social Event"]
   validFrom: "2017-11-25T10:00"
