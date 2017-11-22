@@ -58,9 +58,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "aligned.png"
 heroTitle: "Lean Kanban Central Europe <typeout>"
-eventDate: "7th + 8th November, 2017"
-typeoutTextValues: '"", "2017"'
-typeoutFallback: "2017"
+eventDate: "5th + 6th November, 2018"
+typeoutTextValues: '"", "2018"'
+typeoutFallback: "2018"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -85,8 +85,8 @@ latestNewsTitle: "Latest news"
 # Keynote Speakers Block
 keynoteSpeakersImage: "speakers.jpg"
 keynoteSpeakersCount: 3
-keynoteSpeakersTitle: "Keynote Speakers"
-keynoteSpeakersButtonText: "See all speakers"
+keynoteSpeakersTitle: "Keynote Speakers LKCE2017"
+keynoteSpeakersButtonText: "See all LKCE17 speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -111,7 +111,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Curio-Haus"
-venueFeatures: ["4 rooms", "Lounge to relax and talk", "Located close to the Außenalster"]
+venueFeatures: ["3 rooms", "Lounge to relax and talk", "Located close to the Außenalster"]
 
 # Tweets Feed Block
 tweetsFeedImage: "direction-details.jpg"
@@ -121,7 +121,7 @@ twitterFeed: "http://leankanbance.com/tweetledee/searchjson.php?q=#lkce17&rt=rec
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Partners 2017"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
