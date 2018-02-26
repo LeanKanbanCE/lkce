@@ -1,17 +1,12 @@
 -
   group: "Diamond sponsor"
   elements:
-    - {name: "Kanbanize", description: "Kanbanize", link: "https://kanbanize.com", imageUrl: "kanbanize.svg"}
 -
   group: "Platinum sponsor"
   elements:
-    - {name: "Leanovate", description: "Leanovate", link: "https://leanovate.de", imageUrl: "leanovate.svg"}
-    - {name: "SwiftKanban", description: "SwiftKanban", link: "https://www.digite.com/swiftkanban/", imageUrl: "SwiftKanban.png"}
 -
   group: "Silver sponsor"
   elements:
-    - {name: "Sven Kunz", description: "Unternehmensberater Sven Kunz", link: "http://www.svenkunz.de", imageUrl: "SvenKunz.svg"}
 -
   group: "Media partner"
   elements:
-    - {name: "t3n", description: "digital pioneers", link: "http://www.t3n.de", imageUrl: "t3n.png"}
