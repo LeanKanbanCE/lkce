@@ -52,8 +52,10 @@ navigationLinks:
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
   - {permalink: "/#tickets", text: "Buy tickets"}
+  - {permalink: "/#subscribe", text: "Subscribe for updates"}
 rightNavigationButtons:
   - {permalink: "/#tickets", text: "Buy tickets"}
+  - {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 # Hero Block
 heroImage: "lkce18.jpg"
@@ -63,6 +65,7 @@ typeoutTextValues: '"", "2018"'
 typeoutFallback: "2018"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
