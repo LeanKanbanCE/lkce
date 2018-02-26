@@ -100,9 +100,9 @@ eventAddressLocality: "Hamburg"
 eventAddressLocalityRegion: "Hamburg"
 eventPostalCode: "20148"
 eventAddressCountry: "Germany"
-eventStartTime: "2017-11-07T09:30"
+eventStartTime: "2018-05-07T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2017-11-08T18:00"
+eventEndTime: "2018-06-08T18:00"
 eventPlaceCoordinates: "53.565018, 9.989006"
 mapCenterCoordinates: "53.565018, 9.989006"
 mapMobileCenterCoordinates: "53.565018, 9.989006"
@@ -131,7 +131,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://leankanbance.us14.list-manage.com/subscribe?u=2bd0e07c5708b08b6078676f5&id=e3eb8d6386"
-subscribeInfo: ""
+subscribeInfo: "We'll keep you updating on a monthly basis"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -145,9 +145,9 @@ ticketsOffers:
   ribbon: ""
   buyButtonLink: "http://ti.to/lkce/lkce18"
   buyButtonText: "Buy Now - the price will go up"
-  ticketContentList: ["2 Days", "3 Tracks", "Social Event"]
-  validFrom: "2017-11-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  ticketContentList: ["2 Days", "2 Tracks", "Social Event"]
+  validFrom: "2018-11-25T10:00"
+  validThrough: "2018-09-30T23:59"
 
 # Footer
 socialLinks:
@@ -182,7 +182,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "It all started 2011 in Munich and since then Lean Kanban Central Europe grew to the biggest and most popular conference on Lean and Kanban. Our mission has always been and will be again in 2017 to host an unforgetable event for system thinkers, managers, leaders, out-of-the-box-thinkers, entrepreneurs, product developers, and people who care about the way they work."
+aboutUs: "It all started 2011 in Munich and since then Lean Kanban Central Europe grew to the biggest and most popular conference on Lean and Kanban. Our mission has always been and will be again in 2018 to host an unforgetable event for system thinkers, managers, leaders, out-of-the-box-thinkers, entrepreneurs, product developers, and people who care about the way they work."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
