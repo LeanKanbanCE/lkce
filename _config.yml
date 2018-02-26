@@ -56,7 +56,7 @@ rightNavigationButtons:
   - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "aligned.png"
+heroImage: "curio.jpg"
 heroTitle: "Lean Kanban Central Europe <typeout>"
 eventDate: "5th + 6th November, 2018"
 typeoutTextValues: '"", "2018"'
