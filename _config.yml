@@ -56,7 +56,7 @@ rightNavigationButtons:
   - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "curio.jpg"
+heroImage: "lkce18.jpg"
 heroTitle: "Lean Kanban Central Europe <typeout>"
 eventDate: "5th + 6th November, 2018"
 typeoutTextValues: '"", "2018"'
@@ -74,16 +74,16 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of Lean and Kanban"}
- - {count: "30", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus workshops"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus workshops"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Keynote Speakers Block
-keynoteSpeakersImage: "speakers.jpg"
+keynoteSpeakersImage: "lkce18.jpg"
 keynoteSpeakersCount: 3
 keynoteSpeakersTitle: "Keynote Speakers LKCE2017"
 keynoteSpeakersButtonText: "See all LKCE17 speakers"
