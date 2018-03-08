@@ -44,11 +44,11 @@ c4sponsorsUrl: "/assets/Sponsoring_LKCE17.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule 2017"}
+ - {permalink: "/speakers/", text: "Speakers 2017"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/socialevent/", text: "Social Event"}
+ - {permalink: "/socialevent/", text: "Social Event 2017"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 bottomNavigationLinks:
   - {permalink: "/#tickets", text: "Buy tickets"}
