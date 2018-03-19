@@ -141,7 +141,7 @@ ticketsOffers:
   name: "LKCE18 - Early Bird Ticket"
   price: "800"
   priceCurrency: "EUR (excl. 19% VAT)"
-  ticketsNumber: "50"
+  ticketsNumber: "1"
   ribbon: ""
   buyButtonLink: "http://ti.to/lkce/lkce18"
   buyButtonText: "Buy Now - the price will go up"
