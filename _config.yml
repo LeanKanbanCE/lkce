@@ -44,12 +44,13 @@ c4sponsorsUrl: "/assets/Sponsoring_LKCE17.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule 2017"}
- - {permalink: "/speakers/", text: "Speakers 2017"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/socialevent/", text: "Social Event 2017"}
+# - {permalink: "/socialevent/", text: "Social Event"}
  - {permalink: "/cod/", text: "Code of Conduct"}
+ - {permalink: "/archive/", text: "Previous Events"}
 bottomNavigationLinks:
   - {permalink: "/#tickets", text: "Buy tickets"}
   - {permalink: "/#subscribe", text: "Subscribe for updates"}
@@ -203,7 +204,9 @@ directionDetailsCards:
  - {title: "From the Airport", information: 'The airport is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.hamburg-airport.de/en/bus_rail_and_transfer.php">airport website</a>.'}
  - {title: "Public Transit", information: 'Go to Hamburg Dammtor for public transportation to the central station, the airport or anywhere else in Hamburg.'}
 
-directionDetailsWideCards:
+# Archive Direction Details Block
+archiveDetailsImage: "direction-details.jpg"
+archiveDetailsTitle: "Take a tour through LKCE history"
 
 # Logistics Hotels Block
 hotelsTitle: "Hotels"
