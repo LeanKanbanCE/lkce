@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Lean Kanban Central Europe"
 
 email: "lkce@it-agile.de"
-description: "World's biggest conference on Lean and Kanban!"
+description: "World's biggest conference on Lean Kanban!"
 baseurl: ""
 url: "http://www.leankanbance.com"
 permalink: "/blog/:title"
@@ -36,7 +36,7 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/cfp-lkce17"
+c4pUrl: "http://bit.ly/cfp-lkce18"
 c4sponsorsUrl: "/assets/Sponsoring_LKCE17.pdf"
 
 
