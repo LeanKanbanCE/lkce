@@ -139,8 +139,8 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "LKCE18 - Early Bird Ticket"
-  price: "800"
+  name: "LKCE18 - 2 days Ticket"
+  price: "900"
   priceCurrency: "EUR (excl. 19% VAT)"
   ticketsNumber: "1"
   ribbon: ""
