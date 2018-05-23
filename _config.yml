@@ -53,7 +53,7 @@ navigationLinks:
  - {permalink: "/archive/", text: "Previous Events"}
 bottomNavigationLinks:
   - {permalink: "/#tickets", text: "Buy tickets"}
-  - {link: "http://bit.ly/cfp-lkce18", text: "Become a speaker"}
+  - {permalink: "/#subscribe", text: "Subscribe for updates"}
 rightNavigationButtons:
   - {permalink: "/#tickets", text: "Buy tickets"}
   - {permalink: "/#subscribe", text: "Subscribe for updates"}
@@ -66,7 +66,7 @@ typeoutTextValues: '"", "2018"'
 typeoutFallback: "2018"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "http://bit.ly/cfp-lkce18", text: "Become a speaker"}
+ - {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
