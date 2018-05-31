@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/cfp-lkce18"
-c4sponsorsUrl: "/assets/Sponsoring_LKCE17.pdf"
+c4sponsorsUrl: "/assets/Sponsoring_LKCE18.pdf"
 
 
 # Navigation
@@ -67,6 +67,7 @@ typeoutFallback: "2018"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
+ - {permalink: "/assets/Sponsoring_LKCE18.pdf" , text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
