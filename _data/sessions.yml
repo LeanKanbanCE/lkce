@@ -26,11 +26,11 @@
   service: false
 -
   id: 001
-  title: "Crossing the river by feeling the stones"
-  description: "<p>Deng Xiaoping once described managing the economy as crossing the river by feeling the stones—in other words have a direction but be adaptive. But in a world of constant change, how do you determine the right thing to do? Which pebble to tread on? How do you understand where you’re going and where you need to go? How do you know if your strategy is right? Is there even such a thing? </p><p>Simon Wardley examines the issue of situational awareness and explains how it applies to technology. Using examples from government and the commercial world, he explores how you can map a complex environment, identify opportunities to exploit, what techniques to use and learn to play the game.</p>"
+  title: "The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power"
+  description: ""
   subtype: keynote
-  speakers: [1]
+  speakers: [0]
   language: en
   complexity:
-  slides: LKCE17_SimonWardley.pdf
-  video: "https://player.vimeo.com/video/243638361"
+  slides:
+  video:
