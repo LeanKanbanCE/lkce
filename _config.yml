@@ -72,8 +72,7 @@ heroButtons:
 aboutTitle: "About Lean Kanban Central Europe"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Come and join us at the world’s most popular Lean Kanban conference of this world wide series. Two days packed with inspiring talks, workshops and networking opportunities."}
- - {title: "Social Event", image: "socialevent.jpg", text: "Join us for an evening of exchanging ideas, meeting new people and your favorite speaker while having a beer!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Want to dig even deeper? Stay in Hamburg and attend one of many workshop that will take place on Nov. 9th. Stay tuned for more information!" }
+ - {title: "Social Event", image: "hardrock_logo.jpg", text: "Join us at Hard Rock Café Hamburg for an evening of exchanging ideas, meeting new people and your favorite speaker while having a beer with a breath-taking view over the harbour." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -90,7 +89,7 @@ latestNewsTitle: "Latest news"
 keynoteSpeakersImage: "lkce18.jpg"
 keynoteSpeakersCount: 3
 keynoteSpeakersTitle: "Keynote Speakers LKCE2017"
-keynoteSpeakersButtonText: "See all LKCE17 speakers"
+keynoteSpeakersButtonText: "See all LKCE18 speakers"
 
 # Location Block
 locationBlockTitle: "Location"
