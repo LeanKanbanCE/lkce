@@ -1,13 +1,16 @@
 -
   id: 0
-  name: "David J."
-  surname: "Anderson"
-  company: "Lean Kanban Inc."
-  title: "Chairman"
-  bio: "David Anderson is a thought leader in managing effective teams. He leads a consulting, training and publishing and event planning business dedicated to developing, promoting and implementing sustainable evolutionary approaches for management of knowledge workers. He has 30+ years experience in the high technology industry starting with computer games in the early 1980’s. He has led software teams delivering superior productivity and quality using innovative agile methods at large companies such as Sprint and Motorola. David is the pioneer of the Kanban Method, an approach to evolutionary to improvement, and Enterprise Services Planning, a system of management for modern businesses operating in complex environments.</br></br>David is the author of three books, Kanban – Successful Evolutionary Change for your Technology Business; Lessons in Agile Management: On the Road to Kanban, and Agile Management for Software Engineering – Applying the Theory of Constraints for Business Results."
-  thumbnailUrl: DavidAnderson.jpg
+  name: "Christopher"
+  surname: "Avery"
+  company: "Partnerwerks Inc."
+  title: "CEO"
+  bio: "'The Responsibility Process guy' is a reformed management consultant. After a decade helping corporations help smart, ambitious professionals find ways to cope with lives they don't want and think they can't change, Christopher realized coping skills are overrated. A better skill is knowing how to apply your innate leadership ability to face and overcome any challenge.</br></br>
+  That's freeing.</br></br>
+  Today he supports leaders and leadership teams in generating newfound freedom, choice, and power for themselves and others. How? By advancing the world's first proven how-to approach for understanding, teaching, and taking personal responsibility.</br></br>
+  Christopher is the CEO of Partnerwerks, Inc., the leadership development firm. Wondering why so many smart people spend unhappy lives at work, he left a perfectly good job in his mid-twenties to return to school and earn a Ph.D. in organization science from the University of Texas at Austin."
+  thumbnailUrl: ChristopherAvery.jpg
   keynote: true
   social:
-    - {name: "twitter", link: "http://twitter.com/lki_dja"}
+    - {name: "twitter", link: "http://twitter.com/ChristopherAver"}
   ribbon:
     - {abbr: "Keynote", title: "Keynote"}
