@@ -1,6 +1,7 @@
 -
   group: "Diamond sponsor"
   elements:
+    - {name: "Kanbanize", description: "Kanbanize", link: "https://kanbanize.com", imageUrl: "kanbanize.svg"}
 -
   group: "Platinum sponsor"
   elements:
