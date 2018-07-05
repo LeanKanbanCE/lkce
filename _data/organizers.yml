@@ -1,8 +1,4 @@
 -
-  group: "Main organizer"
+  group: "Organized by"
   elements:
     - {name: "it-agile GmbH", description: "Consultancy for Agile methods.", link: "http://it-agile.de", imageUrl: "it-agile.png"}
--
-  group: "Co-organizers"
-  elements:
-    - {name: "Lean Kanban Inc.", description: "Management Training for Professional Services", link: "http://leankanban.com/", imageUrl: "lkce.png"}
