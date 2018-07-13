@@ -1,12 +1,15 @@
 -
-  date: "2017-09-07"
-  dateReadable: "November 07"
+  date: "2018-11-05"
+  dateReadable: "November 05"
   tracks:
-    - {title: "Organizational Design", color: "#C3C3C3"}
-    - {title: "Business Matters", color: "#A2D9F6"}
-    - {title: "Kanban", color: "#F9BB81"}
-    - {title: "Workshops", color: "#FFFFFF"}
+    - {title: "Upstreams", color: "#C3C3C3"}
+    - {title: "Downstream", color: "#F9BB81"}
   timeslots:
+    - {
+    	startTime: "09:30",
+    	endTime: "10:00",
+    	sessionIds: [307]
+    }
     - {
     	startTime: "10:00",
     	endTime: "10:10",
@@ -18,58 +21,91 @@
       sessionIds: [001]
     }
     - {
-    	startTime: "11:10",
-    	endTime: "11:40",
-    	sessionIds: [307]
+      startTime: "11:10",
+      endTime: "11:20",
+      sessionIds: [311]
     }
     - {
-    	startTime: "11:40",
-    	endTime: "12:20",
-    	sessionIds: [021, 019, 006, 023]
+    	startTime: "11:20",
+    	endTime: "11:50",
+    	sessionIds: [002, 003]
+    }
+    - {
+    	startTime: "11:50",
+    	endTime: "12:00",
+    	sessionIds: [311]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:30",
+    	sessionIds: [004, 005]
     }
     - {
     	startTime: "12:30",
+    	endTime: "12:40",
+    	sessionIds: [311]
+    }
+    - {
+    	startTime: "12:40",
     	endTime: "13:10",
-    	sessionIds: [041, 015, 011, 023]
+    	sessionIds: [006, 007]
     }
     - {
     	startTime: "13:10",
-    	endTime: "14:20",
-    	sessionIds: [503]
+    	endTime: "14:10",
+    	sessionIds: [312]
     }
     - {
-    	startTime: "14:20",
-    	endTime: "15:10",
-    	sessionIds: [220]
+    	startTime: "14:10",
+    	endTime: "14:40",
+    	sessionIds: [008, 009]
+    }
+    - {
+    	startTime: "14:40",
+    	endTime: "14:50",
+    	sessionIds: [311]
+    }
+    - {
+    	startTime: "14:50",
+    	endTime: "15:20",
+    	sessionIds: [010, 011]
     }
     - {
     	startTime: "15:20",
-    	endTime: "16:00",
-    	sessionIds: [045, 042, 012, 022]
+    	endTime: "15:50",
+    	sessionIds: [310]
     }
     - {
-    	startTime: "16:00",
+    	startTime: "15:50",
+    	endTime: "16:20",
+    	sessionIds: [012, 013]
+    }
+    - {
+    	startTime: "16:20",
     	endTime: "16:30",
-    	sessionIds: [307]
+    	sessionIds: [310]
     }
     - {
     	startTime: "16:30",
-    	endTime: "17:10",
-    	sessionIds: [043, 044, 013, 022]
+    	endTime: "17:30",
+    	sessionIds: [014]
     }
     - {
-    	startTime: "17:20",
+    	startTime: "17:30",
     	endTime: "18:00",
-    	sessionIds: [046, 017, 010, 022]
+    	sessionIds: [313]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "23:00",
+    	sessionIds: [314]
     }
 -
-  date: "2017-09-08"
-  dateReadable: "November 08"
+  date: "2018-11-06"
+  dateReadable: "November 06"
   tracks:
-    - {title: "Beyond IT", color: "#C3C3C3"}
-    - {title: "Business Matters", color: "#A2D9F6"}
-    - {title: "Kanban", color: "#F9BB81"}
-    - {title: "Workshops", color: "#FFFFFF"}
+    - {title: "Upstream", color: "#C3C3C3"}
+    - {title: "Downstream", color: "#F9BB81"}
   timeslots:
     - {
     	startTime: "09:00",
@@ -78,51 +114,81 @@
     }
     - {
     	startTime: "09:10",
-    	endTime: "10:10",
-    	sessionIds: [040]
+    	endTime: "09:40",
+    	sessionIds: [015, 016]
     }
     - {
-      startTime: "10:20",
-      endTime: "11:00",
-      sessionIds: [020, 016, 007, 048]
+      startTime: "09:40",
+      endTime: "09:50",
+      sessionIds: [311]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:30",
-    	sessionIds: [307]
+    	startTime: "09:50",
+    	endTime: "10:20",
+    	sessionIds: [017, 018]
     }
     - {
-    	startTime: "11:30",
-    	endTime: "12:10",
-    	sessionIds: [005, 047, 008, 048]
+    	startTime: "10:20",
+    	endTime: "11:10",
+    	sessionIds: [315]
+    }
+    - {
+    	startTime: "11:10",
+    	endTime: "11:40",
+    	sessionIds: [019, 020]
+    }
+    - {
+    	startTime: "11:40",
+    	endTime: "11:50",
+    	sessionIds: [311]
+    }
+    - {
+    	startTime: "11:50",
+    	endTime: "12:20",
+    	sessionIds: [021, 022]
     }
     - {
     	startTime: "12:20",
+    	endTime: "12:30",
+    	sessionIds: [311]
+    }
+    - {
+    	startTime: "12:30",
     	endTime: "13:00",
-    	sessionIds: [018, 002, 009, 048]
+    	sessionIds: [023, 024]
     }
     - {
     	startTime: "13:00",
-    	endTime: "14:20",
-    	sessionIds: [503]
+    	endTime: "14:00",
+    	sessionIds: [312]
     }
     - {
-    	startTime: "14:20",
-    	endTime: "15:00",
-    	sessionIds: [024, 025, 004, 027]
+    	startTime: "14:00",
+    	endTime: "14:30",
+    	sessionIds: [025, 026]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "14:40",
+    	sessionIds: [311]
+    }
+    - {
+    	startTime: "14:40",
+    	endTime: "15:10",
+    	sessionIds: [027, 028]
     }
     - {
     	startTime: "15:10",
-    	endTime: "15:50",
-    	sessionIds: [028, 026, 049, 027]
+    	endTime: "15:20",
+    	sessionIds: [311]
     }
     - {
-    	startTime: "16:00",
-    	endTime: "17:00",
-    	sessionIds: [003]
+    	startTime: "15:20",
+    	endTime: "16:20",
+    	sessionIds: [029]
     }
     - {
-    	startTime: "17:00",
-    	endTime: "17:30",
+    	startTime: "16:20",
+    	endTime: "16:30",
     	sessionIds: [309]
     }
