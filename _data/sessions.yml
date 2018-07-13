@@ -1,4 +1,10 @@
 -
+  id: 307
+  title: "Registration"
+  place: ""
+  service: true
+  description: ""
+-
   id: 308
   title: "Intro"
   place: "Upstream"
@@ -9,28 +15,407 @@
   place: "Upstream"
   description: "Everything comes to an end"
 -
-  id: 307
+  id: 310
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Hall"
-  service: true
--
-  id: 504
+  id: 311
   title: "Room Change"
   place: ""
   service: false
 -
+  id: 312
+  title: "Lean Lunch Break"
+  description: "Share and learn while having lunch or just have lunch :)"
+  place: "Upstream"
+  service: true
+-
+  id: 313
+  title: "Shuttle to HardRock Café"
+  place: "In front of the Curio-Haus"
+  service: false
+-
+  id: 314
+  title: "Social Event @ HardRock Café"
+  description: "Let's rock'n roll and have a great time!"
+  place: "HardRock Café Hamburg"
+  service: true
+-
+  id: 315
+  title: "Lean Coffee Break"
+  description: "Discuss, share and learn together while having coffee"
+  service: true
+-
   id: 001
-  title: "The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power"
+  title: "Keynote: The Responsibility Process: Unlocking Your Natural Ability to Live and Lead with Power"
   description: ""
   subtype: keynote
   speakers: [0]
   language: en
   complexity:
+  slides:
+  video:
+-
+  id: 002
+  title: "Eine Einführung in Kanban - wie ich es sehe"
+  description: "Will follow shortly..."
+  subtype: talk
+  speakers: [1]
+  language: de
+  complexity: beginner
+  slides:
+  video:
+-
+  id: 003
+  title: "Will follow shortly..."
+  description: "Will follow shortly..."
+  subtype: talk
+  speakers: []
+  language: en
+  complexity:
+  slides:
+  video:
+-
+  id: 004
+  title: "Personal Kanban als Hilfsmittel für (Selbst-)Führung"
+  description: "Hier erfahren Sie, welche Prinzipien hinter Personal Kanban stecken, wie man mit einem Personal-Kanban-Board starten kann und wie einen das beim Führen von sich und anderen unterstützen kann.</br></br>
+  Wer nicht nur theoretisch mit Personal Kanban starten möchte, findet vor Ort Material, um direkt ein erstes eigenes Board zu erstellen.</br></br>
+  Der Vortrag richtet sich also an alle, die aus ihrem Chaos heraus möchten oder ihre Ordnung und Entscheidungsfähigkeit weiter verbessern möchten, um für ihre Teams und Kollegen als gutes Vorbild voranzugehen."
+  subtype: talk
+  speakers: [3]
+  language: de
+  complexity: beginner
+  slides:
+  video:
+-
+  id: 005
+  title: "Strategic Portfolio Management with Kanban"
+  description: "Portfolio management is a key aspect of organizational performance. The ability to visualize upcoming projects, projects in progress, the process of value creation, the dependencies, the ability to share a common vision and to throttle the work in progress based on organizational capacity are all contributing elements to the effectiveness of an organization.</br>Unfortunately, the shared vision of a portfolio is too often buried in a tool shared with too few people and does not help the organization build a global and cohesive plan of action.</br>
+  Create alignment around what delivers value to your end-users, use cadence to move forward, help shape a new organizational culture, support innovation, continuous improvement, and leadership and unite people around a shared mission, that is what Kanban at the strategic level can bring."
+  subtype: talk
+  speakers: [4]
+  language: en
+  complexity: intermediate
+  slides:
+  video:
+-
+  id: 006
+  title: "Empowering people is impossible - The neuroscience of intrinsic motivation"
+  description: "Agile leaders don’t empower people, they create spaces where people thrive and deliver value faster. It’s up to individuals to feel empowered, not for leaders to empower the individual. How can we create this environment and break old habits that get in the way?</br></br>Agile leaders can give control and increase people’s intrinsic motivation by taking advantage of how we are wired – and by increasing technical competence and organizational clarity.</br></br>Jenni will share the neuroscience of empowerment; as well as how we can re-wire our brains to create new habits that make it possible for us to grow and succeed."
+  subtype: talk
+  speakers: [6]
+  language: en
+  complexity:
+  slides:
+  video:
+-
+  id: 007
+  title: "Leightweight metrics ''without'' tools"
+  description: "Kanban and Lean are supposedly driven by data - we use metrics to improve, we use metrics to verify whether our changes lead to improvement, we use metrics to manage flow.</br></br>
+  But how to we get all these numbers? Do we need powerful tools to get them? Do we need a lot of infrastructure? Do we need sophisticated math?</br></br>
+  This talk will show how far low-tech, lightweight solutions can carry you. Also, we look a little into different ways to gather data for later processing with more sophisticated tools without committing too early on implementation."
+  subtype: talk
+  speakers: [7]
+  language: de
+  complexity: beginner
+  slides:
+  video:
+-
+  id: 008
+  title: "Forecasting in Complex Systems"
+  description: "''When will it be done?'' For ages this has been one of the first questions customers have.</br></br>Over time we have stepped away from traditional planning as it was unreliable and left behind estimation poker as it was not good enough. In Kanban systems, probabilistic forecasting turned out to be a good approach -- yet there are still open questions.</br></br>What if there are multiple points where work can enter (or leave) the system or if work may also flow backwards?
+  Are there ways to do reliable forecasting in such a system? The power of maths may offer a way and in this talk you can learn how it works."
+  subtype: talk
+  speakers: [8]
+  language: en
+  complexity: intermediate
+  slides:
+  video:
+-
+  id: 009
+  title: "Better Value Sooner Happier"
+  description: "Jon will share lessons learnt on the journey at Barclays. In particular how our ‘better value sooner safer happier’ continual improvement (previously known as ''Agile Transformation''), is centered around Outcomes, especially flow, where we measure Lead Time across the firm and send out monthly vector metrics to senior leaders. We also include insights on quality, control compliance and we have data on colleague engagement. Jon will also touch on Value and how we try to ensure that it’s not faster for the sake of faster."
+  subtype: talk
+  speakers: [9]
+  language: en
+  complexity: beginner
+  slides:
+  video:
+-
+  id: 010
+  title: "Fit For Purpose Framework – distilled theory and practice"
+  description: "I started reading Fitness for Purpose in the exact moment lots of discussions around market and product segmentation was happening at Elabor8. Traditional marketing segmentation approaches were not resonating with me, and I felt like doing to check the box. The ideas brought in the book were so compelling that I’ve decided to give them a go and trying stuff out as I was reading.</br></br>
+  This talk will share this case study with distilled theory and practice of:
+    <ul>
+      <li>Design + Implementation + Service Delivery of professional services</li>
+      <li>Market segmentation by customer purpose</li>
+      <li>Fitness Box Score and F4P Cards</li>
+      <li>The four types of metrics</li>
+    </ul>"
+  subtype: talk
+  speakers: [10]
+  language: en
+  complexity: beginner
+  slides:
+  video:
+-
+  id: 011
+  title: "Kanban in der IT bei Stute Logistics"
+  description: "In der Logistik wird mit minimalen Margen gearbeitet. Die Ansprüche der Kunden
+  an den Logistik-Dienstleister als Innovator und Treiber sind sehr hoch. Es braucht
+  extreme Kreativität um erfolgreich am Markt zu bestehen. Zudem hat
+  sich die Zahl der Mitarbeiter im Unternehmen STUTE innerhalb von 10 Jahren verfünffacht. Um
+  Internen und Externe Bedürfnissen Rechnung zu tragen, mussten neue Methodiken
+  her die besser Skalieren und die Prozesse deutlich beschleunigen.</br></br>Hierzu wurde KANBAN
+  in der gesamten IT eingeführt. Ein Aufgabe bei der alle Mitarbeiter abgeholt wurden, aber nicht
+  jeder mitgenommen werden konnte. Kanban in der IT bedeutet geistig umparken. In der
+  Session teile ich meine Story zur Einführung von Kanban
+  <ul>
+    <li>Evolutionsschritte - Man braucht nicht viel!</li>
+    <li>Wie Kanban die Effizienz gesteigert hat und zum Motor der Digitalisierung wurde</li>
+    <li>Wie wir Kanban mit Kamishibai und SQCDP erweitert haben</li>
+  </ul>
+  <p>Die selbstlernende Organisation ist das Ziel, um Mitarbeitern ein Umfeld mit einem hohen Maß an Beteiligung zu bieten.</p>"
+  subtype: talk
+  speakers: [11]
+  language: de
+  complexity: beginner
+  slides:
+  video:
+-
+  id: 012
+  title: "SMART Option Picking for DISCOVERY Kanban – how to pull the right items for evaluation"
+  description: "Digital market transformation forces organizations to cope with challenges in SMART-picking of future
+  options from idea-pools in a CUSTOMER-Kanban environment. In order to stay fit-for-purpose (F4P)
+  appropriate services need a market-fitting design, implementation, and service-delivery meeting
+  expectation-levels set by customers and other stakeholders. In VUCA-environments often getting to the
+  right choice proves demanding not only to Service Request Managers, but also for seasoned Sr. Leaders on
+  C-level.</br></br>
+  The technique referred to in this session was developed in recent years and evolutionary adjusted to fit
+  various business contexts ranging from turn-around situations, wide-range applicability in high-tech SW-
+  development, and also including XXL-scale programs for SW-implementation &amp; roll-out.
+  Its major contribution is an agnostic approach to addressing VUCA-characteristics in option-pools thereby
+  allowing effective pick &amp; structured processing of items to be pulled into DISCOVERY-procedures (which
+  sometimes already impose major capacity-commit on knowledgable individuals running the evaluations) –
+  the method massively leverages visualization techniques and therefore nicely fits Kanban-principles."
+  subtype: talk
+  speakers: [12]
+  language: en
+  complexity: intermediate
+  slides:
+  video:
+-
+  id: 013
+  title: "Coaching in a data-driven world..."
+  description: "Welcome to the data-driven world.</br></br>
+  39% of executives say their companies are already highly data-driven, but mentioning data can often result in concerned faces. Why is this? Is it the toxic nature that 'metrics' have become synonymous with or is it because we view using data as a dangerous flirtation with placing more value in tools and processes?</br></br>
+  This session will showcase how you can bring to life the scientific method in your coaching arsenal. I will share stories of data-based coaching in PwC and how we leverage it to have open, transparent conversations and more informed decision making."
+  subtype: talk
+  speakers: [13]
+  language: en
+  complexity: intermediate
+  slides:
+  video:
+-
+  id: 014
+  title: "Keynote: Intent-Based Leadership: Create Leaders at Every Level​"
+  description: "David Marquet delivers the powerful Intent-Based Leadership Message:  that leadership is not for the select few at the top.  In highly effective organizations, there are leaders at every level.</br></br>
+  Creating Intent-Based Leadership organizations results in a workplace where everyone engages and contributes their full intellectual capacity.  A place where people are healthier and happier because they have more control over their work - a place where everyone is a leader.</br></br>
+  Intent-Based Leadership organizations create an environment for people to contribute so that they feel valued.  They set clear goals so their people know how to do their jobs.  They push control and decision making down the organization so people take responsibility and rise to the occassion.  They maintain unity of effort by ensuring the supporting pillars of technical competence and organizational clarity are in place.</br></br>
+  As a result they achieve:
+  <ul>
+    <li>A highly effective organization with superior morale</li>
+    <li>The capacity for greatness in the people and practices of an organization, and remove it from the personality of leaders</li>
+    <li>An organizational culture that creates additional leaders throughout every level of the organization</li>
+  </ul>
+  <p>Intent-Based Leadership starts with rejecting the idea that leadership is for the select few at the top and instead embracing in highly effective organizations, there are leaders at every level. This method of leadership is based on empowerment, not ego, and process, not personality.</p>"
+  subtype: keynote
+  speakers: [14]
+  language: en
+  complexity:
+  slides:
+  video:
+-
+  id: 015
+  title: "Your improvement potential is much bigger than you think – establishing a culture of true directed continuous improvement with Toyota Kata"
+  description: "Many people in Agile and IT talk about Toyota Kata, but it seems very few have tried it out for real at any scale or duration and actual cases are far between. In this presentation I will share my last 4 years of experience with Toyota Kata and especially the job of scaling it across all layers of a 700 people IT organization. How does it translate to a context where the flow of value is counted in days and not seconds? Where did we fail, what adaptions were made, what results did we achieve and why is it both more powerful and more difficult than any of us believed?"
+  subtype: talk
+  speakers: [15]
+  language: en
+  complexity: intermediate
+  slides:
+  video:
+-
+  id: 016
+  title: "The Power of a Lean Kanban Workflow for Marketing Teams"
+  description: "What do the processes of developing software and launching a marketing campaign have in common? Everything except the final product. Widely, development and marketing teams have more occasion to collaborate. The result has been discovering how similar are the challenges they face in their daily work. Using the same tools, such as Lean and Agile methodologies, to tackle these shared process hurdles is the natural next step for symbiosis between these two departments. But...where to begin?</br></br>
+  Applying Lean & Agile in the marketing context is an experiment in creating a more efficient, streamlined workflow than a creative team may be used to. As the head of a marketing team, supporting the shipping of a SaaS product, I became accustomed to trying out methods I saw our developers use on my own team. After over two years running my marketing team on Kanban, I can attest to the fact that adopting a flow-based method that aims to deliver maximum value to the customer has the potential to transform the marketing game at scale. Recently, I have been collecting case studies from industry leaders who are also implementing Lean and Kanban in their marketing departments. I will share some of their learnings with you.</br></br>
+  This talk will centre on how Lean Kanban principles and practices can move beyond development and production, in order to boost collaboration, communication and transparency in any marketing team."
+  subtype: talk
+  speakers: [16]
+  language: en
+  complexity: intermediate
+  slides:
+  video:
+-
+  id: 017
+  title: "Kanban Policy Game"
+  description: "The Kanban Policy Game is a fun way to experience how policies affect performance. In the game you are hired as a coach to lead an Agile transformation. To achieve success, you have to improve the performance of the teams in the client organization in terms of lead time and throughput.
+  As Kanban method practitioner you decide to introduce and apply the six Kanban practices."
+  subtype: talk
+  speakers: [17]
+  language: en
+  complexity:
+  slides:
+  video:
+-
+  id: 018
+  title: "KLARHEIT</br>1 Experiment – 18 Ziele – 11 Product Owner – 6 Monate Zeit"
+  description: "Viele Teams, viele konkurrierende Ziele und Erwartungen waren der Ausgangspunkt für ein Experiment bei BI@OTTO: 11 Product Owner organisiert als Scrum-Team, um gemeinsam die Vielzahl der Themen in einem komplexen Umfeld besser bewältigen zu können.</br></br>
+  In unserem Vortrag stellen wir vor, wie wir bei BI@OTTO, mit Teamgeist, Kanban Flightlevels, Wardley Maps und weiteren Tools, von einem Zustand mit “zu viel” Arbeit zu einem Zustand mit der “richtigen” Arbeit zur “richtigen” Zeit gelangen wollen. Der Vortrag zeigt, was wir bisher in unserem Experiment erlebt haben und was wir als nächstes aus welchem Grund verbessern werden."
+  subtype: talk
+  speakers: [18,19]
+  language: de
+  complexity:
+  slides:
+  video:
+-
+  id: 019
+  title: "WIPscape – The Work in Progress Escape Room"
+  description: "Work in progress limits can be a little baffling, but it is the biggest thing you can do in your team and organisation to affect the value that you deliver.
+  I could have done a boring talk, but people expect more from me! In fact, if I don’t have the nosiest session at the conference, then I am not happy! Work in progress limits can be a little baffling, but it is the biggest thing you can do in your team and organisation to affect the value that you deliver. I could have done a boring talk, but people expect more from me! In fact, if I don’t have the nosiest session at the conference, then I am not happy!</br></br>
+  Welcome to...WIPscape.</br></br>
+  You will enter a room, but will you ever leave? Before your eyes you will see several tables where teams will be formed. You will be given a number of challenges that will introduce you to why limiting work in progress is important, how you do it and cracking some of those myths. You will need your wits, your knowledge,  your creativity and team collaboration to be able to complete the challenges. If you are successful, you will take the glory, while the others will be locked in the room forever! Are you ready to play a game?"
+  subtype: interactive
+  speakers: [20]
+  language: en
+  complexity: beginner
+  slides:
+  video:
+-
+  id: 020
+  title: "Agilität zwischen Business Impact und schöner Wohnen"
+  description: "Agilität ist toll für den Kulturwandel und die Digitalisierung. Damit steht man im Employer Branding besser da - wir fühlen uns besser!</br></br>Aber was haben wir wirklich davon?
+  </br>Wie beweisen wir, dass wir mit agilen Methoden auch finanziell erfolgreich sind?</br></br>
+  Wir brauchen KPIs und Business Cases, die den Wert von kultureller Veränderung und Agilisierung erheben und nachweisen.</br></br>
+  In diesem Talk berichten wir über unsere Erfahrungen in verschiedenen Firmen der Otto Group und haben einige Negativbeispiele. Weiterhin teilen wir mit euch unseren Ansatz wie Business Agility sinnvoll eingesetzt werden kann."
+  subtype: talk
+  speakers: [21, 22]
+  language: de
+  complexity:
+  slides:
+  video:
+-
+  id: 021
+  title: "What does it take to grab a cupcake?"
+  description: "If organizational survival is determined by its capability to move, we can conclude that organizations must have developed brains and feedback loops to coordinate movement and thereby avoid extinction. However, organizational structures and functions are at times as hard to figure out as those of the brain.</br>Thus, I suggest studying organizational dysfunctions will help us improve our change management activities in organizational systems. Ultimately, what we call organizational agility – intentional, goal-directed and smooth organizational movement, shall become as easy as grabbing a cupcake."
+  subtype: talk
+  speakers: [23]
+  language: en
+  complexity: intermediate
+  slides:
+  video:
+-
+  id: 022
+  title: "Mit Kanban zu Intent-Based Leadership"
+  description: "Will follow shortly..."
+  subtype: talk
+  speakers: [24]
+  language: de
+  complexity:
+  slides:
+  video:
+-
+  id: 023
+  title: "Agile Organisation: eine Frage des Leadership"
+  description: "Viele wollen agile Organisationen. Einige wissen, warum sie das wollen. Wenige wissen, was das sein soll. Kaum jemand weiß, wie man dahin kommt.</br></br>
+  Eine agile Organisation ist eine besonders flexible Organisation, die sich den Marktbedürfnissen schnell und dynamisch anpasst. Sie widersteht Stressoren und Schocks nicht einfach, sie wird dadurch besser: eine agile Organisation ist antifragil.</br></br>
+  Der Vortrag verdeutlicht, wie wichtig Leadership ist, um die Organisation in diese Richtung zu entwickeln und dass die persönliche Entwicklung der formellen und informellen Führungskräfte essenziell für effektives Leadership ist.</br></br>
+  Die Teilnehmer nehmen Inspirationen und Modelle für agile Organisationen und effektives Leadership mit."
+  subtype: talk
+  speakers: [25, 26]
+  language: de
+  complexity:
+  slides:
+  video:
+-
+  id: 024
+  title: "KMM Cultural Appraisal and Practical Guidance for Leaders"
+  description: "The Kanban Maturity Model levels are defined by the outcomes an organization consistently achieves, by the sophistication of the general practices we recommend, and by the nature of the culture - defined by the values people hold.</br></br>
+  This talk will explain how the KMM approach to culture appraisal avoids the bias of self-reporting, and using invalid instruments for measurement, by instead relying on four types of evidence the appraiser finds that supports or contradicts if a value is strongly held.</br></br>
+  People need to hold these values strongly - to believe these things matter - or they will be unwilling to implement changes or abandon disciplines that got them improved results.</br></br>
+  Therefore, this talk will also explain the approach to providing practical guidance for leaders (and coaches) to drive the adoption of the values that increase the willingness to evolve the implementation of the specific practices as a means to get improved results."
+  subtype: talk
+  speakers: [27]
+  language: en
+  complexity:
+  slides:
+  video:
+-
+  id: 025
+  title: "Kanban Saves the World"
+  description: "How does Kanban handle risk and recovery in global disaster relief and business continuity?</br></br>
+  The definition of disaster is a condition in which demand far exceeds capacity to cope. Reports of relief efforts after disasters such as earthquakes and tsunamis show lack of coordination, overwhelmed relief workers, and problems with transporting supplies. Before a disaster, preparation means looking at dimensions of risk reduction: vulnerability, efficiency, resilience, system fragility, and the policies of a recovery plan.</br></br>
+  Kanban is uniquely well-suited to manage conditions of unbalanced demand vs capacity. This talk looks at the way elements of Kanban can help your business before and after a market disaster, as well as improve serious disaster relief worldwide."
+  subtype: talk
+  speakers: [28]
+  language: en
+  complexity:
+  slides:
+  video:
+-
+  id: 026
+  title: "Mehr Wirkung, weniger Drama"
+  description: "Der Weg hin zu einer modernen Produktentwicklung ist mitunter weit und kann viele Veränderungen erfordern, die mit ebenso vielen Fragen einher gehen:
+    <ul>
+      <li>Welche ersten Schritte bieten sich an, und warum?</li>
+      <li>Welchem Zweck sollen die ersten Veränderungen dienen?</li>
+      <li>Wie lassen sie sich in ihrer Wirkung prüfen?</li>
+    </ul>
+  <p>Werden diese und andere Fragen vernachlässigt, so kann das Spektrum der Symptome von Zeitverschwendung über Frust bis hin zu offenen Konflikten reichen. Dieser Vortrag fordert Transparenz, Fokus und Anpassungsfähigkeit von einem Veränderungsvorhaben ein und illustriert eine einfache Möglichkeit dazu.</p>"
+  subtype: talk
+  speakers: [29]
+  language: de
+  complexity:
+  slides:
+  video:
+-
+  id: 027
+  title: "Will follow shortly..."
+  description: "Will follow shortly..."
+  subtype: talk
+  speakers: [30]
+  language: de
+  complexity:
+  slides:
+  video:
+-
+  id: 028
+  title: "Feedback and Cadence: essentials of agile control and evolution"
+  description: "Feedback and cadence enable agility and evolution, as much for agile organisations as thriving organisms. For example they help your organisation...</br></br>
+  <ul>
+    </li>Choose the right work
+    </li>Make that work flow
+    </li>Ensure the work’s right, and
+    </li>Improve its workflow?
+  </ul>
+  </br>
+  This presentation will present the improved Kanban schema of seven types of feedback loop that operate at different scales and context, exploring among other things, how bottlenecks to flow appear and how effective cadences can help the organisation  respond with effective interventions."
+  subtype: talk
+  speakers: [31]
+  language: en
+  complexity:
+  slides:
+  video:
+-
+  id: 029
+  title: "Keynote: Evolving Fit-for-Purpose Organizations using the Kanban Maturity Model"
+  description: "There are two recognized failure modes in Kanban implementations: aborted start - the kanban system design was too ambitious; false summit plateau - a failure to aspire to effective business outcomes, and, or, a failure to create just enough stress to catalyze further changes. Business are subject to evolutionary forces in the marketplace: only the fittest survive and thrive. Kanban provides the mechanism to drive evolutionary change and enure the survival of fit-for-purpose products and services. The main and first purpose of the Kanban Maturity Model is to guide appropriate implementation to avoid both failure modes. The secondary purpose is to provide a roadmap to guide further improvements whilst continuing to avoid both failure modes. The results should enable steady improvement towards fit-for-purpose products and services, and a fit-for-purpose, sustainable, thriving organization with satisfied customers and reliable, predictable economic results. Appropriate use of the Kanban Maturity Model increases the probability of a successful outcome."
+  subtype: keynote
+  speakers: [32]
+  language: en
+  complexity: intermediate
   slides:
   video:
