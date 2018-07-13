@@ -95,7 +95,7 @@
   description: "Portfolio management is a key aspect of organizational performance. The ability to visualize upcoming projects, projects in progress, the process of value creation, the dependencies, the ability to share a common vision and to throttle the work in progress based on organizational capacity are all contributing elements to the effectiveness of an organization.</br>Unfortunately, the shared vision of a portfolio is too often buried in a tool shared with too few people and does not help the organization build a global and cohesive plan of action.</br>
   Create alignment around what delivers value to your end-users, use cadence to move forward, help shape a new organizational culture, support innovation, continuous improvement, and leadership and unite people around a shared mission, that is what Kanban at the strategic level can bring."
   subtype: talk
-  speakers: [4]
+  speakers: [4, 5]
   language: en
   complexity: intermediate
   slides:
