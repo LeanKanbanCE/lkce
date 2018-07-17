@@ -43,7 +43,7 @@
     - {name: "twitter", link: "https://twitter.com/NadineWolfHH"}
   ribbon:
     - {abbr: "GER", title: "German talk"}
-    - {abbr: "AKT", title: "Accredited Kaban Trainer"}
+    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
 -
   id: 4
   name: "Nicolas"

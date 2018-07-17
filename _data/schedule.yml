@@ -2,7 +2,7 @@
   date: "2018-11-05"
   dateReadable: "November 05"
   tracks:
-    - {title: "Upstreams", color: "#C3C3C3"}
+    - {title: "Upstream", color: "#C3C3C3"}
     - {title: "Downstream", color: "#F9BB81"}
   timeslots:
     - {
