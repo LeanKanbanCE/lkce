@@ -172,8 +172,15 @@
   name: "Boris"
   surname: "Kneisel"
   company: "herontix"
-  title: "CEO & CPO"
-  bio: "Will follow shortly..."
+  title: "Agile Innovation Coach"
+  bio: "Over the last decade Boris developed into the profile as a cross-industry Lean &amp; Agile Innovation Expert –
+  specializing in ''turn-arounds''. He loves the really challenging so-called ''Phoenix-projects'' the most (the
+  ones that nobody believes in their delivery any more, at all…until their set-ups are adjusted…). He was
+  employed with a German SW-industry Global-player for 20+ years and founded a consultancy boutique.
+  As an Agile Coach be offers vast experience on approaches ranging from classic waterfall to various
+  methods of increasing Agility (Kanban & Scrum), how to align Innovation-procedures (Design Thinking, TRIZ
+  etc.) with them, how to scale-out their adaptation within large organizations (ESP & scaling frameworks),
+  and how to ensure business resilience, continuous improvement &amp; survivability (SixSigma, DevOps, KMM)."
   thumbnailUrl: BorisKneisel.jpg
   keynote: false
   social:
@@ -182,6 +189,7 @@
     - {name: "site", link: "http://www.boriskneisel.de"}
   ribbon:
     - {abbr: "AKT", title: "Accredited Kanban Trainer"}
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
 -
   id: 13
   name: "Nicolas"
@@ -271,7 +279,7 @@
   surname: "Schmidt"
   company: "Otto GmbH & Co KG"
   title: "Product Owner"
-  bio: "Sina Schmidt ist Product Ownerin im Bereich BI 4 Marketing bei OTTO. Sina ist die Initiatorin des Experiments ''Product Owner als Team innerhalb einer Business Unit''.</br></br>
+  bio: "Sina Schmidt ist Product Ownerin im Bereich BI 4 Marketing bei OTTO. Sina ist die Initiatorin des Experiments ''Product Owner als Team innerhalb einer Business Unit''.</br>
   Als Ideengeberin mit großem Enthusiasmus für agile Produktentwicklung & Produktmanagement unterstützt sie andere Product Owner in ihrer täglich Arbeit. Ihr Hauptaufgabe sieht sie darin, gemeinsam mit ihren Kollegen Klarheit über das Was in der Produktentwicklung herzustellen und zu erhalten. Dabei gibt sie Hinweise zur Verbesserung und Weiterentwicklung sowohl auf organisatorischer als auch auf fachlicher Ebene. Sie sorgt durch ihr unermüdliches Werben für den eingeschlagenen Weg für Freiräume zum Denken und Handeln. Vor ihrer Tätigkeit bei OTTO war Sina Produktmanagerin bei der Bauer Xcel Media sowie als Beraterin bei Cassini Consulting tätig."
   thumbnailUrl: SinaSchmidt.jpg
   keynote: false
@@ -285,7 +293,7 @@
   surname: "Engelmann"
   company: "Yantsu"
   title: "Scrum Master"
-  bio: "Falk ist seit über 10 Jahren freiberuflicher Scrum Master und setzt seine Erfahrungen mit agilen Managementmethoden unter anderem im Bereich BI 4 Marketing bei OTTO ein. Mit seinem Fokus auf agile Organisationsentwicklung, ist er Treiber des Experiments ''Product Owner als Team innerhalb einer Business Unit''.</br></br>
+  bio: "Falk ist seit über 10 Jahren freiberuflicher Scrum Master und setzt seine Erfahrungen mit agilen Managementmethoden unter anderem im Bereich BI 4 Marketing bei OTTO ein. Mit seinem Fokus auf agile Organisationsentwicklung, ist er Treiber des Experiments ''Product Owner als Team innerhalb einer Business Unit''.</br>
   Durch seine in verschiedenen Branchen und Aufgaben fundierte Methoden-, Prozess-, und Führungskompetenz gibt er dem PO-Team die richtigen Werkzeuge an die Hand, Transparenz zu schaffen, sich als Team zu finden und strukturiert fachlichen Mehrwert zu erzeugen. Dabei setzt er immer wieder den Impuls, den Blick von Heute auch bereits auf mögliche Erfolgsfaktoren von Morgen zu richten. Durch die Arbeit mit elf Product Ownern optimiert er die Prozesse zur übergreifenden Zusammenarbeit,   Priorisierung und der Definition gemeinsamer Ziele."
   thumbnailUrl: FalkEngelmann.jpg
   keynote: false
