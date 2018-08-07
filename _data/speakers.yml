@@ -15,6 +15,48 @@
   ribbon:
     - {abbr: "Keynote", title: "Keynote"}
 -
+  id: 14
+  name: "David L."
+  surname: "Marquet"
+  company: "Turn the Ship Around, LLC"
+  title: "President"
+  bio: "David Marquet (MAR-KAY) was assigned to command the nuclear powered submarine USS Santa
+  Fe, then ranked last in retention and operational standing. He “turned his ship around” by
+  treating the crew as leaders, not followers, and giving control, not taking control. This
+  revolutionary approach not only took the Santa Fe from “worst to first” in the rankings, but also
+  created more subsequent leaders than any other submarine. Stephen R. Covey called the Santa
+  Fe “the most empowering organization [he’d] ever seen” and wrote about Captain Marquet’s
+  leadership practices in his book, The 8th Habit.</br></br>
+  Captain Marquet is the author of Turn the Ship Around! A True Story of Turning Followers Into
+  Leaders. Fortune magazine named it the #1 must-read business book of the year, and USA
+  Today listed it as one of the top 12 business books of all time."
+  thumbnailUrl: DavidLMarquet.jpg
+  keynote: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ldavidmarquet"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/davidmarquet/"}
+    - {name: "site", link: "https://www.davidmarquet.com"}
+  ribbon:
+    - {abbr: "Keynote", title: "Keynote"}
+-
+  id: 32
+  name: "David J."
+  surname: "Anderson"
+  company: "Lean Kanban Inc."
+  title: "Chairman"
+  bio: "David J Anderson is an innovator in management thinking for 21st Century businesses.
+  He is chairman of Lean Kanban Inc., a training, consulting, events, and publishing business, making new ideas accessible to managers across the globe.
+  He has more than 30 years’ experience in the high-technology industry, starting with games in the early 1980s.
+  He worked at IBM, Sprint, Motorola, and Microsoft, as well as a number of startup businesses. He is the pioneer
+  of both the Kanban Method and Enterprise Services Planning."
+  thumbnailUrl: DavidAnderson.jpg
+  keynote: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/lki_dja"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/agilemanagement/"}
+  ribbon:
+    - {abbr: "Keynote", title: "Keynote"}
+-
   id: 1
   name: "Klaus"
   surname: "Leopold"
@@ -206,30 +248,7 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/nicolasjmbrown/"}
     - {name: "site", link: "https://www.nicolasbrown.co.uk"}
   ribbon:
--
-  id: 14
-  name: "David L."
-  surname: "Marquet"
-  company: "Turn the Ship Around, LLC"
-  title: "President"
-  bio: "David Marquet (MAR-KAY) was assigned to command the nuclear powered submarine USS Santa
-  Fe, then ranked last in retention and operational standing. He “turned his ship around” by
-  treating the crew as leaders, not followers, and giving control, not taking control. This
-  revolutionary approach not only took the Santa Fe from “worst to first” in the rankings, but also
-  created more subsequent leaders than any other submarine. Stephen R. Covey called the Santa
-  Fe “the most empowering organization [he’d] ever seen” and wrote about Captain Marquet’s
-  leadership practices in his book, The 8th Habit.</br></br>
-  Captain Marquet is the author of Turn the Ship Around! A True Story of Turning Followers Into
-  Leaders. Fortune magazine named it the #1 must-read business book of the year, and USA
-  Today listed it as one of the top 12 business books of all time."
-  thumbnailUrl: DavidLMarquet.jpg
-  keynote: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/ldavidmarquet"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/davidmarquet/"}
-    - {name: "site", link: "https://www.davidmarquet.com"}
-  ribbon:
-    - {abbr: "Keynote", title: "Keynote"}
+
 -
   id: 15
   name: "Jesper"
@@ -243,7 +262,6 @@
     - {name: "twitter", link: "https://twitter.com/j_boeg"}
     - {name: "site", link: "http://agileupgrade.com"}
   ribbon:
-
 -
   id: 16
   name: "Monica"
@@ -512,21 +530,3 @@
   ribbon:
     - {abbr: "AKT", title: "Accredited Kanban Trainer"}
     - {abbr: "KCP", title: "Kanban Coaching Professional"}
--
-  id: 32
-  name: "David J."
-  surname: "Anderson"
-  company: "Lean Kanban Inc."
-  title: "Chairman"
-  bio: "David J Anderson is an innovator in management thinking for 21st Century businesses.
-  He is chairman of Lean Kanban Inc., a training, consulting, events, and publishing business, making new ideas accessible to managers across the globe.
-  He has more than 30 years’ experience in the high-technology industry, starting with games in the early 1980s.
-  He worked at IBM, Sprint, Motorola, and Microsoft, as well as a number of startup businesses. He is the pioneer
-  of both the Kanban Method and Enterprise Services Planning."
-  thumbnailUrl: DavidAnderson.jpg
-  keynote: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/lki_dja"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/agilemanagement/"}
-  ribbon:
-    - {abbr: "Keynote", title: "Keynote"}
