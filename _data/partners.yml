@@ -10,3 +10,4 @@
   group: "Silver sponsor"
   elements:
     - {name: "flow.hamburg", description: "flow.hamburg", link: "https://flow.hamburg", imageUrl: "flow_hamburg.png"}
+    - {name: "Sven Kunz", description: "Unternehmensberater Sven Kunz", link: "http://www.svenkunz.de", imageUrl: "SvenKunz.svg"}
