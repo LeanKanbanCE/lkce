@@ -71,12 +71,12 @@
   video:
 -
   id: 003
-  title: "Will follow shortly..."
-  description: "Will follow shortly..."
+  title: "Visual Workmanagement at Sanofi - A Journey towards organizational effectiveness"
+  description: "Evolutionary change is one of the core principles of the Kanban method. Today, Sanofis central unit for the development and application of custom-built test methods and equipment for medical devices is using Kanban on higher Flight Levels in addition to local team optimization through Scrum. However, this is just one step in a continuous journey developing from a slow centralized managed organization to a highly flexible unit. By giving insights to his personal experiences as a department leader during the agile transition, Thomas is showing why the department took different steps and iterations explaining the development of their Portfolio Kanban. This process makes sure that the right teams are working on the most valuable product at the right time. It dramatically reduces the lead time of their services and thus supports that medical devices can be brought to market much earlier."
   subtype: talk
-  speakers: []
+  speakers: [33]
   language: en
-  complexity:
+  complexity: intermediate
   slides:
   video:
 -

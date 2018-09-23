@@ -530,3 +530,15 @@
   ribbon:
     - {abbr: "AKT", title: "Accredited Kanban Trainer"}
     - {abbr: "KCP", title: "Kanban Coaching Professional"}
+-
+  id: 33
+  name: "Thomas"
+  surname: "van der Burg"
+  company: "Sanofi"
+  title: "Head of Global Device Development Laboratory"
+  bio: "Thomas is a department leader in a global pharmaceutical company. He and his team work as Expert Service Provider in the medical device field. They are focused on development and application of custom-built test methods and equipment. Thomas started his career managing classical Waterfall-like initiatives but now uses Kanban and Scrum for agile Hardware Development and agile Portfolio Management for several years. He has also experience in agile Leadership and leading Change in Agile transformations – in a conservative and highly regulated environment. Thomas is KMP, CSPO, CAL and Enterprise Kanban Coach."
+  thumbnailUrl: ThomasVanDerBurg.jpg
+  keynote: false
+  social:
+  ribbon:
+    - {abbr: "KCP", title: "Kanban Coaching Professional"}
