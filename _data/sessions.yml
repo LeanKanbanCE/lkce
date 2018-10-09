@@ -109,18 +109,18 @@
   subtype: talk
   speakers: [6]
   language: en
-  complexity:
+  complexity: intermediate
   slides:
   video:
 -
   id: 007
-  title: "Leightweight metrics ''without'' tools"
-  description: "Kanban and Lean are supposedly driven by data - we use metrics to improve, we use metrics to verify whether our changes lead to improvement, we use metrics to manage flow.</br></br>
-  But how to we get all these numbers? Do we need powerful tools to get them? Do we need a lot of infrastructure? Do we need sophisticated math?</br></br>
-  This talk will show how far low-tech, lightweight solutions can carry you. Also, we look a little into different ways to gather data for later processing with more sophisticated tools without committing too early on implementation."
+  title: "Leichtgewichtige Metriken ''ohne'' Tools"
+  description: "Kanban und Lean sollten zu großen Teilen Datengetriben sein – wir verwenden Metriken für Verbesserungen, wir verwenden Metriken um zu erkennen ob Veränderungen auch Verbesserungen sn und wir nutzen Metriken um den Fluss zu managen.</br></br>
+  Aber wie kommen wir zu all diesen Werten? Brauchen wir mächtige Werkzeuge? Wie viel Infrastruktur bauchen wir dafür? Wie viel Mathematik ist notwendig?</br></br>
+  Dieser Talk zeigt, wie weit einfache 'low-tech' Lösungen uns bereits bringen können. Ausserdem betrachten wir ein unterschiedliche Wege Daten für eine spätere Verarbeitung mit komplexeren Werkzeugen zu sammeln, ohne zu früh Festlegungen über konkrete Implementierungen treffen zu müssen."
   subtype: talk
   speakers: [7]
-  language: en
+  language: de
   complexity: beginner
   slides:
   video:
@@ -321,8 +321,9 @@
   video:
 -
   id: 022
-  title: "Mit Kanban zu Intent-Based Leadership"
-  description: "Will follow shortly..."
+  title: "Behind the Board - Wie ein IT-Team DAS agile Team im Unternehmen wurde"
+  description: "Im September 2015 begann ich mit einem IT-Team einer Hamburger Firma zu arbeiten, dass den Wunsch hatte agil zu arbeiten. Das Team bestand aus sieben Mitarbeitern und kümmerte sich um die gesamte Infrastruktur inklusive der Office-IT. Die Probleme mit dem Service waren nicht untypisch. Ständig wechselnde Priorität, zu langsam, kein Überblick über das, was gerade in Arbeit ist und was nicht, und was da noch auf einen wartet.
+  In meinem Vortrag erkläre ich anhand des Kanban-Boards was wir in ca. 6 Monaten alles getan haben, um vom damaligen CTO das Feedback zu bekommen, dass das Team 'das agilste Team im Unternehmen ist und so arbeitet, wie er sich das von der Entwicklung erwarten würde.'"
   subtype: talk
   speakers: [24]
   language: de
@@ -385,8 +386,8 @@
   video:
 -
   id: 027
-  title: "Will follow shortly..."
-  description: "Will follow shortly..."
+  title: "Portfolio- & Strategie Boards"
+  description: "Portfolio- und Strategie-Boards behandeln Arbeit auf einer anderen Abstraktionsebene als etwa Team-Boards. Daher müssen hier einige Dinge anders gemacht werden. In diesem Talk Berichte ich über Erfahrungen mit Portfolio- und Strategie-Boards und gebe ein paar Tipps zu wesentlichen Unterschieden, die unter anderem bzgl. Prozess, Meetings, Struktur der Boards zu beachten sind."
   subtype: talk
   speakers: [30]
   language: de
