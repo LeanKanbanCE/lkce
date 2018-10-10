@@ -114,10 +114,10 @@
   video:
 -
   id: 007
-  title: "Leichtgewichtige Metriken ''ohne'' Tools"
-  description: "Kanban und Lean sollten zu großen Teilen Datengetriben sein – wir verwenden Metriken für Verbesserungen, wir verwenden Metriken um zu erkennen ob Veränderungen auch Verbesserungen sn und wir nutzen Metriken um den Fluss zu managen.</br></br>
+  title: "Leichtgewichtige Kanban-Metriken – Zahlen, Daten, Fakten (fast) ohne Tools"
+  description: "Kanban und Lean sollten zu großen Teilen Datengetrieben sein – wir verwenden Metriken für Verbesserungen, wir verwenden Metriken um zu erkennen ob Veränderungen auch Verbesserungen sind und wir nutzen Metriken um den Fluss zu managen.</br></br>
   Aber wie kommen wir zu all diesen Werten? Brauchen wir mächtige Werkzeuge? Wie viel Infrastruktur bauchen wir dafür? Wie viel Mathematik ist notwendig?</br></br>
-  Dieser Talk zeigt, wie weit einfache 'low-tech' Lösungen uns bereits bringen können. Ausserdem betrachten wir ein unterschiedliche Wege Daten für eine spätere Verarbeitung mit komplexeren Werkzeugen zu sammeln, ohne zu früh Festlegungen über konkrete Implementierungen treffen zu müssen."
+  Dieser Talk zeigt, wie weit einfache 'low-tech' Lösungen uns bereits bringen können. Außerdem betrachten wir unterschiedliche Wege Daten für eine spätere Verarbeitung mit komplexeren Werkzeugen zu sammeln, ohne zu früh Festlegungen über konkrete Implementierungen treffen zu müssen."
   subtype: talk
   speakers: [7]
   language: de
