@@ -28,7 +28,7 @@
 -
   id: 312
   title: "Lean Lunch Break"
-  description: "Share and learn while having lunch or just have lunch :)"
+  description: "Share and learn while having lunch or just have lunch"
   place: "Upstream"
   service: true
 -
@@ -45,7 +45,7 @@
 -
   id: 315
   title: "Lean Coffee Break"
-  description: "Discuss, share and learn together while having coffee"
+  description: "Discuss, share and learn while having coffee"
   service: true
 -
   id: 001
@@ -251,12 +251,12 @@
   video:
 -
   id: 016
-  title: "The Power of a Lean Kanban Workflow for Marketing Teams"
-  description: "What do the processes of developing software and launching a marketing campaign have in common? Everything except the final product. Widely, development and marketing teams have more occasion to collaborate. The result has been discovering how similar are the challenges they face in their daily work. Using the same tools, such as Lean and Agile methodologies, to tackle these shared process hurdles is the natural next step for symbiosis between these two departments. But...where to begin?</br></br>
-  Applying Lean & Agile in the marketing context is an experiment in creating a more efficient, streamlined workflow than a creative team may be used to. As the head of a marketing team, supporting the shipping of a SaaS product, I became accustomed to trying out methods I saw our developers use on my own team. After over two years running my marketing team on Kanban, I can attest to the fact that adopting a flow-based method that aims to deliver maximum value to the customer has the potential to transform the marketing game at scale. Recently, I have been collecting case studies from industry leaders who are also implementing Lean and Kanban in their marketing departments. I will share some of their learnings with you.</br></br>
-  This talk will centre on how Lean Kanban principles and practices can move beyond development and production, in order to boost collaboration, communication and transparency in any marketing team."
-  subtype: talk
-  speakers: [16]
+  title: "Panel discussion: Successful organizational change with Kanban"
+  description: "What does it take to successfully change an organization, that is continuously able to adapt to the needs of its customers? How can Kanban help to achieve this state? Is there more?</br></br>
+  For thousand of years mankind learned and grew by sharing stories and connecting the dots between those stories. That’s exactly what this panel discussion wants to achieve.</br></br>
+  Thomas van der Burg, Jon Smart, and Kathrin Schröder, who shared their personal story on day 1 will discuss the differences and similarities of their journey moderated by Markus Andrezak, member of the program board since the beginning of LKCE and host of podcast ''Stories connecting dots'' podcast."
+  subtype: panel discussion
+  speakers: [21,9,33,30]
   language: en
   complexity: intermediate
   slides:
@@ -285,13 +285,10 @@
   video:
 -
   id: 019
-  title: "WIPscape – The Work in Progress Escape Room"
-  description: "Work in progress limits can be a little baffling, but it is the biggest thing you can do in your team and organisation to affect the value that you deliver.
-  I could have done a boring talk, but people expect more from me! In fact, if I don’t have the nosiest session at the conference, then I am not happy! Work in progress limits can be a little baffling, but it is the biggest thing you can do in your team and organisation to affect the value that you deliver. I could have done a boring talk, but people expect more from me! In fact, if I don’t have the nosiest session at the conference, then I am not happy!</br></br>
-  Welcome to...WIPscape.</br></br>
-  You will enter a room, but will you ever leave? Before your eyes you will see several tables where teams will be formed. You will be given a number of challenges that will introduce you to why limiting work in progress is important, how you do it and cracking some of those myths. You will need your wits, your knowledge,  your creativity and team collaboration to be able to complete the challenges. If you are successful, you will take the glory, while the others will be locked in the room forever! Are you ready to play a game?"
+  title: "Will follow shortly..."
+  description: "Will follow shortly..."
   subtype: interactive
-  speakers: [20]
+  speakers: []
   language: en
   complexity: beginner
   slides:

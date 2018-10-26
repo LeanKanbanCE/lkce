@@ -263,20 +263,6 @@
     - {name: "site", link: "http://agileupgrade.com"}
   ribbon:
 -
-  id: 16
-  name: "Monica"
-  surname: "Georgieff"
-  company: "AgileSherpas"
-  title: "Agile Marketing Coach"
-  bio: "Monica Georgieff, author of ''Lean and Agile Marketing with Kanban'', is an Agile Marketing Coach and international guest speaker on the topic of applying Lean and Agile in creative departments. She is the former Director of Marketing at Kanbanize, a leading vendor of Kanban software for process management and a contributor at chiefmartec.com. Currently, Monica helps in house marketing teams across a wide variety of industries as well as digital marketing agencies in Europe bring Lean and Agile methodologies into their process, take control of their workflow and measure their efficiency."
-  thumbnailUrl: MonicaGeorgieff.jpg
-  keynote: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/mongeorgieff"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/monica-georgieff/"}
-  ribbon:
-
--
   id: 17
   name: "Dimitar"
   surname: "Bakardziev"
@@ -320,41 +306,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/falkengelmann/"}
   ribbon:
     - {abbr: "GER", title: "German talk"}
--
-  id: 20
-  name: "Helen"
-  surname: "Meek"
-  company: "Ripple Rock"
-  title: "Agile Coach"
-  bio: "Helen is an outgoing and driven coach and trainer who is passionate about working with Individuals,
-  teams and organisations on their road to agility. Helen has working with many varied organisations
-  and teams in many different industries and brings this vast wealth of experience and knowledge to
-  her training and coaching.</br></br>
-  Helen has a holistic approach to coaching operating with individual team members, whole teams,
-  leaders, managers and executives across technical and non-technical departments. You will often
-  find her working with clients on rolling out enterprise level Kanban or Scrum.</br></br>
-  Helen is proud to be an Accredited Kanban Trainer with the Lean Kanban University and runs regular
-  classes publicly and privately.</br></br>
-  Not forgetting her roots Helen is a regular trainer for Agile and Scrum.</br></br>
-  Helen is a great believer in sharing her knowledge and encouraging other to do the same and enjoys
-  growing the Agile and Kanban communities. She has many achievements under her belt including:
-  <ul>
-    <li>Founding the Agile Coaching Exchange (ACE) and Kanban Coaching Exchange (KCE) user
-    groups. These are two of the most vibrant user groups in London, getting up to 70 people at
-    the sessions each month.</li>
-    <li>Active speaker and participation at the Scrum Gatherings, XP, Lean Kanban and Agile
-    Business Conferences</li>
-    <li>Being an organiser for the first ever European Scrum Alliance Coaching Retreat</li>
-  </ul>
-  <p>Helen is an authentic coach with many years of real, practical experience and war wounds from her
-  own Agile journey. This is what makes Helen the ideal coach, trainer and leader.</p>"
-  thumbnailUrl: HelenMeek.jpg
-  keynote: false
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/helenjmeek/"}
-    - {name: "twitter", link: "https://twitter.com/helen_j_meek"}
-  ribbon:
-    - {abbr: "AKT", title: "Accredited Kanban Trainer"}
 -
   id: 21
   name: "Kathrin"
