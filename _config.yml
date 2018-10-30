@@ -66,6 +66,7 @@ typeoutFallback: "2018"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
+ - {permalink: "/assets/Schedule_LKCE18.pdf" , text: "Download schedule"}
 # - {permalink: "/assets/Sponsoring_LKCE18.pdf" , text: "Become a sponsor"}
 
 # About Block
