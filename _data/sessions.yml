@@ -285,10 +285,17 @@
   video:
 -
   id: 019
-  title: "Will follow shortly..."
-  description: "Will follow shortly..."
-  subtype: interactive
-  speakers: []
+  title: "Flow Efficiency, the most powerful improvement driver"
+  description: "Flow Efficiency is an incredibly powerful improvement driver. It shows you how efficient the work is flowing through your value stream.
+  The status quo is still around maximising the resource allocation and efficiency. Organisations are too focused on that and they forget to look to the work.
+  The formula to find the flow efficiency is simple: touch time, divided by lead-time, times 100%. It shows you the proportion of time you spend adding value to a piece of work in comparison with the lead time
+  The commonly observed flow efficiency in traditional organisations is around 15%, which means that, on average, 85% of the time every piece of work is actually idling in queues, accumulating waiting time. That’s rouge!</br></br>
+  Most of the time, organisations are trying to increase efficiency on the value added time, forgetting that the waiting time, is where we have the biggest room for improvements.
+  By identifying and shifting 25% of the average lead time from waiting time to value-added time, and organisation is literally, in one year, getting back the equivalent of three months of capacity from their entire team.</br></br>
+  What would you do if you had an extra three months of capacity from your team every year, just by tweaking the way of working?
+  This talk will show you how to increase your flow efficiency by identifying and fixing common sources of waiting time."
+  subtype: talk
+  speakers: [10]
   language: en
   complexity: beginner
   slides:

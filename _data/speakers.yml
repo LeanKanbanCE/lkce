@@ -162,9 +162,9 @@
   id: 9
   name: "Jonathan"
   surname: "Smart"
-  company: "Barclays Bank"
-  title: "Head of Ways of Working"
-  bio: "Jon is leading on better ways of working across Barclays Group, with 120,000 colleagues. Jon has 20+ years experience of taking and leading an agile approach to change, starting out as a developer on the trading floor in the early 90’s. He and his team is the winner in the category of ''Best Internal Agile Team'' and runner up for ''Most Valued Agile Professional (UK)'' at the Agile Awards 2016."
+  company: "Formerly of Barclays Bank"
+  title: "Formerly Head of Ways of Working"
+  bio: "Jon was leading on better ways of working across Barclays Group, with 120,000 colleagues. Jon has 20+ years experience of taking and leading an agile approach to change, starting out as a developer on the trading floor in the early 90’s. He and his team is the winner in the category of ''Best Internal Agile Team'' and runner up for ''Most Valued Agile Professional (UK)'' at the Agile Awards 2016."
   thumbnailUrl: JonathanSmart.jpg
   keynote: false
   social:
