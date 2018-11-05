@@ -162,9 +162,11 @@
   id: 9
   name: "Jonathan"
   surname: "Smart"
-  company: "Formerly of Barclays Bank"
-  title: "Formerly Head of Ways of Working"
-  bio: "Jon was leading on better ways of working across Barclays Group, with 120,000 colleagues. Jon has 20+ years experience of taking and leading an agile approach to change, starting out as a developer on the trading floor in the early 90’s. He and his team is the winner in the category of ''Best Internal Agile Team'' and runner up for ''Most Valued Agile Professional (UK)'' at the Agile Awards 2016."
+  company: "Deloitte"
+  title: "Enterprise Agility Lead. Previously, Head of Ways of Working, Barclays Bank"
+  bio: "Jon assists organisations to deliver Better Value Sooner Safer Happier, leading on enterprise agility at Deloitte.</br></br>
+  Prior to this, Jon was leading on better ways of working across Barclays, with 80,000 colleagues in 40 countries.</br></br>
+  Jon has 25 years experience of taking and leading an agile approach to change, starting out as a developer on the trading floor in the early 90’s. He and his team is the winner in the category of ''Best Internal Agile Team'' and runner up for ''Most Valued Agile Professional (UK)'' at the Agile Awards 2016."
   thumbnailUrl: JonathanSmart.jpg
   keynote: false
   social:
@@ -425,7 +427,7 @@
   surname: "Linden-Reed"
   company: "Lean Kanban Inc."
   title: "CPO"
-  bio: "Janice Linden-Reed is Chief Program Officer of Lean Kanban Inc. Overseeing all Lean Kanban University certified Kanban training programs, credential programs for Kanban professionals, and the Lean Kanban Conference global series. Her professional background includes game design and production, starting companies, managing software development, and building communities for professionals. She works with organizations around the world seeking to use Kanban to improve results. She is from San Francisco, California but now living in Seattle, Washington."
+  bio: "Janice Linden-Reed has been a key player in the Kanban community since 2008. She was instrumental in the development of the Lean Kanban professional community, credentialed professional development programs, and Lean Kanban event series. Her current focus is applying the Kanban Method to improve outcomes for disaster management, social responsibility projects, and public policy initiatives.  She is an Accredited Kanban Trainer (AKT) and Kanban Coaching Professional (KCP), and program chair of the Lean Kanban North America conference.  Janice is based in Seattle, Washington, USA."
   thumbnailUrl: JaniceLindenReed.jpg
   keynote: false
   social:
