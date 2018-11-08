@@ -1,4 +1,12 @@
 -
+  event: "LKCE18"
+  information: "The biggest LKCE there has ever been since 2011, with keynote speakers Christopher Avery, David L. Marquet and David J. Anderson."
+  links:
+    - {link: "http://lkce18.leankanbance.com/schedule", text: "Schedule"}
+    - {link: "http://lkce18.leankanbance.com/speakers", text: "Speakers"}
+    - {link: "http://lkce18.leankanbance.com/socialevent", text: "Social Event"}
+    - {link: "https://vimeo.com/album/5541908", text: "Videos"}
+-
   event: "LKCE17"
   information: "After a freezing LKCE16, also known as FrozeCon, we decided to go back to the Curio-Haus and get warm at Hagenbecks Tierpark."
   links:
