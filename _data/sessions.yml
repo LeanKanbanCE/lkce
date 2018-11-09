@@ -67,7 +67,7 @@
   speakers: [1]
   language: de
   complexity: beginner
-  slides:
+  slides: lkce18-klaus-leopold-einfhrung-in-kanban
   video:
 -
   id: 003
@@ -77,7 +77,7 @@
   speakers: [33]
   language: en
   complexity: intermediate
-  slides:
+  slides: lkce18-thomas-van-der-burg-visual-workmanagement-at-sanofi-a-journey-towards-organizational-effectiveness
   video:
 -
   id: 004
@@ -89,7 +89,7 @@
   speakers: [3]
   language: de
   complexity: beginner
-  slides:
+  slides: lkce18-nadine-wolf-personal-kanban-als-hilfsmittel-fr-selbstfhrung
   video:
 -
   id: 005
@@ -100,7 +100,7 @@
   speakers: [4, 5]
   language: en
   complexity: intermediate
-  slides:
+  slides: lkce18-nicolas-mercier-frdric-paquet-strategic-portfolio-management-with-kanban
   video:
 -
   id: 006
@@ -110,7 +110,7 @@
   speakers: [6]
   language: en
   complexity: intermediate
-  slides:
+  slides: lkce18-jenni-jepsen-empowering-people-is-impossible
   video:
 -
   id: 007
@@ -122,7 +122,7 @@
   speakers: [7]
   language: de
   complexity: beginner
-  slides:
+  slides: lkce18-michael-mahlberg-leichtgewichtige-kanbanmetriken
   video:
 -
   id: 008
@@ -133,7 +133,7 @@
   speakers: [8]
   language: en
   complexity: intermediate
-  slides:
+  slides: olga-heismann-forcasting-in-complex-systems
   video:
 -
   id: 009
@@ -143,7 +143,7 @@
   speakers: [9]
   language: en
   complexity: beginner
-  slides:
+  slides: lkce18-jonathan-smart-better-value-sooner-safer-happier
   video:
 -
   id: 010
@@ -160,7 +160,7 @@
   speakers: [10]
   language: en
   complexity: beginner
-  slides:
+  slides: lkce18-mrcio-sete-fit-for-purpose-framework-distilled-theory-and-practice
   video:
 -
   id: 011
@@ -184,7 +184,7 @@
   speakers: [11]
   language: de
   complexity: beginner
-  slides:
+  slides: lkce18-holger-rieth-kanban-in-der-it-bei-stute-logistics
   video:
 -
   id: 012
@@ -218,7 +218,7 @@
   speakers: [13]
   language: en
   complexity: intermediate
-  slides:
+  slides: nicolas-brown-coaching-in-a-datadriven-world
   video:
 -
   id: 014
@@ -247,7 +247,7 @@
   speakers: [15]
   language: en
   complexity: intermediate
-  slides:
+  slides: lkce18-jesper-boeg-your-improvement-potential-is-much-bigger-than-you-think-establishing-a-culture-of-true-directed-continuous-improvement-with-toyota-kata
   video:
 -
   id: 016
@@ -270,7 +270,7 @@
   speakers: [17]
   language: en
   complexity:
-  slides:
+  slides: lkce18-dimitar-bakardziev-kanban-policy-game
   video:
 -
   id: 018
@@ -281,7 +281,7 @@
   speakers: [18,19]
   language: de
   complexity:
-  slides:
+  slides: lkce18-sina-schmidt-falk-engelmann-klarheit-1-experiment-18-ziele-11-product-owner-6-monate-zeit
   video:
 -
   id: 019
@@ -295,7 +295,7 @@
   speakers: [10]
   language: en
   complexity: beginner
-  slides:
+  slides: lkce18-mrcio-sete-flow-efficiency-the-most-powerful-improvement-driver
   video:
 -
   id: 020
@@ -308,7 +308,7 @@
   speakers: [21, 22]
   language: de
   complexity:
-  slides:
+  slides: lkce18-kathrin-schrder-kristine-kiwitt-agilitt-zwischen-business-impact-und-schner-wohnen
   video:
 -
   id: 021
@@ -318,7 +318,7 @@
   speakers: [23]
   language: en
   complexity: intermediate
-  slides:
+  slides: lkce18-andreas-bartel-what-does-it-take-to-grab-a-cupcake
   video:
 -
   id: 022
@@ -329,7 +329,7 @@
   speakers: [24]
   language: de
   complexity:
-  slides:
+  slides: lkce18-wolfgang-wiedenroth-behind-the-kanbanboard
   video:
 -
   id: 023
@@ -342,7 +342,7 @@
   speakers: [25, 26]
   language: de
   complexity:
-  slides:
+  slides: lkce18-sandra-sieroux-stefan-roock-agile-organisation-eine-frage-des-leaderships
   video:
 -
   id: 024
@@ -355,7 +355,7 @@
   speakers: [27]
   language: en
   complexity:
-  slides:
+  slides: lkce18-steve-mcgee-kmm-cultural-appraisal-and-practical-guidance-for-leaders
   video:
 -
   id: 025
@@ -383,7 +383,7 @@
   speakers: [29]
   language: de
   complexity:
-  slides:
+  slides: lkce18-thomas-epping-mehr-wirkung-weniger-drama
   video:
 -
   id: 027
@@ -393,7 +393,7 @@
   speakers: [30]
   language: de
   complexity:
-  slides:
+  slides: lkce18-markus-andrezak-portfolio-und-strategieboard
   video:
 -
   id: 028
@@ -411,7 +411,7 @@
   speakers: [31]
   language: en
   complexity:
-  slides:
+  slides: lkce18-andy-carmichael-feedback-and-cadence-essentials-of-agile-control-and-evolution
   video:
 -
   id: 029
