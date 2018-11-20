@@ -367,7 +367,7 @@
   speakers: [28]
   language: en
   complexity:
-  slides:
+  slides: lkce18-janice-lindenreed-kanban-saves-the-world
   video:
 -
   id: 026
@@ -415,11 +415,11 @@
   video:
 -
   id: 029
-  title: "Keynote: Evolving Fit-for-Purpose Organizations using the Kanban Maturity Model"
-  description: "There are two recognized failure modes in Kanban implementations: aborted start - the kanban system design was too ambitious; false summit plateau - a failure to aspire to effective business outcomes, and, or, a failure to create just enough stress to catalyze further changes. Business are subject to evolutionary forces in the marketplace: only the fittest survive and thrive. Kanban provides the mechanism to drive evolutionary change and enure the survival of fit-for-purpose products and services. The main and first purpose of the Kanban Maturity Model is to guide appropriate implementation to avoid both failure modes. The secondary purpose is to provide a roadmap to guide further improvements whilst continuing to avoid both failure modes. The results should enable steady improvement towards fit-for-purpose products and services, and a fit-for-purpose, sustainable, thriving organization with satisfied customers and reliable, predictable economic results. Appropriate use of the Kanban Maturity Model increases the probability of a successful outcome."
+  title: "Keynote: Defining Leadership Maturity - Social Engineering for Organizational Sucess"
+  description: "Organizational maturity and predictable business outcomes will always be limited by the maturity of leadership. This talk will codify leadership behavior against the seven levels of the Kanban Maturity Model and explain the role of a leader as the social engineer who must create the culture for improved maturity. This talk will introduce the concept of organizational entropy and to maintain the high energy state required for deeper maturity levels. The Kanban Maturity Model as a map of practices and business outcomes is useful but often the impediment to success is embedded in the corporate culture and the maturity of the leaders. The Kanban Maturity Model Extension (KMMX) for Leadership Practices provides pragmatic, actionable guidance to coach leaders to take the necessary actions to enable successful evolutionary change."
   subtype: keynote
   speakers: [32]
   language: en
   complexity: intermediate
-  slides:
+  slides: lkce18-keynote-david-j-anderson-leadership-maturity
   video:
