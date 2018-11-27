@@ -67,8 +67,8 @@ typeoutFallback: "2018"
 heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
- - {permalink: "/schedule", text: "Download LKCE18 slides"}
-# - {permalink: "/assets/Sponsoring_LKCE18.pdf" , text: "Become a sponsor"}
+ - {link: "https://vimeo.com/album/5541908", text: "Goto Videos"}
+ - {permalink: "/schedule" , text: "Download slides"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
