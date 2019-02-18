@@ -1,0 +1,77 @@
+[
+  {
+     "id": 0,
+     "name": "Wolfgang",
+     "surname": "Wiedenroth",
+     "title": "Speakers Manager & Program Committee",
+     "thumbnailUrl": "wolfgangwiedenroth.jpg",
+     "team": true,
+     "subTeam": true,
+     "ribbon": [
+        {
+           "abbr": "it-agile",
+           "title": "it-agile Gmbh"
+        }
+     ],
+     "social": [
+        {
+           "name": "twitter",
+           "link": "http://twitter.com/wwiedenroth"
+        },
+        {
+           "name": "site",
+           "link": "http://agilemanic.com/"
+        }
+     ]
+  },
+  {
+     "id": 1,
+     "name": "Claudia",
+     "surname": "Reitenbach",
+     "title": "Location and Sponsor Manager",
+     "thumbnailUrl": "claudiareitenbach.jpg",
+     "team": true,
+     "ribbon": [
+        {
+           "abbr": "it-agile",
+           "title": "it-agile Gmbh"
+        }
+     ]
+  },
+  {
+     "id": 2,
+     "name": "Markus",
+     "surname": "Andrezak",
+     "title": "Program Committee",
+     "thumbnailUrl": "markusandrezak.jpg",
+     "subTeam": true,
+     "social": [
+        {
+           "name": "twitter",
+           "link": "https://twitter.com/markusandrezak"
+        },
+        {
+           "name": "site",
+           "link": "http://ueberproduct.de"
+        }
+     ]
+  },
+  {
+     "id": 4,
+     "name": "Klaus",
+     "surname": "Leopold",
+     "title": "Program Committee",
+     "thumbnailUrl": "klausleopold.jpg",
+     "subTeam": true,
+     "social": [
+        {
+           "name": "twitter",
+           "link": "https://twitter.com/klausleopold"
+        },
+        {
+           "name": "site",
+           "link": "https://www.leanability.com"
+        }
+     ]
+  }
+]
