@@ -3,7 +3,7 @@ layout: post
 title: Code of Conduct
 permalink: /cod/
 isStaticPost: true
-image: background.jpg
+image: lkce18.jpg
 ---
 All attendees, speakers, sponsors and volunteers at Lean Kanban Central Europe are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 

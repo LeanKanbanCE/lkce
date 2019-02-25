@@ -44,11 +44,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- # - {permalink: "/logistics/", text: "Logistics"}
- # - {permalink: "/socialevent/", text: "Social Event"}
+ - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/socialevent/", text: "Social Event"}
  - {permalink: "/cod/", text: "Code of Conduct"}
  - {permalink: "/archive/", text: "Previous Events"}
 bottomNavigationLinks:
@@ -59,20 +59,22 @@ rightNavigationButtons:
 #  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "background.jpg"
+heroImage: "lkce18.jpg"
 heroTitle: "Lean Kanban Central Europe <typeout>"
-eventDate: "5th + 6th November, 2019"
-typeoutTextValues: '"", "2019"'
-typeoutFallback: "2019"
+eventDate: "5th + 6th November, 2018"
+typeoutTextValues: '"", "2018"'
+typeoutFallback: "2018"
 heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
+ - {link: "https://vimeo.com/album/5541908", text: "Goto Videos"}
+ - {permalink: "/schedule" , text: "Download slides"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Come and join us at the world’s most popular Lean Kanban conference of this world wide series. Two days packed with inspiring talks, workshops and networking opportunities."}
- - {title: "Social Event", image: "socialevent.jpg", text: "Join us at Hard Rock Café Hamburg for an evening of exchanging ideas, meeting new people and your favorite speaker while having a beer with a breath-taking view over the harbour." }
+ - {title: "Social Event", image: "hardrock_logo.jpg", text: "Join us at Hard Rock Café Hamburg for an evening of exchanging ideas, meeting new people and your favorite speaker while having a beer with a breath-taking view over the harbour." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -86,9 +88,9 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Keynote Speakers Block
-keynoteSpeakersImage: "background.jpg"
+keynoteSpeakersImage: "lkce18.jpg"
 keynoteSpeakersCount: 3
-keynoteSpeakersTitle: "Keynote Speakers LKCE2019"
+keynoteSpeakersTitle: "Keynote Speakers LKCE2018"
 keynoteSpeakersButtonText: "Learn more about the keynote speakers and other speakers"
 
 # Location Block
@@ -124,7 +126,7 @@ twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners 2019"
+partnersTitle: "Partners 2018"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -138,12 +140,12 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "LKCE19 - 2 days Ticket"
-  price: "1000"
+  name: "LKCE18 - 2 days Ticket"
+  price: "1200"
   priceCurrency: "EUR (excl. 19% VAT)"
   ticketsNumber: "1"
   ribbon: ""
-  buyButtonLink: "http://ti.to/lkce/lkce19"
+  buyButtonLink: "http://ti.to/lkce/lkce18"
   buyButtonText: "Buy Now - the price will go up"
   ticketContentList: ["2 Days", "2 Tracks", "Social Event"]
   validFrom: "2018-11-25T10:00"
