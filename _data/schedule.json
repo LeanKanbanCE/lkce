@@ -1,0 +1,299 @@
+[
+  {
+     "date": "2018-11-05",
+     "dateReadable": "November 05",
+     "tracks": [
+        {
+           "title": "Upstream",
+           "color": "#C3C3C3"
+        },
+        {
+           "title": "Downstream",
+           "color": "#F9BB81"
+        }
+     ],
+     "timeslots": [
+        {
+           "startTime": "09:30",
+           "endTime": "10:00",
+           "sessionIds": [
+              307
+           ]
+        },
+        {
+           "startTime": "10:00",
+           "endTime": "10:10",
+           "sessionIds": [
+              308
+           ]
+        },
+        {
+           "startTime": "10:10",
+           "endTime": "11:10",
+           "sessionIds": [
+              1
+           ]
+        },
+        {
+           "startTime": "11:10",
+           "endTime": "11:20",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "11:20",
+           "endTime": "11:50",
+           "sessionIds": [
+              2,
+              6
+           ]
+        },
+        {
+           "startTime": "11:50",
+           "endTime": "12:00",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "12:00",
+           "endTime": "12:30",
+           "sessionIds": [
+              16,
+              3
+           ]
+        },
+        {
+           "startTime": "12:30",
+           "endTime": "12:40",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "12:40",
+           "endTime": "13:10",
+           "sessionIds": [
+              4,
+              8
+           ]
+        },
+        {
+           "startTime": "13:10",
+           "endTime": "14:10",
+           "sessionIds": [
+              312
+           ]
+        },
+        {
+           "startTime": "14:10",
+           "endTime": "14:40",
+           "sessionIds": [
+              0,
+              18
+           ]
+        },
+        {
+           "startTime": "14:40",
+           "endTime": "14:50",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "14:50",
+           "endTime": "15:20",
+           "sessionIds": [
+              11,
+              9
+           ]
+        },
+        {
+           "startTime": "15:20",
+           "endTime": "15:50",
+           "sessionIds": [
+              310
+           ]
+        },
+        {
+           "startTime": "15:50",
+           "endTime": "16:20",
+           "sessionIds": [
+              7,
+              0
+           ]
+        },
+        {
+           "startTime": "16:20",
+           "endTime": "16:30",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "16:30",
+           "endTime": "17:30",
+           "sessionIds": [
+              12
+           ]
+        },
+        {
+           "startTime": "17:30",
+           "endTime": "18:00",
+           "sessionIds": [
+              313
+           ]
+        },
+        {
+           "startTime": "18:00",
+           "endTime": "23:00",
+           "sessionIds": [
+              314
+           ]
+        }
+     ]
+  },
+  {
+     "date": "2018-11-06",
+     "dateReadable": "November 06",
+     "tracks": [
+        {
+           "title": "Upstream",
+           "color": "#C3C3C3"
+        },
+        {
+           "title": "Downstream",
+           "color": "#F9BB81"
+        }
+     ],
+     "timeslots": [
+        {
+           "startTime": "09:00",
+           "endTime": "09:10",
+           "sessionIds": [
+              308
+           ]
+        },
+        {
+           "startTime": "09:10",
+           "endTime": "09:40",
+           "sessionIds": [
+              13,
+              1
+           ]
+        },
+        {
+           "startTime": "09:40",
+           "endTime": "09:50",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "09:50",
+           "endTime": "10:20",
+           "sessionIds": [
+              15,
+              14
+           ]
+        },
+        {
+           "startTime": "10:20",
+           "endTime": "11:10",
+           "sessionIds": [
+              315
+           ]
+        },
+        {
+           "startTime": "11:10",
+           "endTime": "11:40",
+           "sessionIds": [
+              5,
+              1
+           ]
+        },
+        {
+           "startTime": "11:40",
+           "endTime": "11:50",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "11:50",
+           "endTime": "12:20",
+           "sessionIds": [
+              17,
+              10
+           ]
+        },
+        {
+           "startTime": "12:20",
+           "endTime": "12:30",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "12:30",
+           "endTime": "13:00",
+           "sessionIds": [
+              19,
+              20
+           ]
+        },
+        {
+           "startTime": "13:00",
+           "endTime": "14:00",
+           "sessionIds": [
+              312
+           ]
+        },
+        {
+           "startTime": "14:00",
+           "endTime": "14:30",
+           "sessionIds": [
+              21,
+              22
+           ]
+        },
+        {
+           "startTime": "14:30",
+           "endTime": "14:40",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "14:40",
+           "endTime": "15:10",
+           "sessionIds": [
+              23,
+              2
+           ]
+        },
+        {
+           "startTime": "15:10",
+           "endTime": "15:20",
+           "sessionIds": [
+              311
+           ]
+        },
+        {
+           "startTime": "15:20",
+           "endTime": "16:20",
+           "sessionIds": [
+              2
+           ]
+        },
+        {
+           "startTime": "16:20",
+           "endTime": "16:30",
+           "sessionIds": [
+              309
+           ]
+        }
+     ]
+  }
+]
