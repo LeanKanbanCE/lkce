@@ -30,7 +30,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.it-agile.de"
 
 # Head
-metaKeywords: "lkce, event, kanban, lean, modern management, change, it-agile, LKU, agile, hamburg"
+metaKeywords: "kanban, lean, event, leadership, change, agile, modern management, it-agile, LKU, germany, hamburg"
 twitterAccount: "@LeanKanbanCE"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -44,11 +44,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/socialevent/", text: "Social Event"}
+ # - {permalink: "/logistics/", text: "Logistics"}
+ # - {permalink: "/socialevent/", text: "Social Event"}
  - {permalink: "/cod/", text: "Code of Conduct"}
  - {permalink: "/archive/", text: "Previous Events"}
 bottomNavigationLinks:
@@ -59,22 +59,20 @@ rightNavigationButtons:
 #  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
-heroImage: "lkce18.jpg"
+heroImage: "background.jpg"
 heroTitle: "Lean Kanban Central Europe <typeout>"
-eventDate: "5th + 6th November, 2018"
-typeoutTextValues: '"", "2018"'
-typeoutFallback: "2018"
+eventDate: "5th + 6th November, 2019"
+typeoutTextValues: '"", "2019"'
+typeoutFallback: "2019"
 heroButtons:
-# - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
- - {link: "https://vimeo.com/album/5541908", text: "Goto Videos"}
- - {permalink: "/schedule" , text: "Download slides"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Come and join us at the world’s most popular Lean Kanban conference of this world wide series. Two days packed with inspiring talks, workshops and networking opportunities."}
- - {title: "Social Event", image: "hardrock_logo.jpg", text: "Join us at Hard Rock Café Hamburg for an evening of exchanging ideas, meeting new people and your favorite speaker while having a beer with a breath-taking view over the harbour." }
+ - {title: "Social Event", image: "socialevent.jpg", text: "Join us at Hard Rock Café Hamburg for an evening of exchanging ideas, meeting new people and your favorite speaker while having a beer with a breath-taking view over the harbour." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -88,7 +86,7 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Keynote Speakers Block
-keynoteSpeakersImage: "lkce18.jpg"
+keynoteSpeakersImage: "background.jpg"
 keynoteSpeakersCount: 3
 keynoteSpeakersTitle: "Keynote Speakers LKCE2018"
 keynoteSpeakersButtonText: "Learn more about the keynote speakers and other speakers"
