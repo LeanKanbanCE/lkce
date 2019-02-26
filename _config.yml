@@ -124,7 +124,7 @@ twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners 2018"
+partnersTitle: "Partners 2019"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
@@ -138,12 +138,12 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "LKCE18 - 2 days Ticket"
-  price: "1200"
+  name: "LKCE19 - 2 days Ticket"
+  price: "1000"
   priceCurrency: "EUR (excl. 19% VAT)"
   ticketsNumber: "1"
   ribbon: ""
-  buyButtonLink: "http://ti.to/lkce/lkce18"
+  buyButtonLink: "http://ti.to/lkce/lkce19"
   buyButtonText: "Buy Now - the price will go up"
   ticketContentList: ["2 Days", "2 Tracks", "Social Event"]
   validFrom: "2018-11-25T10:00"
