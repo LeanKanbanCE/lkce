@@ -3,7 +3,7 @@ layout: post
 title:  Why we have a Code of Conduct!
 date:   2017-10-17 08:00:00
 isStaticPost: false
-published: true
+published: false
 ---
 Lean Kanban Central Europe (LKCE) is organized by it-agile for the seventh
 year in a row. In all this years, we worked hard to create a place where people

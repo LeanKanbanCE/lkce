@@ -4,7 +4,7 @@ image: hardrockcafe_outside.jpg
 title:  Social Event - LKCE18 goes HardRock Café!
 date:   2018-06-06 08:00:00
 isStaticPost: false
-published: true
+published: false
 ---
 We are thrilled to announce that this year’s social event will take place at the legendary Hard Rock Café Hamburg!
 
