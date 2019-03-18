@@ -3,6 +3,7 @@ layout: post
 title:  This year’s social event - warm and cozy
 date:   2017-09-06 08:00:00
 isStaticPost: false
+published: false
 ---
 
 As a social event we have a special surprise for you! Since a lot of attendees had to suffer from the cold at LKCE16, this year we want to make sure that everyone is warm and cozy!

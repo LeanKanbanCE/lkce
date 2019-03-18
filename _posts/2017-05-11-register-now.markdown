@@ -3,6 +3,8 @@ layout: post
 title:  "Register now!"
 date:   2017-05-11 08:00:00
 isStaticPost: false
+published: false
+
 ---
 
 The gates are open!<br>
