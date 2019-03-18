@@ -47,8 +47,8 @@ navigationLinks:
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- # - {permalink: "/logistics/", text: "Logistics"}
- # - {permalink: "/socialevent/", text: "Social Event"}
+ - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/socialevent/", text: "Social Event"}
  - {permalink: "/cod/", text: "Code of Conduct"}
  - {permalink: "/archive/", text: "Previous Events"}
 bottomNavigationLinks:
@@ -88,24 +88,24 @@ latestNewsTitle: "Latest news"
 # Keynote Speakers Block
 keynoteSpeakersImage: "background.jpg"
 keynoteSpeakersCount: 3
-keynoteSpeakersTitle: "Keynote Speakers LKCE2018"
+keynoteSpeakersTitle: "Keynote Speakers LKCE2019"
 keynoteSpeakersButtonText: "Learn more about the keynote speakers and other speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Curio-Haus"
-eventLocationLink: "http://www.koflerkompanie.com/locations/hamburg/curiohaus/"
-eventStreetAddress: "Rothenbaumchaussee 13"
+eventLocationName: "Panoramadeck"
+eventLocationLink: "https://www.nordevent.de/de/eventlocation-details/das-nord-event-panoramadeck.html"
+eventStreetAddress: "Dammtorwall 15"
 eventAddressLocality: "Hamburg"
 eventAddressLocalityRegion: "Hamburg"
-eventPostalCode: "20148"
+eventPostalCode: "20355"
 eventAddressCountry: "Germany"
-eventStartTime: "2018-05-07T10:00"
+eventStartTime: "2019-11-05T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2018-06-08T18:00"
-eventPlaceCoordinates: "53.565018, 9.989006"
-mapCenterCoordinates: "53.565018, 9.989006"
-mapMobileCenterCoordinates: "53.565018, 9.989006"
+eventEndTime: "2019-11-06T18:00"
+eventPlaceCoordinates: "53.5561441, 9.9822282"
+mapCenterCoordinates: "53.5561441,9.9822282"
+mapMobileCenterCoordinates: "53.5561441,9.9822282"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -113,13 +113,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Curio-Haus"
-venueFeatures: ["2 rooms", "Lounge to relax and talk", "Located close to the Außenalster"]
+venueTitle: "NORD EVENT Panoramadeck"
+venueFeatures: ["2 rooms", "Market place to connect and discuss", "Lounge to relax and talk", "Located close to the Außenalster"]
 
 # Tweets Feed Block
 tweetsFeedImage: "direction-details.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "LKCE18"
+twitterHashTag: "LKCE19"
 twitterFeed: ""
 
 # Partners Block
@@ -147,7 +147,7 @@ ticketsOffers:
   buyButtonText: "Buy Now - the price will go up"
   ticketContentList: ["2 Days", "2 Tracks", "Social Event"]
   validFrom: "2018-11-25T10:00"
-  validThrough: "2018-09-30T23:59"
+  validThrough: "2019-11-04T23:59"
 
 # Footer
 socialLinks:
@@ -192,8 +192,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "53.565018, 9.989006"
-logisticsMapMobileCenterCoordinates: "53.565018, 9.989006"
+logisticsMapCenterCoordinates: "53.5561441, 9.9822282"
+logisticsMapMobileCenterCoordinates: "53.5561441, 9.9822282"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
@@ -201,7 +201,7 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Hamburg"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The airport is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.hamburg-airport.de/en/bus_rail_and_transfer.php">airport website</a>.'}
- - {title: "Public Transit", information: 'Go to Hamburg Dammtor for public transportation to the central station, the airport or anywhere else in Hamburg.'}
+ - {title: "Public Transit", information: 'Take the subway to either Messehallen or Stephansplatz for public transportation to the central station, the airport or anywhere else in Hamburg.'}
 
 # Archive Direction Details Block
 archiveDetailsImage: "direction-details.jpg"
@@ -215,38 +215,26 @@ socialeventTitle: "Social Event"
 enablesocialevent: true
 
 # About Social Event Block
-socialEventBlockTitle: "LKCE18 goes HardRock Café"
-aboutSocialEvent: "We are thrilled to announce that this year’s social event will take place at the legendary Hard Rock Café Hamburg!
-
-All attendees at LKCE are invited to a memorable night at the world’s most famous bar.
-
-On Nov. 5th the restaurant will be closed for the public so that all attendees can enjoy an exclusive experience at the Hard Rock Café!
-
-Join us for drinks at a world-class bar, music and great food in a unique atmosphere. Music memorabilia from the extensive music collection adorn the walls, including items from the world's most recognizable musicians.
-
-The Hard Rock Cafe is located on the banks of the Elbe in one of the city's most historic buildings, the Landungsbrücken, with a breath-taking view over the harbor.
-
-A shuttle service will take you from the venue to the Hard Rock Café.
-
-We can’t wait to welcome you in Hamburg and celebrate LKCE’s 8th anniversary in this legendary location. Rock on!"
+socialEventBlockTitle: "LKCE19 goes Speicherstadt"
+aboutSocialEvent: "After last year's social event was full of rock'n roll, we invite you to the historic customs halls, Ehemaliges Hauptzollamt ‒ Zollhalle in Hamburg's world famous Speicherstadt."
 
 # socialevent Location Block
 socialeventLocationBlockTitle: "Location"
-socialeventLocationName: "HardRock Cafe Hamburg"
+socialeventLocationName: "Ehemaliges Hauptzollamt ‒ Zollhalle"
 socialeventLocationLink: "http://www.hardrock.com/cafes/hamburg/de/"
-socialeventStreetAddress: "Bei den St. Pauli Landungsbrücken, Brücke 5"
+socialeventStreetAddress: "Alter Wandrahm 20"
 socialeventAddressLocality: "Hamburg"
 socialeventAddressLocalityRegion: "Hamburg"
-socialeventPostalCode: "20359"
+socialeventPostalCode: "20457"
 socialeventAddressCountry: "Germany"
 socialeventTimeTitle: "Meet new friends"
-socialeventStartTime: "2018-11-05T19:00"
-socialeventDoorTime: "19:00"
-socialeventEndTime: "2018-11-05T23:00"
+socialeventStartTime: "2019-11-06T18:30"
+socialeventDoorTime: "18:30"
+socialeventEndTime: "2019-11-06T23:00"
 viewOnMap: "View on Google Maps"
-socialeventPlaceCoordinates: "53.5457182, 9.9680636"
-socialeventMapCenterCoordinates: "53.5457182, 9.9680636"
-socialeventMapMobileCenterCoordinates: "53.5457182, 9.9680636"
-socialeventPlaceCoordinates: "53.5457182, 9.9680636"
-socialeventMapCenterCoordinates: "53.5457182, 9.9680636"
-socialeventMapMobileCenterCoordinates: "53.5457182, 9.9680636"
+socialeventPlaceCoordinates: "53.54647, 10.0006929"
+socialeventMapCenterCoordinates: "53.54647, 10.0006929"
+socialeventMapMobileCenterCoordinates: "53.54647, 10.0006929"
+socialeventPlaceCoordinates: "53.54647, 10.0006929"
+socialeventMapCenterCoordinates: "53.54647, 10.0006929"
+socialeventMapMobileCenterCoordinates: "53.54647, 10.0006929"
