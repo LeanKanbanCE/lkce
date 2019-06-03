@@ -66,7 +66,7 @@ typeoutTextValues: '"", "2019"'
 typeoutFallback: "2019"
 heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {link: "http://bit.ly/cfp_lkce19", text: "Become a speaker"}
+ # - {link: "http://bit.ly/cfp_lkce19", text: "Become a speaker"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 # About Block
