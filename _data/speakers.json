@@ -48,18 +48,25 @@
     "id": 130,
     "name": "George",
     "surname": "Parker",
-    "company": "TheCreationGame",
-    "title": "Professional Creator",
+    "company": "TheCreationGame®",
+    "title": "Founder",
     "bio": "George Parker is the founder of TheCreationGame®. He has dedicated his life to exploring the secrets of the creation process: how do we change from A to what we want our reality to be? He created art (illustrations, theatershows, stand-up illusion and mentalism acts, bestselling books). But he also life itself as a creation that we can shape in any way we like. So he made up wildly different careers (in health care, programmer, sales, trainer, consul-tant, illusionist/mentalist, author, speaker). And changed reality, including himself, into something these visions needed to make them come true. And he renewed himself through many phases in his relationship to keep it fresh.</br>
     TheCreationGame® preaches what he has practiced over four decades. You will shift from a reactive to a creative state of mind. By applying the Three Laws of Perception by using the IDEAL cycle, you turn vague intentions into any reality you desire. As a result you will reinvent yourself, your business and relationships over and over again stay vital, relevant and inspired.</br>
     George talks about this in his highly acclaimed LectureShows© (mixing content with great entertainment value; over 4000 shows in more than 25 countries) and teaches it in his workshops and books.
     ",
     "thumbnailUrl": "GeorgeParker.jpg",
     "keynote": true,
-    "social": [
+    "social": [{
+      "name": "twitter",
+      "link": "https://twitter.com/George_Parker"
+    },
       {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/parkergeorge/"
+    },
+      {
+        "name": "site",
+        "link": "http://www.thecreationgame.com"
       }
     ],
     "ribbon": [{
@@ -655,6 +662,24 @@
       {
         "name": "site",
         "link": "http://fb.com/leaninco"
+      }
+    ]
+  },
+  {
+    "id": 026,
+    "name": "Bea",
+    "surname": "Knippenberg",
+    "company": "REWE Digital GmbH",
+    "title": "Delivery Manager",
+    "bio": "Bea Knippenberg arbeitet in der Rolle des Delivery Managers im Bereich eCommerce bei der REWE Digital GmbH in Köln. Sie beschäftigt sich in diversen Rollen seit dem Beginn ihrer beruflichen Laufbahn mit Führung, Unternehmensentwicklung und Selbstorganisation. Organisationsentwicklung und Veränderung konnte sie in verschiedensten Organisationsformen und -entwicklungsphasen begleiten. Erste Kontakte mit Scrum hat Bea Knippenberg in der Rolle als Stakeholder gemacht und war direkt begeistert von der agilen Arbeitsweise, die sie erst als Scrum Master und aktuell als Delivery Manager bei der REWE digital unterstützt.</br></br>
+
+    Als langjährige Führungskraft liegt der Schwerpunkt ihrer Tätigkeit auf organisatorischen und kollaborativen Themen der Produktentwicklung. Durch den Hintergrund im Bereich Monitoring, Evaluation und Marktforschung schlägt ihr Herz jedoch auch für gute und sinnvolle Tests und Experimente.
+    ",
+    "thumbnailUrl": "BeaKnippenberg.jpg",
+    "keynote": false,
+    "social": [{
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/bea-knippenberg/"
       }
     ]
   }
