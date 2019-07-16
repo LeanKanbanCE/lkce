@@ -45,6 +45,29 @@
     }]
   },
   {
+    "id": 130,
+    "name": "George",
+    "surname": "Parker",
+    "company": "TheCreationGame",
+    "title": "Professional Creator",
+    "bio": "George Parker is the founder of TheCreationGame®. He has dedicated his life to exploring the secrets of the creation process: how do we change from A to what we want our reality to be? He created art (illustrations, theatershows, stand-up illusion and mentalism acts, bestselling books). But he also life itself as a creation that we can shape in any way we like. So he made up wildly different careers (in health care, programmer, sales, trainer, consul-tant, illusionist/mentalist, author, speaker). And changed reality, including himself, into something these visions needed to make them come true. And he renewed himself through many phases in his relationship to keep it fresh.</br>
+    TheCreationGame® preaches what he has practiced over four decades. You will shift from a reactive to a creative state of mind. By applying the Three Laws of Perception by using the IDEAL cycle, you turn vague intentions into any reality you desire. As a result you will reinvent yourself, your business and relationships over and over again stay vital, relevant and inspired.</br>
+    George talks about this in his highly acclaimed LectureShows© (mixing content with great entertainment value; over 4000 shows in more than 25 countries) and teaches it in his workshops and books.
+    ",
+    "thumbnailUrl": "GeorgeParker.jpg",
+    "keynote": true,
+    "social": [
+      {
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/parkergeorge/"
+      }
+    ],
+    "ribbon": [{
+      "abbr": "Keynote",
+      "title": "Keynote"
+    }]
+  },
+  {
     "id": 001,
     "name": "Klaus",
     "surname": "Leopold",
