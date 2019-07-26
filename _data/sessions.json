@@ -423,6 +423,20 @@ This is an experience report of our continuous transformation.
     "video": null
   },
   {
+    "id": 027,
+    "title": "DYNAMIC - How to get Fit for Purpose",
+    "description": "The Fit for Purpose Framework already gained momentum describing the criteria to develop the products and services, customers want and are willing to pay for. But how to start implementing the framework at your company? DYNAMIC is derived from STATIK the steps, starting with Kanban and will provide the steps you can use to implement the F4P framework on your own.
+    ",
+    "subtype": "talk",
+    "speakers": [
+      027, 028
+    ],
+    "language": "en",
+    "complexity": intermediate,
+    "slides": null,
+    "video": null
+  },
+  {
     "id": 022,
     "title": "Portfolio-Planung von Top-Down zu Bottom-Up",
     "description": "Wer hat dies nicht auch schon erlebt – jedes Jahr findet sie statt – die Jahresplanung der Unternehmung. Ziele, die von „Oben“ vorgegeben werden, von der „Mitte“ mit konkreten Maßnahmen unterfüttert werden, welche wiederum zu einem Jahres-Portfolio führen, welches „Unten“ nur noch umsetzen muss.</br></br>
@@ -434,6 +448,19 @@ This is an experience report of our continuous transformation.
     "subtype": "talk",
     "speakers": [
       022, 026
+    ],
+    "language": "de",
+    "complexity": intermediate,
+    "slides": null,
+    "video": null
+  },
+  {
+    "id": 029,
+    "title": "Meet Miss Moneypenny! Oder: 'Kannst du mal kurz Kanban'?",
+    "description": "Rechnungswesen, Eventorganisation, Logistik- und Materialmanagement, Gästebetreuung, Officemanagement und die zuständige „Kannst-du-mal-kurz-Zentrale“ - Das Moneypenny Team bei it-agile ist vor allem eins: multidisziplinär. Die Vielschichtigkeit unserer Aufgaben zeigt sich auch auf unserem, über die Jahre stetig weiterentwickelten, Kanban-Board. Wir stellen vor, wie es uns gelingt, unterschiedlichste Aufgabenbereiche zu visualisieren, welche teameigenen Tools wir geschaffen haben und welchen Herausforderungen wir dabei bisher begegnet sind.",
+    "subtype": "talk",
+    "speakers": [
+      029, 030
     ],
     "language": "de",
     "complexity": intermediate,

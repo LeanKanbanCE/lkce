@@ -572,6 +572,24 @@
     ]
   },
   {
+    "id": 026,
+    "name": "Bea",
+    "surname": "Knippenberg",
+    "company": "REWE Digital GmbH",
+    "title": "Delivery Manager",
+    "bio": "Bea Knippenberg arbeitet in der Rolle des Delivery Managers im Bereich eCommerce bei der REWE Digital GmbH in Köln. Sie beschäftigt sich in diversen Rollen seit dem Beginn ihrer beruflichen Laufbahn mit Führung, Unternehmensentwicklung und Selbstorganisation. Organisationsentwicklung und Veränderung konnte sie in verschiedensten Organisationsformen und -entwicklungsphasen begleiten. Erste Kontakte mit Scrum hat Bea Knippenberg in der Rolle als Stakeholder gemacht und war direkt begeistert von der agilen Arbeitsweise, die sie erst als Scrum Master und aktuell als Delivery Manager bei der REWE digital unterstützt.</br></br>
+
+    Als langjährige Führungskraft liegt der Schwerpunkt ihrer Tätigkeit auf organisatorischen und kollaborativen Themen der Produktentwicklung. Durch den Hintergrund im Bereich Monitoring, Evaluation und Marktforschung schlägt ihr Herz jedoch auch für gute und sinnvolle Tests und Experimente.
+    ",
+    "thumbnailUrl": "BeaKnippenberg.jpg",
+    "keynote": false,
+    "social": [{
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/bea-knippenberg/"
+      }
+    ]
+  },
+  {
     "id": 023,
     "name": "Mike",
     "surname": "Freislich",
@@ -666,21 +684,87 @@
     ]
   },
   {
-    "id": 026,
-    "name": "Bea",
-    "surname": "Knippenberg",
-    "company": "REWE Digital GmbH",
-    "title": "Delivery Manager",
-    "bio": "Bea Knippenberg arbeitet in der Rolle des Delivery Managers im Bereich eCommerce bei der REWE Digital GmbH in Köln. Sie beschäftigt sich in diversen Rollen seit dem Beginn ihrer beruflichen Laufbahn mit Führung, Unternehmensentwicklung und Selbstorganisation. Organisationsentwicklung und Veränderung konnte sie in verschiedensten Organisationsformen und -entwicklungsphasen begleiten. Erste Kontakte mit Scrum hat Bea Knippenberg in der Rolle als Stakeholder gemacht und war direkt begeistert von der agilen Arbeitsweise, die sie erst als Scrum Master und aktuell als Delivery Manager bei der REWE digital unterstützt.</br></br>
-
-    Als langjährige Führungskraft liegt der Schwerpunkt ihrer Tätigkeit auf organisatorischen und kollaborativen Themen der Produktentwicklung. Durch den Hintergrund im Bereich Monitoring, Evaluation und Marktforschung schlägt ihr Herz jedoch auch für gute und sinnvolle Tests und Experimente.
-    ",
-    "thumbnailUrl": "BeaKnippenberg.jpg",
+    "id": 027,
+    "name": "Henning",
+    "surname": "Wolf",
+    "company": "it-agile GmbH",
+    "title": "Leadermacher",
+    "bio": "Henning Wolf has been CEO of it-agile for 14 years, today he is working as a management consultant and trainer for it-agile. He wrote a lot of articles and books about agile software development and is a regular speaker at agile conferences. His passion is leadership and especially The Responsibility Process™. As a trainer and consultant his goal is to help organizations to change their mindset to lean and agile.",
+    "thumbnailUrl": "HenningWolf.jpg",
+    "keynote": false,
+    "social": [{
+        "name": "twitter",
+        "link": "https://twitter.com/henningwolf"
+      },
+      {
+          "name": "site",
+          "link": "https://henningwolf.de"
+        }
+    ],
+    "ribbon": [{
+       "abbr": "AKT",
+       "title": "Accredited Kanban Trainer"
+     }
+    ]
+  },
+  {
+    "id": 028,
+    "name": "Sven",
+    "surname": "Günther",
+    "company": "it-agile GmbH",
+    "title": "Kanban expert",
+    "bio": "Sven works for it-agile as AKT and KCP. He helps organisations improving their service delivery and delivering satisfying products and services. He started his carreer as software developer for mobile devices and backend systems.
+    If he does not work (which is very rarely) he enjoys to play the piano or he tries to improve his feeling for the ball by playing squash.",
+    "thumbnailUrl": "SvenGuenther.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
-        "link": "https://www.linkedin.com/in/bea-knippenberg/"
+        "link": "https://www.linkedin.com/in/sven-günther-47ab4053/"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/inevs"
       }
-    ]
+    ],
+    "ribbon":[{
+      "abbr": "AKT",
+      "title": "Accredited Kanban Trainer"
+    },
+    {
+      "abbr": "KCP",
+      "title": "Kanban Coaching Professional"
+    }
+  ]
+  },
+  {
+    "id": 029,
+    "name": "Carmen",
+    "surname": "Rudolph",
+    "company": "it-agile GmbH",
+    "title": "Moneypenny",
+    "bio": "Carmen Rudolph hat in Marburg und Hamburg Politikwissenschaften, Germanistik und
+    Geschichte studiert. Nach dem Abschluss des Studiums war sie zunächst als freie Autorin für
+    unterschiedliche Publikationen tätig, bevor es sie für fast sechs Jahre als Projektmanagerin in
+    die Werbebranche verschlug. Seit 2018 ist sie bei it-agile Teil des Moneypenny Teams und
+    begeistert sich hier vor allem für die Gestaltung und den Entwurf von Kanban-Boards.",
+    "thumbnailUrl": "CarmenRudoplh.jpg",
+    "keynote": false,
+  },
+  {
+    "id": 030,
+    "name": "Franziska",
+    "surname": "Stoll",
+    "company": "it-agile GmbH",
+    "title": "Moneypenny",
+    "bio": "Franziska Stoll, geboren im Jahr 1983 und aufgewachsen in Flensburg, zog es nach ihrem
+    Studium der Ethnologie, Politikwissenschaft und des Öffentlichen Rechts in Kiel weiter
+    Richtung Süden nach Hamburg. Nach 6 Jahren klassischem Projektmanagement in der
+    Werbebranche und einem Abstecher in den Vertrieb im Rohstoffhandel ist sie seit
+    September 2018 Teil des selbstorganisierten Moneypenny-Teams bei it-agile und lernt
+    seitdem die agile Welt in all ihren Facetten kennen und lieben. Ihr Interessensschwerpunkt
+    liegt bei der Anwendung der Kanban Prinzipien im Verwaltungs- und Eventorganisations-
+    Bereich.",
+    "thumbnailUrl": "FranziskaStoll.jpg",
+    "keynote": false,
   }
 ]
