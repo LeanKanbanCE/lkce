@@ -154,7 +154,12 @@
     "ribbon": [{
       "abbr": "AKT",
       "title": "Accredited Kanban Trainer"
-    }]
+    },
+    {
+      "abbr": "GER",
+      "title": "German talk"
+    }
+  ]
   },
   {
     "id": 004,
@@ -329,6 +334,11 @@
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/sven-ditz-99847a9/"
       }
+    ],
+    "ribbon": [{
+        "abbr": "GER",
+        "title": "German talk"
+      }
     ]
   },
   {
@@ -347,6 +357,11 @@
       {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/ginasteiner/"
+      }
+    ],
+    "ribbon": [{
+        "abbr": "GER",
+        "title": "German talk"
       }
     ]
   },
@@ -569,6 +584,11 @@
         "name": "twitter",
         "link": "https://twitter.com/SchimeraD"
       }
+    ],
+    "ribbon": [{
+        "abbr": "GER",
+        "title": "German talk"
+      }
     ]
   },
   {
@@ -586,6 +606,11 @@
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/bea-knippenberg/"
+      }
+    ],
+    "ribbon": [{
+        "abbr": "GER",
+        "title": "German talk"
       }
     ]
   },
@@ -749,6 +774,11 @@
     begeistert sich hier vor allem für die Gestaltung und den Entwurf von Kanban-Boards.",
     "thumbnailUrl": "CarmenRudolph.jpg",
     "keynote": false,
+    "ribbon": [{
+       "abbr": "GER",
+       "title": "German talk"
+     }
+    ]
   },
   {
     "id": 030,
@@ -766,5 +796,10 @@
     Bereich.",
     "thumbnailUrl": "FranziskaStoll.jpg",
     "keynote": false,
+    "ribbon": [{
+       "abbr": "GER",
+       "title": "German talk"
+     }
+    ]
   }
 ]
