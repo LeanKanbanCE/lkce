@@ -360,6 +360,10 @@
       }
     ],
     "ribbon": [{
+        "abbr": "AKT",
+        "title": "Accredited Kanban Trainer"
+      },
+      {
         "abbr": "GER",
         "title": "German talk"
       }
