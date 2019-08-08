@@ -32,8 +32,8 @@
   },
   {
     "id": 312,
-    "title": "Lean Lunch Break",
-    "description": "Share and learn while having lunch or just have lunch",
+    "title": "Lunch Break",
+    "description": "Let's digest the food for thoughts by having real food.",
     "place": "Upstream",
     "service": true
   },
@@ -45,9 +45,9 @@
   },
   {
     "id": 314,
-    "title": "Social Event @ HardRock Café",
+    "title": "Social Event @ Speicherstadts",
     "description": "Let's rock'n roll and have a great time!",
-    "place": "HardRock Café Hamburg",
+    "place": "Ehemaliges Hauptzollamt ‒ Zollhalle",
     "service": true
   },
   {
@@ -62,11 +62,11 @@
     "description": "",
     "subtype": "keynote",
     "speakers": [
-
+      110
     ],
     "language": "en",
-    "complexity": "beginner",
-    "slides": null,
+    "complexity": "",
+    "slides": "",
     "video": null
   },
   {
@@ -75,11 +75,11 @@
     "description": "",
     "subtype": "keynote",
     "speakers": [
-
+      120
     ],
     "language": "en",
-    "complexity": "beginner",
-    "slides": null,
+    "complexity": "",
+    "slides": "",
     "video": null
   },
   {
@@ -88,16 +88,16 @@
     "description": "",
     "subtype": "keynote",
     "speakers": [
-
+      130
     ],
     "language": "en",
-    "complexity": "intermediate",
-    "slides": "lkce18-thomas-van-der-burg-visual-workmanagement-at-sanofi-a-journey-towards-organizational-effectiveness",
+    "complexity": "",
+    "slides": "",
     "video": null
   },
   {
     "id": 003,
-    "title": "Mining for GOLD-nuggets – Effective MVP-Feature-Picking by DISCOVERY Kanban in Omni-channel Sales-Strategy-implementation – a Case-study of a Billion-EUR Wholesale & B2B-Retailer Business",
+    "title": "Mining for GOLD-nuggets – a case-study of a Billion-EUR Wholesale & B2B-Retailer Business",
     "description": "Flexible Prozess-Abbildung und schlankes Design verhelfen Kanban zu wachsender Beliebtheit jenseits reiner IT-Applikation. Dieser Erfahrungsbericht befaßt sich mit DISCOVERY-Kanban im Online-Marketing / Produkt-Mgmt (SME Hidden-Champion, Groß- & Einzelhandel für Werkzeug, Werkstatt-Ausstattung / Produktionslinien-Bestückung) und datiert auf 2015ff.
     ",
     "subtype": "talk",
@@ -464,6 +464,32 @@ This is an experience report of our continuous transformation.
     ],
     "language": "de",
     "complexity": intermediate,
+    "slides": null,
+    "video": null
+  },
+  {
+    "id": 030,
+    "title": "tbd",
+    "description": "tbd",
+    "subtype": "talk",
+    "speakers": [
+      004
+    ],
+    "language": "de",
+    "complexity": ,
+    "slides": null,
+    "video": null
+  },
+  {
+    "id": 031,
+    "title": "tbd",
+    "description": "tbd",
+    "subtype": "talk",
+    "speakers": [
+      001
+    ],
+    "language": "de",
+    "complexity": ,
     "slides": null,
     "video": null
   }
