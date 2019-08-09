@@ -98,7 +98,8 @@
   {
     "id": 003,
     "title": "Mining for GOLD-nuggets – a case-study of a Billion-EUR Wholesale & B2B-Retailer Business",
-    "description": "Flexible Prozess-Abbildung und schlankes Design verhelfen Kanban zu wachsender Beliebtheit jenseits reiner IT-Applikation. Dieser Erfahrungsbericht befaßt sich mit DISCOVERY-Kanban im Online-Marketing / Produkt-Mgmt (SME Hidden-Champion, Groß- & Einzelhandel für Werkzeug, Werkstatt-Ausstattung / Produktionslinien-Bestückung) und datiert auf 2015ff.
+    "description": "Flexible Prozess-Abbildung und schlankes Design verhelfen Kanban zu wachsender Beliebtheit jenseits reiner IT-Applikation. Dieser Erfahrungsbericht befasst sich mit DISCOVERY-Kanban im Online-Marketing und Produkt-Management (SME Hidden-Champion, Groß- & Einzelhandel für Werkzeug, Werkstatt-Ausstattung / Produktionslinien-Bestückung) und datiert auf 2015ff.
+    Aufsetz-Punkt war eine WebShop-Einführung (kundenseitige IT-Abt. vollzog SW-Entwicklung auf Basis Standard-SW-Baukasten-System); das IT-Projekt litt unter Schieflage (offiz. GoLive  vollzogen, der eShop generierte aber kaum Umsatz und sah wenig Traffic). Ursache war u. a. eine mangelhafte Such-Funktion (lt. Quick-Assessment von UX-Experten). Nach techn. BugFix und Umstellung der IT-SW-Entwicklung von 'Cargo-Cult Fake-Agile' auf AgileManifesto-konformeres Arbeiten, war klar, dass weitere Engpässe im Online-Marketing (ProductOwner des eShops) in Anforderungs-Selektion und -Vorbereitung bestanden. DISCOVERY-Kanban behob die Engpässe erfolgreich.
     ",
     "subtype": "talk",
     "speakers": [
@@ -187,8 +188,8 @@
   {
     "id": 008,
     "title": "Business Agility through the Eyes of a Metalhead CEO",
-    "description": "The universe was born out of a big bang. Adopting agile at scale produces comparable amounts of energy, especially if you do it the “safe” way. Because energy does not simply disappear, it will make its way across your organization, crushing everyone that dares to stand on its way.
-    There is at least one approach to scaling Agile that doesn’ t include creating a whole universe of problems to deal with– the Kanban way.Join this session to learn more about Kanban at scale and the benefits it brings when embraced on a global level.
+    "description": "The universe was born out of a big bang. Adopting Agile at scale produces comparable amounts of energy, especially if you do it the “safe” way. Because energy does not simply disappear, it will make its way across your organization, crushing everyone that dares to stand on its way.</br></br>
+    There is at least one approach to scaling Agile that doesn’t include creating a whole universe of problems to deal with – the Kanban way. Join this session to learn more about Kanban at scale and the benefits it brings when embraced on a global level.
     ",
     "subtype": "talk",
     "speakers": [
@@ -215,7 +216,7 @@
   {
     "id": 005,
     "title": "Kanban auf leisen Sohlen",
-    "description": "Das zweite Veränderungsprinzip von Kanban ('Vereinbare evolutionäre Prozessverbesserungen') mag den Eindruck erwecken, dass ein Mandat für eine Kanban-Initiative - sobald einmal vereinbart - verlässlich und stabil ist. Dieser Vortrag beleuchtet Situationen, in denen diese Annahme nicht gilt. Solche Situationen können unter anderem dann entstehen, wenn ein Mandat unwissentlich auf einer Illusion von Verständnis (etwa durch gemeinsam verwendete und verschieden interpretierte Vokabeln) beruht hat und diese Illusion im Laufe der Zeit offensichtlich wird. Der Vortrag nennt mögliche Konsequenzen und betont die Notwendigkeit einer ständigen und gleichzeitig ethisch begründeten Suche nach einem immer wieder neuen Mandat für Kanban. Er beschreibt den Umgang mit solchen Situationen aus der Erfahrungswelt des Vortragenden; eine Vielzahl von Anekdoten illustrieren dabei mögliche Symptome eines fehlenden Mandats, ethische Spannungsfelder und auf leisen Sohlen wiederentdeckte Mandate in der Praxis.",
+    "description": "Das zweite Veränderungsprinzip von Kanban ('Vereinbare evolutionäre Prozessverbesserungen') mag den Eindruck erwecken, dass ein Mandat für eine Kanban-Initiative - sobald einmal vereinbart - verlässlich und stabil ist. Dieser Vortrag beleuchtet Situationen, in denen diese Annahme nicht gilt. Solche Situationen können unter anderem dann entstehen, wenn ein Mandat unwissentlich auf einer Illusion von Verständnis (etwa durch gemeinsam verwendete und verschieden interpretierte Vokabeln) beruht hat und diese Illusion im Laufe der Zeit offensichtlich wird. Der Vortrag nennt mögliche Konsequenzen und betont die Notwendigkeit einer ständigen und gleichzeitig ethisch begründeten Suche nach einem immer wieder neuen Mandat für Kanban. Er beschreibt den Umgang mit solchen Situationen aus der Erfahrungswelt des Vortragenden; eine Vielzahl von Anekdoten illustriert dabei mögliche Symptome eines fehlenden Mandats, ethische Spannungsfelder und auf leisen Sohlen wiederentdeckte Mandate in der Praxis.",
     "subtype": "talk",
     "speakers": [
       005
@@ -228,11 +229,11 @@
   {
     "id": 010,
     "title": "RE.A.L. customer agility",
-    "description": "After many years of experience with classic waterfall projects at sitegeist, in 2013 Gina and Sven started to completely restructure the whole agency.</br>
-    Starting with Kanban, this quickly developed to a separate agency model: a version of #NoEstimates called #RawEstimates combined with agile and lean methods. A new child was born named RE.A.L.</br>
-    It mainly includes 4 key facts: The closely defined goals and three numbers (Number of modules, price and duration). But the radically new concept is, that there is no contract concluded.</br>
-    What sounds scary not only comes with a lot of flexibility but also with more customer satisfaction, cheaper and better projects, no offers and no specifications or duty staplers.</br>
-    But surely the customer is one of the most important parts in this equation: Real agility demands an agile customer!</br>
+    "description": "After many years of experience with classic waterfall projects at sitegeist, in 2013 Gina and Sven started to completely restructure the whole agency.
+    Starting with Kanban, this quickly developed to a separate agency model: a version of #NoEstimates called #RawEstimates combined with agile and lean methods. A new child was born named RE.A.L.
+    It mainly includes 4 key facts: The closely defined goals and three numbers (Number of modules, price and duration). But the radically new concept is, that there is no contract concluded.
+    What sounds scary, not only comes with a lot of flexibility but also with more customer satisfaction, cheaper and better projects, no offers and no specifications or duty staplers.
+    But surely the customer is one of the most important parts in this equation: Real agility demands an agile customer!
     Gina and Sven will explain how they managed to expand their agile agency world to incorporate the customer truly.
     ",
     "subtype": "talk",
@@ -260,7 +261,7 @@
   {
     "id": 013,
     "title": "Flight Level Boards - Experiences after being on the journey for a year",
-    "description": "Bosch Power Tools is undergoing its biggest transformation ever with the 'Agile Transformation @ PT' project. After having created around 50 cross-functional purpose teams we are looking into how to align them and also come to the next level - making PT a truly business agile organization",
+    "description": "Bosch Power Tools is undergoing its biggest transformation ever with the 'Agile Transformation @ PT' project. After having created around 50 cross-functional purpose teams we are looking into how to align them and also come to the next level - making PT a true business agile organization.",
     "subtype": "talk",
     "speakers": [
       013, 014
@@ -273,9 +274,10 @@
   {
     "id": 015,
     "title": "Siberian tale, part 2: how we implemented classes of services",
-    "description": "At Pushwoosh, we struggled to implement WIP limits for Upstream.</br>
-    Product managers generated tons of new (very important) features, queue before downstream development was full.</br>
-    Even though we had regular replenishment meetings where product managers and business picked things we should do next, it didn’t help much. Managers were constantly fighting with each other,  behind-the-scenes games and manipulations took place from time to time. Decisions were based on how convincing and impressive features’ presentation were or because someone worked out a deal with decision makers . At the same time, our CEO was often dissatisfied with the fact that improvements/features he requested were not implemented. On top of that, our development team had a conflict with product team since PMs blamed developers they cannot fulfil all their requests, while devs complained that product team tries to push their features to development no matter what, bypassing all agreements and processes.
+    "description": "At Pushwoosh, we struggled to implement WIP limits for Upstream.
+    Product managers generated tons of new (very important) features, queue before downstream development was full.
+    Even though we had regular replenishment meetings where product managers and business picked things we should do next, it didn’t help much. Managers were constantly fighting with each other,  behind-the-scenes games and manipulations took place from time to time. Decisions were based on how convincing and impressive features’ presentation were or because someone worked out a deal with decision makers. At the same time, our CEO was often dissatisfied with the fact that improvements/features he requested were not implemented.
+    On top of that, our development team had a conflict with the product team since PMs blamed developers that they cannot fulfil all their requests, while developers complained that the product team tries to push their features to development, no matter what, bypassing all agreements and processes.
     ",
     "subtype": "talk",
     "speakers": [
@@ -320,7 +322,7 @@
   {
     "id": 018,
     "title": "No (Lab) Jacket Required: Designing Experiments for Learning",
-    "description": "One of the Kanban Method’s general practices is to “Improve collaboratively, evolve experimentally.” In order to do that, we need to know how to conduct experiments properly. This session helps participants understand the importance of using experiments to help teams and organizations learn and improve, while giving hands-on practice in designing experiments to yield measurable evidence for that learning. We’ll even play a couple of inductive-logic games to get us in the mindset of how to write tests to validate -- and invalidate -- our hypotheses in order to acquire knowledge in the pursuit of continuous and incremental improvement.",
+    "description": "One of the Kanban method’s general practices is to 'Improve collaboratively, evolve experimentally.' In order to do that, we need to know how to conduct experiments properly. This session helps participants understand the importance of using experiments to help teams and organizations learn and improve, while giving hands-on practice in designing experiments to yield measurable evidence for that learning. We’ll even play a couple of inductive-logic games to get us in the mindset of how to write tests to validate - and invalidate - our hypotheses in order to acquire knowledge in the pursuit of continuous and incremental improvement.",
     "subtype": "talk",
     "speakers": [
       018
@@ -376,12 +378,9 @@ This is an experience report of our continuous transformation.
   {
     "id": 024,
     "title": "The House of Business Agility",
-    "description": "Piloting Scrum teams in Enterprise usually goes pretty well. You isolate your best people in dedicated teams focusing on the same new product without any interruption. You have demo sessions in the spotlight of top management every two weeks. How can it possibly go wrong?</br>
-    The problem begins when the management asks you to scale your success through the rest of the company.You then learn it the hard way that Scrum of Scrum is not enough,
-    Spotify model is chaotic, SAFe is too much and LeSS is too ideal. You were told Agile is a mindset and you need to create your own blueprint but you are lost in the ocean of scaled agile frameworks. </br>
-    This talk tells our story of how we put together a set of fundamental tools in The House of Enterprise Agility to helps our enterprise client improve their business agility.Many of them have very little to do with information technology. If you are looking for
-    inspiration to create your own enterprise agile blueprint,
-    this talk might interest you.
+    "description": "Piloting Scrum teams in enterprise usually goes pretty well. You isolate your best people in dedicated teams focusing on the same new product without any interruption. You have demo sessions in the spotlight of top management every two weeks. How can it possibly go wrong?</br></br>
+    The problem begins when the management asks you to scale your success through the rest of the company. You then learn it the hard way that Scrum of Scrum is not enough, Spotify model is chaotic, SAFe is too much and LeSS is too ideal. You were told Agile is a mindset and you need to create your own blueprint but you are lost in the ocean of scaled agile frameworks.</br></br>
+    This talk tells our story of how we put together a set of fundamental tools in The House of Enterprise Agility to help our enterprise client improve their business agility. Many of them have very little to do with information technology. If you are looking for inspiration to create your own enterprise agile blueprint, this talk might interest you.
     ",
     "subtype": "talk",
     "speakers": [
@@ -425,8 +424,7 @@ This is an experience report of our continuous transformation.
   {
     "id": 027,
     "title": "DYNAMIC - How to get Fit for Purpose",
-    "description": "The Fit for Purpose Framework already gained momentum describing the criteria to develop the products and services, customers want and are willing to pay for. But how to start implementing the framework at your company? DYNAMIC is derived from STATIK the steps, starting with Kanban and will provide the steps you can use to implement the F4P framework on your own.
-    ",
+    "description": "The Fit for Purpose Framework already gained momentum describing the criteria to develop the products and services that customers want and are willing to pay for. But how to start implementing the framework at your company? DYNAMIC is derived from STATIK and will provide the steps you can use to implement the F4P framework on your own.",
     "subtype": "talk",
     "speakers": [
       027, 028
