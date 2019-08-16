@@ -7,7 +7,13 @@
            "description": "Leanovate",
            "link": "https://leanovate.de",
            "imageUrl": "leanovate.svg"
-        }
+        },
+        {
+           "name": "Kanbanize",
+           "description": "Kanbanize",
+           "link": "https://kanbanize.com",
+           "imageUrl": "kanbanize.svg"
+        }        
      ]
   },
   {
