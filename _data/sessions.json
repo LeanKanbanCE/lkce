@@ -4,491 +4,407 @@
     "place": "",
     "service": true,
     "description": ""
-  },
-  {
+},
+{
     "id": 308,
     "title": "Intro",
     "place": "Upstream",
     "description": "We are opening the conference with few announcements for orientation"
-  },
-  {
+},
+{
     "id": 309,
     "title": "Closing",
     "place": "Upstream",
     "description": "Everything comes to an end"
-  },
-  {
+},
+{
     "id": 310,
     "title": "Coffee Break",
     "place": "Hall",
     "service": true,
     "description": "The best time to talk with speakers and attendees"
-  },
-  {
+},
+{
     "id": 311,
     "title": "Room Change",
     "place": "",
     "service": false
-  },
-  {
+},
+{
     "id": 312,
     "title": "Lunch Break",
     "description": "Let's digest the food for thoughts by having real food.",
     "place": "Upstream",
     "service": true
-  },
-  {
+},
+{
     "id": 313,
     "title": "Shuttle to social-event",
     "place": "In front of the veneu",
     "service": false
-  },
-  {
+},
+{
     "id": 314,
     "title": "Social Event @ Speicherstadt",
     "description": "Enjoy a drink and interesting conversations with speakers and particiapants at the UNCESO world heritage site - the Ehemaliges Hauptzollamt!",
     "place": "Ehemaliges Hauptzollamt ‒ Zollhalle",
     "service": true
-  },
-  {
+},
+{
     "id": 315,
     "title": "Lean Coffee Break",
     "description": "Discuss, share and learn while having coffee",
     "service": true
-  },
-  {
+},
+{
     "id": 110,
     "title": "",
     "description": "",
     "subtype": "keynote",
     "speakers": [
-      110
+        110
     ],
     "language": "en",
     "complexity": "",
     "slides": "",
     "video": null
-  },
-  {
+},
+{
     "id": 120,
     "title": "",
     "description": "",
     "subtype": "keynote",
     "speakers": [
-      120
+        120
     ],
     "language": "en",
     "complexity": "",
     "slides": "",
     "video": null
-  },
-  {
+},
+{
     "id": 130,
     "title": "",
     "description": "",
     "subtype": "keynote",
     "speakers": [
-      130
+        130
     ],
     "language": "en",
     "complexity": "",
     "slides": "",
     "video": null
-  },
-  {
-    "id": 003,
+},
+{
+    "id": 3,
     "title": "Mining for GOLD-nuggets – a case-study of a Billion-EUR Wholesale & B2B-Retailer Business",
-    "description": "Flexible Prozess-Abbildung und schlankes Design verhelfen Kanban zu wachsender Beliebtheit jenseits reiner IT-Applikation. Dieser Erfahrungsbericht befasst sich mit DISCOVERY-Kanban im Online-Marketing und Produkt-Management (SME Hidden-Champion, Groß- & Einzelhandel für Werkzeug, Werkstatt-Ausstattung / Produktionslinien-Bestückung) und datiert auf 2015ff.
-    Aufsetz-Punkt war eine WebShop-Einführung (kundenseitige IT-Abt. vollzog SW-Entwicklung auf Basis Standard-SW-Baukasten-System); das IT-Projekt litt unter Schieflage (offiz. GoLive  vollzogen, der eShop generierte aber kaum Umsatz und sah wenig Traffic). Ursache war u. a. eine mangelhafte Such-Funktion (lt. Quick-Assessment von UX-Experten). Nach techn. BugFix und Umstellung der IT-SW-Entwicklung von 'Cargo-Cult Fake-Agile' auf AgileManifesto-konformeres Arbeiten, war klar, dass weitere Engpässe im Online-Marketing (ProductOwner des eShops) in Anforderungs-Selektion und -Vorbereitung bestanden. DISCOVERY-Kanban behob die Engpässe erfolgreich.
-    ",
+    "description": "Flexible Prozess-Abbildung und schlankes Design verhelfen Kanban zu wachsender Beliebtheit jenseits reiner IT-Applikation. Dieser Erfahrungsbericht befasst sich mit DISCOVERY-Kanban im Online-Marketing und Produkt-Management (SME Hidden-Champion, Groß- & Einzelhandel für Werkzeug, Werkstatt-Ausstattung / Produktionslinien-Bestückung) und datiert auf 2015ff. Aufsetz - Punkt war eine WebShop - Einführung(kundenseitige IT - Abt.vollzog SW - Entwicklung auf Basis Standard - SW - Baukasten - System);das IT - Projekt litt unter Schieflage(offiz.GoLive vollzogen, der eShop generierte aber kaum Umsatz und sah wenig Traffic).Ursache war u.a.eine mangelhafte Such - Funktion(lt.Quick - Assessment von UX - Experten).Nach techn.BugFix und Umstellung der IT - SW - Entwicklung von 'Cargo-Cult Fake-Agile' auf AgileManifesto - konformeres Arbeiten, war klar, dass weitere Engpässe im Online - Marketing(ProductOwner des eShops) in Anforderungs - Selektion und - Vorbereitung bestanden.DISCOVERY - Kanban behob die Engpässe erfolgreich.",
     "subtype": "talk",
     "speakers": [
-      003
+        3
     ],
     "language": "de",
     "complexity": "beginner",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 007,
+},
+{
+    "id": 7,
     "title": "Agile portfolio’s as market places",
-    "description": "Self-governance models (e.g. Holacracy, Teal organization, Sociocracy 3.0, …) as well as
-    models
-    for aligned autonomy(e.g. the 'Spotify model') have emerged to address the need
-    for strategic agility.Strategic agility,
-    however,
-    requires more than autonomy and alignment. Suppose that you are working in an organization where you have multiple initiatives going
-    on.On a regular basis work finishes and capacity becomes available(supply - side). At the
-    same time customers – external as well as internal– are requesting new work to be
-    performed(demand - side). Ideally,
-    you can perfectly match the needs of newly arrived work
-    with the capacity that has become available.In reality,
-    however,
-    work arrives when there is
-    no free capacity or where the right type of capacity is not free; or,
-    capacity becomes
-    available when there is no new demand or where the demand is not of the right type.
-    Whether we want it or not,
-    organizations are market places where an ever - varying,
-    ever -
-    evolving demand is confronted with an ever varying,
-    ever - evolving supply. These market
-    places are internal,
-    but reflect the external market place.As a reflection they can draw
-    inspiration from these external market places in the way they are operated.In this
-    presentation we will explore what it takes to run an 'agile portfolio' as an(internal) market
-    place inspired on financial markets.
-    We will start with laying out the structure of the portfolio as a market place(who trades what, and so on). In analogy to the concept of market liquidity that can be found in financial
-    markets,
-    we will explore organizational liquidity as a measure of how well supply and
-    demand can be matched.We will take into account all the realities of a varying demand and
-    a constrained supply and discuss why and how to improve liquidity.We will explore the
-    concept of disintermediation(cutting out the middlemen),
-    a hot trend in financial markets(e.g.with cryptocurrencies).Inspired by this,
-    we will end with giving a glimpse of a possible
-    future of internal market places that are regulated by a digicoin.The goal is to explore
-    disintermediated liquidity as a powerful new way of self - organizing.
-    ",
+    "description": "Self-governance models (e.g. Holacracy, Teal organization, Sociocracy 3.0, …) as well as models for aligned autonomy(e.g.the 'Spotify model') have emerged to address the need for strategic agility.Strategic agility, however, requires more than autonomy and alignment.Suppose that you are working in an organization where you have multiple initiatives going on.On a regular basis work finishes and capacity becomes available(supply - side).At the same time customers– external as well as internal– are requesting new work to be performed(demand - side).Ideally, you can perfectly match the needs of newly arrived work with the capacity that has become available.In reality, however, work arrives when there is no free capacity or where the right type of capacity is not free;or, capacity becomes available when there is no new demand or where the demand is not of the right type. Whether we want it or not, organizations are market places where an ever - varying, ever - evolving demand is confronted with an ever varying, ever - evolving supply.These market places are internal, but reflect the external market place.As a reflection they can draw inspiration from these external market places in the way they are operated.In this presentation we will explore what it takes to run an 'agile portfolio' as an(internal) market place inspired on financial markets. We will start with laying out the structure of the portfolio as a market place(who trades what, and so on).In analogy to the concept of market liquidity that can be found in financial markets, we will explore organizational liquidity as a measure of how well supply and demand can be matched.We will take into account all the realities of a varying demand and a constrained supply and discuss why and how to improve liquidity.We will explore the concept of disintermediation(cutting out the middlemen), a hot trend in financial markets(e.g.with cryptocurrencies).Inspired by this, we will end with giving a glimpse of a possible future of internal market places that are regulated by a digicoin.The goal is to explore disintermediated liquidity as a powerful new way of self - organizing. ",
     "subtype": "talk",
     "speakers": [
-      007
+        7
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 006,
+},
+{
+    "id": 6,
     "title": "Risky Business: Real Options for Business Agility",
     "description": "Enterprise projects are known to have challenges with uncertainty, risk, forecasting and commitment – and the most valuable projects often carry the most risk. Other industries also encounter risk and generate value by understanding and managing that risk effectively. Todd Little explores techniques used in a number of risky businesses – product development, oil and gas exploration, investment banking, medicine, weather forecasting, and gambling – and shares what those industries have done to manage uncertainty.",
     "subtype": "talk",
     "speakers": [
-      006
+        6
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 002,
+},
+{
+    "id": 2,
     "title": "Die sechs Kanban-Praktiken als Hilfsmittel für (Selbst-)Führung",
     "description": "Um die eigenen Leadership-Fähigkeiten auszubauen und selbst Führung für sich und andere zu übernehmen, gibt es einen Dschungel an Optionen. Das macht es nicht leichter, seinen eigenen Weg zu Wirksamkeit zu finden. Da stellt sich die Frage, auf welche konkreten Praktiken man sich dabei konzentrieren kann. So entstand die Idee, die sechs Kanban-Praktiken, die meistens auf Teams, per Portfolio-Kanban oder bezogen auf die ganze Organsiation angewendet werden, aus dem Blickwinkel der Selbstführung zu betrachten. Dieser Vortrag vermittelt Möglichkeiten, wie sich die sechs Kanban-Praktiken als Inspiration für wirksame (Selbst-)Führung nutzen lassen.",
     "subtype": "talk",
     "speakers": [
-      002
+        2
     ],
     "language": "de",
     "complexity": "beginner",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 008,
+},
+{
+    "id": 8,
     "title": "Business Agility through the Eyes of a Metalhead CEO",
-    "description": "The universe was born out of a big bang. Adopting Agile at scale produces comparable amounts of energy, especially if you do it the “safe” way. Because energy does not simply disappear, it will make its way across your organization, crushing everyone that dares to stand on its way.</br></br>
-    There is at least one approach to scaling Agile that doesn’t include creating a whole universe of problems to deal with – the Kanban way. Join this session to learn more about Kanban at scale and the benefits it brings when embraced on a global level.
-    ",
+    "description": "The universe was born out of a big bang. Adopting Agile at scale produces comparable amounts of energy, especially if you do it the “safe” way. Because energy does not simply disappear, it will make its way across your organization, crushing everyone that dares to stand on its way.</br></br>There is at least one approach to scaling Agile that doesn’ t include creating a whole universe of problems to deal with– the Kanban way.Join this session to learn more about Kanban at scale and the benefits it brings when embraced on a global level.",
     "subtype": "talk",
     "speakers": [
-      008
+        8
     ],
     "language": "en",
     "complexity": "beginner",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 009,
+},
+{
+    "id": 9,
     "title": "Lean Portfolio Governance with Kanban in a Fintech Company",
     "description": "The goal of this presentation is to show how a Financial Technology Company in Brazil sustainable evolve from 20 teams running around 50 initiatives to 140 teams with more then 400 initiatives in 4 years, becoming NYSE's Biggest IPO Since Snap in 2018, following what we call an Agile Journey supported by Kanban. Some of the practices we use in our organization that will be presented here: Fit for Purpose clients segmentation, OKRs to provide alignment between strategic, tactical and operational levels, Lean Canvas and A3 for design, implementation and delivery process follow up and, finally, a Portfolio Kanban that started in a Power Point, with metrics done manually in Excel, based in the Spotify Product Development process and today is evolving based on Flight Levels, supported by tools as Swiftkanban and PowerBI and in the autonomy of people involved in this process, as Management and Product Owners.",
     "subtype": "talk",
     "speakers": [
-      009
+        9
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 005,
+},
+{
+    "id": 5,
     "title": "Kanban auf leisen Sohlen",
     "description": "Das zweite Veränderungsprinzip von Kanban ('Vereinbare evolutionäre Prozessverbesserungen') mag den Eindruck erwecken, dass ein Mandat für eine Kanban-Initiative - sobald einmal vereinbart - verlässlich und stabil ist. Dieser Vortrag beleuchtet Situationen, in denen diese Annahme nicht gilt. Solche Situationen können unter anderem dann entstehen, wenn ein Mandat unwissentlich auf einer Illusion von Verständnis (etwa durch gemeinsam verwendete und verschieden interpretierte Vokabeln) beruht hat und diese Illusion im Laufe der Zeit offensichtlich wird. Der Vortrag nennt mögliche Konsequenzen und betont die Notwendigkeit einer ständigen und gleichzeitig ethisch begründeten Suche nach einem immer wieder neuen Mandat für Kanban. Er beschreibt den Umgang mit solchen Situationen aus der Erfahrungswelt des Vortragenden; eine Vielzahl von Anekdoten illustriert dabei mögliche Symptome eines fehlenden Mandats, ethische Spannungsfelder und auf leisen Sohlen wiederentdeckte Mandate in der Praxis.",
     "subtype": "talk",
     "speakers": [
-      005
+        5
     ],
     "language": "de",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 010,
+},
+{
+    "id": 10,
     "title": "RE.A.L. customer agility",
-    "description": "After many years of experience with classic waterfall projects at sitegeist, in 2013 Gina and Sven started to completely restructure the whole agency.
-    Starting with Kanban, this quickly developed to a separate agency model: a version of #NoEstimates called #RawEstimates combined with agile and lean methods. A new child was born named RE.A.L.
-    It mainly includes 4 key facts: The closely defined goals and three numbers (Number of modules, price and duration). But the radically new concept is, that there is no contract concluded.
-    What sounds scary, not only comes with a lot of flexibility but also with more customer satisfaction, cheaper and better projects, no offers and no specifications or duty staplers.
-    But surely the customer is one of the most important parts in this equation: Real agility demands an agile customer!
-    Gina and Sven will explain how they managed to expand their agile agency world to incorporate the customer truly.
-    ",
+    "description": "After many years of experience with classic waterfall projects at sitegeist, in 2013 Gina and Sven started to completely restructure the whole agency.  Starting with Kanban, this quickly developed to a separate agency model: a version of #NoEstimates called# RawEstimates combined with agile and lean methods.A new child was born named RE.A.L. It mainly includes 4 key facts: The closely defined goals and three numbers(Number of modules, price and duration).But the radically new concept is, that there is no contract concluded. What sounds scary, not only comes with a lot of flexibility but also with more customer satisfaction, cheaper and better projects, no offers and no specifications or duty staplers. But surely the customer is one of the most important parts in this equation: Real agility demands an agile customer! Gina and Sven will explain how they managed to expand their agile agency world to incorporate the customer truly.",
     "subtype": "talk",
     "speakers": [
-      010, 011
+        10, 11
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 012,
+},
+{
+    "id": 12,
     "title": "Two Epics per Week!?",
     "description": "Starting in early 2019 our stakeholders told us that delivering two epics per week is way too low. We then did a deep analysis of our problems using systems mappings and we derived actions from it. In my talk we take a look at these systems mappings, the derived actions, and their effects by using real data of our three level Kanban system. On our way towards operational excellence it is surprising which elements have an impact on WIP, throughput, cycle time and how this affects operating costs and the value we deliver to our customers.",
     "subtype": "talk",
     "speakers": [
-      012
+        12
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 013,
+},
+{
+    "id": 13,
     "title": "Flight Level Boards - Experiences after being on the journey for a year",
     "description": "Bosch Power Tools is undergoing its biggest transformation ever with the 'Agile Transformation @ PT' project. After having created around 50 cross-functional purpose teams we are looking into how to align them and also come to the next level - making PT a true business agile organization.",
     "subtype": "talk",
     "speakers": [
-      013, 014
+        13, 14
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 015,
+},
+{
+    "id": 15,
     "title": "Siberian tale, part 2: how we implemented classes of services",
-    "description": "At Pushwoosh, we struggled to implement WIP limits for Upstream.
-    Product managers generated tons of new (very important) features, queue before downstream development was full.
-    Even though we had regular replenishment meetings where product managers and business picked things we should do next, it didn’t help much. Managers were constantly fighting with each other,  behind-the-scenes games and manipulations took place from time to time. Decisions were based on how convincing and impressive features’ presentation were or because someone worked out a deal with decision makers. At the same time, our CEO was often dissatisfied with the fact that improvements/features he requested were not implemented.
-    On top of that, our development team had a conflict with the product team since PMs blamed developers that they cannot fulfil all their requests, while developers complained that the product team tries to push their features to development, no matter what, bypassing all agreements and processes.
-    ",
+    "description": "At Pushwoosh, we struggled to implement WIP limits for Upstream. Product managers generated tons of new(very important) features, queue before downstream development was full. Even though we had regular replenishment meetings where product managers and business picked things we should do next, it didn’ t help much.Managers were constantly fighting with each other, behind - the - scenes games and manipulations took place from time to time.Decisions were based on how convincing and impressive features’ presentation were or because someone worked out a deal with decision makers.At the same time, our CEO was often dissatisfied with the fact that improvements / features he requested were not implemented. On top of that, our development team had a conflict with the product team since PMs blamed developers that they cannot fulfil all their requests, while developers complained that the product team tries to push their features to development, no matter what, bypassing all agreements and processes. ",
     "subtype": "talk",
     "speakers": [
-      015
+        15
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 016,
+},
+{
+    "id": 16,
     "title": "Agile Motivation – the Human Side of Kanban",
-    "description": "Some companies motivate people with perks, ultimately draining motivation. Here’s a scientific explanation & some hands-on options for enabling true motivation.</br>
-    This type is called autonomous motivation (AM). It’s the inner engine that enables employees to produce exceptional results, act as intrapreneurs & handle stiff challenges with grace. Research shows, AM shouldn’t be confused with intrinsic motivation or fun.</br>
-    High AM results in a reduced operational risk, as it lowers the probability of work-related accidents & decreases the error rate. An increased AM will lead to healthier employees & improve outcome quality. Yet, the most important effect: it enables people to think & work productively in complex contexts.</br>
-    I’ll speak about the psychology of motivation & its 3 enablers. True agility, as it is embodied in the agile principles, spurs these 3 enablers. When they’re mishandled, though, highly motivated teams can turn into passive groups of people who don’t mind producing waste.
-    ",
+    "description": "Some companies motivate people with perks, ultimately draining motivation. Here’s a scientific explanation & some hands-on options for enabling true motivation.</br> This type is called autonomous motivation(AM).It’ s the inner engine that enables employees to produce exceptional results, act as intrapreneurs & handle stiff challenges with grace.Research shows, AM shouldn’ t be confused with intrinsic motivation or fun. < /br> High AM results in a reduced operational risk, as it lowers the probability of work - related accidents & decreases the error rate.An increased AM will lead to healthier employees & improve outcome quality.Yet, the most important effect: it enables people to think & work productively in complex contexts. < /br> I’ ll speak about the psychology of motivation & its 3 enablers.True agility, as it is embodied in the agile principles, spurs these 3 enablers.When they’ re mishandled, though, highly motivated teams can turn into passive groups of people who don’ t mind producing waste. ",
     "subtype": "talk",
     "speakers": [
-      016
+        16
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 017,
+},
+{
+    "id": 17,
     "title": "Lead Time: Let's Do Something About It",
-    "description": "Kanban systems in companies in various industries from around the world have produced plenty of evidence in the last decade: lead time (time to market, time in process, time from “we promise” to “here it is”, whatchamacallit) is one of the most difficult things to control. “Lead time control chart” is an oxymoron for many. Yet time is also a key fitness criterion for customers and a key measure of business agility. So, it’s important! The Kanban way is, then, to do something about it.</br>
-    We’ve learned lots in recent years about the nature of time it takes to solve a problem and deliver the solution to your customer. The nature of this problem is risk. So, we’ll unhide the risks of delay, such as dependencies, blockage, queuing, rework and pre-emption. And then we’ll reduce, eliminate and mitigate these risks. We’ll prioritize these improvement actions. We’ll balance raw data, knowledge discovery and simulation approaches to improve agility and fitness for purpose.",
+    "description": "Kanban systems in companies in various industries from around the world have produced plenty of evidence in the last decade: lead time (time to market, time in process, time from “we promise” to “here it is”, whatchamacallit) is one of the most difficult things to control. “Lead time control chart” is an oxymoron for many. Yet time is also a key fitness criterion for customers and a key measure of business agility. So, it’s important! The Kanban way is, then, to do something about it.</br> We’ ve learned lots in recent years about the nature of time it takes to solve a problem and deliver the solution to your customer.The nature of this problem is risk.So, we’ ll unhide the risks of delay, such as dependencies, blockage, queuing, rework and pre - emption.And then we’ ll reduce, eliminate and mitigate these risks.We’ ll prioritize these improvement actions.We’ ll balance raw data, knowledge discovery and simulation approaches to improve agility and fitness for purpose. ",
     "subtype": "talk",
     "speakers": [
-      017
+        17
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 018,
+},
+{
+    "id": 18,
     "title": "No (Lab) Jacket Required: Designing Experiments for Learning",
     "description": "One of the Kanban method’s general practices is to 'Improve collaboratively, evolve experimentally.' In order to do that, we need to know how to conduct experiments properly. This session helps participants understand the importance of using experiments to help teams and organizations learn and improve, while giving hands-on practice in designing experiments to yield measurable evidence for that learning. We’ll even play a couple of inductive-logic games to get us in the mindset of how to write tests to validate - and invalidate - our hypotheses in order to acquire knowledge in the pursuit of continuous and incremental improvement.",
     "subtype": "talk",
     "speakers": [
-      018
+        18
     ],
     "language": "en",
     "complexity": null,
     "slides": null,
     "video": null
-  },
-  {
-    "id": 019,
+},
+{
+    "id": 19,
     "title": "Agility across time zones",
-    "description": "Have you ever tried a daily stand up when your team is distributed across 5 countries and 4 different time zones? What about keeping a physical Kanban board up to date?</br>
-
-Can you imagine an organization with dozens of teams like that? All working on building the same Product?</br>
-
-How do you make work visible, consistent and aligned with business goals when team members are distributed across multiple countries and time zones?</br>
-
-I will share with you this journey from uncertainty to consistency. And I will tell you the challenges we faced, what worked for us, and what I learnt.
-
-    ",
-    "subtype" : "talk",
-    "speakers" : [
-      019
+    "description": "Have you ever tried a daily stand up when your team is distributed across 5 countries and 4 different time zones? What about keeping a physical Kanban board up to date?</br> Can you imagine an organization with dozens of teams like that ? All working on building the same Product ? < /br> How do you make work visible, consistent and aligned with business goals when team members are distributed across multiple countries and time zones ? < /br> I will share with you this journey from uncertainty to consistency.And I will tell you the challenges we faced, what worked for us, and what I learnt. ",
+    "subtype": "talk",
+    "speakers": [
+        19
     ],
-    "language" : "en",
+    "language": "en",
     "complexity": null,
     "slides": null,
     "video": null
-  },
-  {
-    "id": 020,
+},
+{
+    "id": 20,
     "title": "Continuous Transformation in a Large Complex Organisation",
-    "description": "In 2017 we set out to become 'the best and coolest DevOps team in Switzerland'. Our ambition for the next three year was, and still is, to:</br></br>
-
-* reduce the number of critical incidents by 50% every year</br>
-* reduce the cost for centralised quality assurance by 60%</br>
-* reduce the amount of central leadership positions to 5%</br></br>
-
-'We' means a team of approx. 1'400 people working in software development in a large complex organisation, a leading telecommunications provider in Switzerland.</br></br>
-
-This is an experience report of our continuous transformation.
-    ",
+    "description": "In 2017 we set out to become 'the best and coolest DevOps team in Switzerland'. Our ambition for the next three year was, and still is, to:</br></br>* reduce the number of critical incidents by 50 % every year</br>* reduce the cost for centralised quality assurance by 60 %</br>* reduce the amount of central leadership positions to 5 %</br></br>'We' means a team of approx 1.400 people working in software development in a large complex organisation, a leading telecommunications provider in Switzerland.</br></br>This is an experience report of our continuous transformation.",
     "subtype": "talk",
     "speakers": [
-      020
+        20
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 024,
+},
+{
+    "id": 24,
     "title": "The House of Enterprise Agility",
-    "description": "Piloting Scrum teams in enterprise usually goes pretty well. You isolate your best people in dedicated teams focusing on the same new product without any interruption. You have demo sessions in the spotlight of top management every two weeks. How can it possibly go wrong?</br></br>
-    The problem begins when the management asks you to scale your success through the rest of the company. You then learn it the hard way that Scrum of Scrum is not enough, Spotify model is chaotic, SAFe is too much and LeSS is too ideal. You were told Agile is a mindset and you need to create your own blueprint but you are lost in the ocean of scaled agile frameworks.</br></br>
-    This talk tells our story of how we put together a set of fundamental tools in The House of Enterprise Agility to help our enterprise client improve their business agility. Many of them have very little to do with information technology. If you are looking for inspiration to create your own enterprise agile blueprint, this talk might interest you.
-    ",
+    "description": "Piloting Scrum teams in enterprise usually goes pretty well. You isolate your best people in dedicated teams focusing on the same new product without any interruption. You have demo sessions in the spotlight of top management every two weeks. How can it possibly go wrong?</br></br> The problem begins when the management asks you to scale your success through the rest of the company.You then learn it the hard way that Scrum of Scrum is not enough, Spotify model is chaotic, SAFe is too much and LeSS is too ideal.You were told Agile is a mindset and you need to create your own blueprint but you are lost in the ocean of scaled agile frameworks. < /br></br > This talk tells our story of how we put together a set of fundamental tools in The House of Enterprise Agility to help our enterprise client improve their business agility.Many of them have very little to do with information technology.If you are looking for inspiration to create your own enterprise agile blueprint, this talk might interest you.",
     "subtype": "talk",
     "speakers": [
-      024, 025
+        24, 25
     ],
     "language": "en",
     "complexity": null,
     "slides": null,
     "video": null
-  },
-  {
-    "id": 021,
+},
+{
+    "id": 21,
     "title": "1+1=1 Eine Kanban Success Story",
     "description": "Das Wertschriftenabwicklungsvolumen der wichtigsten Kantonalbank in der Schweiz hat sich in den letzten drei Jahren beinahe verdoppelt. Im Backoffice hatte man sich zum Ziel gesetzt, diesen Anstieg ohne zusätzliche Ressourcen zu meistern. Dieses ambitionierte Ziel war der Startschuss einer Reise auf dem Pfad der kontinuierlichen Verbesserung. Innovationen zielgerichteter und schneller umsetzen zu können war die Motivation, die Grundprinzipien von Kanban waren der Kompass. Mit einem Rucksack voller Leidenschaft wurde gestartet zu neuen Denkweisen, zu eigenverantwortlichem Handeln und inspirierender Zusammenarbeit. Mit Erfolg!  ",
     "subtype": "talk",
     "speakers": [
-      021
+        21
     ],
     "language": "de",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 023,
+},
+{
+    "id": 23,
     "title": "How To & How not to catalyze Improvement",
-    "description": "Building a kanban system can be quick and easy. Figuring out how to implement change across a system with more than a single operative team can be challenging. The effectiveness of a multi-team system is impacted by the quality of interactions between the teams. How could we go about improving these interactions?</br>
-
-    Mike will share stories of working with humans to catalyse improvement in multi-team systems:</br>
-    – Success - Leveraging Flight levels to increase system awareness and autonomy while decreasing synchronisation costs</br>
-    – Failure - How to scare the Portfolio Police into “in-action” !",
+    "description": "Building a kanban system can be quick and easy. Figuring out how to implement change across a system with more than a single operative team can be challenging. The effectiveness of a multi-team system is impacted by the quality of interactions between the teams. How could we go about improving these interactions?</br> Mike will share stories of working with humans to catalyse improvement in multi - team systems: < /br>– Success - Leveraging Flight levels to increase system awareness and autonomy while decreasing synchronisation costs < /br>– Failure - How to scare the Portfolio Police into“ in -action”!",
     "subtype": "talk",
     "speakers": [
-      023
+        23
     ],
     "language": "en",
     "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 027,
+},
+{
+    "id": 27,
     "title": "DYNAMIC - How to get Fit for Purpose",
     "description": "The Fit for Purpose Framework already gained momentum describing the criteria to develop the products and services that customers want and are willing to pay for. But how to start implementing the framework at your company? DYNAMIC is derived from STATIK and will provide the steps you can use to implement the F4P framework on your own.",
     "subtype": "talk",
     "speakers": [
-      027, 028
+        27, 28
     ],
     "language": "en",
-    "complexity": intermediate,
+    "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 022,
+},
+{
+    "id": 22,
     "title": "Portfolio-Planung von Top-Down zu Bottom-Up",
-    "description": "Wer hat dies nicht auch schon erlebt – jedes Jahr findet sie statt – die Jahresplanung der Unternehmung. Ziele, die von „Oben“ vorgegeben werden, von der „Mitte“ mit konkreten Maßnahmen unterfüttert werden, welche wiederum zu einem Jahres-Portfolio führen, welches „Unten“ nur noch umsetzen muss.</br></br>
-
-    Und dabei ist man doch soooo agil!</br></br>
-
-    Nun ja, der Weg ist nie leicht. REWE Digital hat im letzten Jahr ein paar Veränderungen vorgenommen und organisiert inzwischen zum Beispiel ihr Portfolio mit Kanban. In unserem Erfahrungsbericht wollen wir unseren Weg von der Top-Down Jahres- & Portfolioplanung hinzu einer Bottom-Up und schließlich rollierenden Portfolioplanung teilen.
-    ",
+    "description": "Wer hat dies nicht auch schon erlebt – jedes Jahr findet sie statt – die Jahresplanung der Unternehmung. Ziele, die von „Oben“ vorgegeben werden, von der „Mitte“ mit konkreten Maßnahmen unterfüttert werden, welche wiederum zu einem Jahres-Portfolio führen, welches „Unten“ nur noch umsetzen muss.</br></br> Und dabei ist man doch soooo agil! < /br></br > Nun ja, der Weg ist nie leicht.REWE Digital hat im letzten Jahr ein paar Veränderungen vorgenommen und organisiert inzwischen zum Beispiel ihr Portfolio mit Kanban.In unserem Erfahrungsbericht wollen wir unseren Weg von der Top - Down Jahres - & Portfolioplanung hinzu einer Bottom - Up und schließlich rollierenden Portfolioplanung teilen. ",
     "subtype": "talk",
     "speakers": [
-      022, 026
+        22, 26
     ],
     "language": "de",
-    "complexity": intermediate,
+    "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 029,
+},
+{
+    "id": 29,
     "title": "Meet Miss Moneypenny! Oder: 'Kannst du mal kurz Kanban'?",
     "description": "Rechnungswesen, Eventorganisation, Logistik- und Materialmanagement, Gästebetreuung, Officemanagement und die zuständige „Kannst-du-mal-kurz-Zentrale“ - Das Moneypenny Team bei it-agile ist vor allem eins: multidisziplinär. Die Vielschichtigkeit unserer Aufgaben zeigt sich auch auf unserem, über die Jahre stetig weiterentwickelten, Kanban-Board. Wir stellen vor, wie es uns gelingt, unterschiedlichste Aufgabenbereiche zu visualisieren, welche teameigenen Tools wir geschaffen haben und welchen Herausforderungen wir dabei bisher begegnet sind.",
     "subtype": "talk",
     "speakers": [
-      029, 030
+        29, 30
     ],
     "language": "de",
-    "complexity": intermediate,
+    "complexity": "intermediate",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 030,
+},
+{
+    "id": 30,
     "title": "tbd",
     "description": "tbd",
     "subtype": "talk",
     "speakers": [
-      004
+        4
     ],
     "language": "de",
-    "complexity": ,
+    "complexity": "",
     "slides": null,
     "video": null
-  },
-  {
-    "id": 031,
+},
+{
+    "id": 31,
     "title": "tbd",
     "description": "tbd",
     "subtype": "talk",
     "speakers": [
-      001
+        1
     ],
     "language": "de",
-    "complexity": ,
+    "complexity": "",
     "slides": null,
     "video": null
-  }
+}
 ]
