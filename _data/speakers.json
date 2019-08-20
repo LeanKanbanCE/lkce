@@ -10,18 +10,18 @@
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/yves-morieux-395969/"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "https://www.bcg.com/de-de/about/people/experts/yves-morieux.aspx"
-      }
+    }
     ],
     "ribbon": [{
-      "abbr": "Keynote",
-      "title": "Keynote"
+        "abbr": "Keynote",
+        "title": "Keynote"
     }]
-  },
-  {
+},
+{
     "id": 120,
     "name": "David J.",
     "surname": "Anderson",
@@ -33,49 +33,46 @@
     "social": [{
         "name": "twitter",
         "link": "http://twitter.com/lki_dja"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/agilemanagement/"
-      }
+    }
     ],
     "ribbon": [{
-      "abbr": "Keynote",
-      "title": "Keynote"
+        "abbr": "Keynote",
+        "title": "Keynote"
     }]
-  },
-  {
+},
+{
     "id": 130,
     "name": "George",
     "surname": "Parker",
     "company": "TheCreationGame®",
     "title": "Founder",
-    "bio": "George Parker is the founder of TheCreationGame®. He has dedicated his life to exploring the secrets of the creation process: how do we change from A to what we want our reality to be? He created art (illustrations, theatershows, stand-up illusion and mentalism acts, bestselling books). But he also life itself as a creation that we can shape in any way we like. So he made up wildly different careers (in health care, programmer, sales, trainer, consul-tant, illusionist/mentalist, author, speaker). And changed reality, including himself, into something these visions needed to make them come true. And he renewed himself through many phases in his relationship to keep it fresh.</br>
-    TheCreationGame® preaches what he has practiced over four decades. You will shift from a reactive to a creative state of mind. By applying the Three Laws of Perception by using the IDEAL cycle, you turn vague intentions into any reality you desire. As a result you will reinvent yourself, your business and relationships over and over again stay vital, relevant and inspired.</br>
-    George talks about this in his highly acclaimed LectureShows© (mixing content with great entertainment value; over 4000 shows in more than 25 countries) and teaches it in his workshops and books.
-    ",
+    "bio": "George Parker is the founder of TheCreationGame®. He has dedicated his life to exploring the secrets of the creation process: how do we change from A to what we want our reality to be? He created art (illustrations, theatershows, stand-up illusion and mentalism acts, bestselling books). But he also life itself as a creation that we can shape in any way we like. So he made up wildly different careers (in health care, programmer, sales, trainer, consul-tant, illusionist/mentalist, author, speaker). And changed reality, including himself, into something these visions needed to make them come true. And he renewed himself through many phases in his relationship to keep it fresh.</br>TheCreationGame® preaches what he has practiced over four decades.You will shift from a reactive to a creative state of mind.By applying the Three Laws of Perception by using the IDEAL cycle, you turn vague intentions into any reality you desire.As a result you will reinvent yourself, your business and relationships over and over again stay vital, relevant and inspired. < /br>George talks about this in his highly acclaimed LectureShows©(mixing content with great entertainment value; over 4000 shows in more than 25 countries) and teaches it in his workshops and books.",
     "thumbnailUrl": "GeorgeParker.jpg",
     "keynote": true,
     "social": [{
-      "name": "twitter",
-      "link": "https://twitter.com/George_Parker"
+        "name": "twitter",
+        "link": "https://twitter.com/George_Parker"
     },
-      {
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/parkergeorge/"
     },
-      {
+    {
         "name": "site",
         "link": "http://www.thecreationgame.com"
-      }
+    }
     ],
     "ribbon": [{
-      "abbr": "Keynote",
-      "title": "Keynote"
+        "abbr": "Keynote",
+        "title": "Keynote"
     }]
-  },
-  {
-    "id": 001,
+},
+{
+    "id": 1,
     "name": "Klaus",
     "surname": "Leopold",
     "company": "LEANability GmbH",
@@ -86,28 +83,28 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/klausleopold"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/klausleopold/"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "http://klausleopold.com"
-      }
+    }
     ],
     "ribbon": [{
         "abbr": "AKT",
         "title": "Accredited Kanban Trainer"
-      },
-      {
+    },
+    {
         "abbr": "KCP",
         "title": "Kanban Coaching Professional"
-      }
+    }
     ]
-  },
-  {
-    "id": 002,
+},
+{
+    "id": 2,
     "name": "Nadine",
     "surname": "Wolf",
     "company": "it-agile",
@@ -116,21 +113,21 @@
     "thumbnailUrl": "NadineWolf.jpg",
     "keynote": false,
     "social": [{
-      "name": "twitter",
-      "link": "https://twitter.com/NadineWolfHH"
+        "name": "twitter",
+        "link": "https://twitter.com/NadineWolfHH"
     }],
     "ribbon": [{
         "abbr": "GER",
         "title": "German talk"
-      },
-      {
+    },
+    {
         "abbr": "AKT",
         "title": "Accredited Kanban Trainer"
-      }
+    }
     ]
-  },
-  {
-    "id": 003,
+},
+{
+    "id": 3,
     "name": "Boris",
     "surname": "Kneisel",
     "company": "herontix",
@@ -141,28 +138,28 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/AglSherpa"
-      },
-      {
-        "name": "linkedin",
-        "link": "https://www.linkedin.com/in/bokneisel/"
-      },
-      {
-        "name": "site",
-        "link": "http://www.boriskneisel.de"
-      }
-    ],
-    "ribbon": [{
-      "abbr": "AKT",
-      "title": "Accredited Kanban Trainer"
     },
     {
-      "abbr": "GER",
-      "title": "German talk"
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/bokneisel/"
+    },
+    {
+        "name": "site",
+        "link": "http://www.boriskneisel.de"
     }
-  ]
-  },
-  {
-    "id": 004,
+    ],
+    "ribbon": [{
+        "abbr": "AKT",
+        "title": "Accredited Kanban Trainer"
+    },
+    {
+        "abbr": "GER",
+        "title": "German talk"
+    }
+    ]
+},
+{
+    "id": 4,
     "name": "Wolfgang",
     "surname": "Wiedenroth",
     "company": "it-agile",
@@ -173,28 +170,28 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/wwiedenroth"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/wolfgang-wiedenroth"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "https://agilemanic.com"
-      }
+    }
     ],
     "ribbon": [{
         "abbr": "AKT",
         "title": "Accredited Kanban Trainer"
-      },
-      {
+    },
+    {
         "abbr": "KCP",
         "title": "Kanban Coaching Professional"
-      }
+    }
     ]
-  },
-  {
-    "id": 005,
+},
+{
+    "id": 5,
     "name": "Thomas",
     "surname": "Epping",
     "company": "codecentric AG",
@@ -205,50 +202,43 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/thomasepping"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/thomas-epping-552ba786/"
-      }
+    }
     ],
     "ribbon": [{
         "abbr": "GER",
         "title": "German talk"
-      },
-      {
+    },
+    {
         "abbr": "KCP",
         "title": "Kanban Coaching Professional"
-      }
+    }
     ]
-  },
-  {
-    "id": 006,
+},
+{
+    "id": 6,
     "name": "Todd",
     "surname": "Little",
     "company": "Lean Kanban Inc.",
     "title": "CEO",
-    "bio": "Todd Little is CEO at Kanban University, the leading provider of professional Kanban management training. He is also a Founder at Accelinnova, a leadership and agility consulting group.  Previously he has held executive roles as Vice President of Product Development for IHS, and Director of Software and Technology for Landmark Graphics a division of Halliburton.He has been developing or leading the development of software for over 35 years.</br>
-    For the past 10 + years,
-    Todd has been a frequent presenter at Agile and Software conferences around the globe.He is a founding member and past President of the Agile Leadership Network.He has served on the Board of Directors of both the Agile Alliance and the Agile Leadership Network,
-    and was a co - founder and Conference chair
-    for several of the Agile20XX conferences. < /br>
-    Todd is a co - author of the book 'Stand Back and Deliver: Accelerating Business Agility,'
-    Addison Wesley.
-    ",
+    "bio": "Todd Little is CEO at Kanban University, the leading provider of professional Kanban management training. He is also a Founder at Accelinnova, a leadership and agility consulting group.  Previously he has held executive roles as Vice President of Product Development for IHS, and Director of Software and Technology for Landmark Graphics a division of Halliburton.He has been developing or leading the development of software for over 35 years.</br>For the past 10 + years, Todd has been a frequent presenter at Agile and Software conferences around the globe.He is a founding member and past President of the Agile Leadership Network.He has served on the Board of Directors of both the Agile Alliance and the Agile Leadership Network, and was a co - founder and Conference chair for several of the Agile20XX conferences. < /br>Todd is a co - author of the book 'Stand Back and Deliver: Accelerating Business Agility', Addison Wesley.",
     "thumbnailUrl": "ToddLittle.jpg",
     "keynote": false,
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/toddelittle"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/toddelittle"
-      }
+    }
     ]
-  },
-  {
-    "id": 007,
+},
+{
+    "id": 7,
     "name": "Patrick",
     "surname": "Steyaert",
     "company": "Okaloa",
@@ -259,28 +249,28 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/toddelittle"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/patricksteyaert"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "https://www.okaloa.com"
-      }
+    }
     ],
     "ribbon": [{
         "abbr": "AKT",
         "title": "Accredited Kanban Trainer"
-      },
-      {
+    },
+    {
         "abbr": "KCP",
         "title": "Kanban Coaching Professional"
-      }
+    }
     ]
-  },
-  {
-    "id": 008,
+},
+{
+    "id": 8,
     "name": "Dimitar",
     "surname": "Karaivanov",
     "company": "Kanbanize",
@@ -291,15 +281,15 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/Dimitar_HK"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/dimitar-karaivanov/"
-      }
+    }
     ]
-  },
-  {
-    "id": 009,
+},
+{
+    "id": 9,
     "name": "Natalia",
     "surname": "de Souza Manha",
     "company": "PagSeguro",
@@ -310,15 +300,15 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/nataliamanha"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/nataliamanha"
-      }
+    }
     ]
-  },
-  {
-    "id": 010,
+},
+{
+    "id": 10,
     "name": "Sven",
     "surname": "Ditz",
     "company": "sitegeist agile transformation GmbH",
@@ -329,20 +319,19 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/gehtdoch"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/sven-ditz-99847a9/"
-      }
+    }
     ],
     "ribbon": [{
         "abbr": "GER",
         "title": "German talk"
-      }
-    ]
-  },
-  {
-    "id": 011,
+    }]
+},
+{
+    "id": 11,
     "name": "Gina",
     "surname": "Steiner",
     "company": "sitegeist agile transformation GmbH",
@@ -353,24 +342,24 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/gina_steiner"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/ginasteiner/"
-      }
+    }
     ],
     "ribbon": [{
         "abbr": "AKT",
         "title": "Accredited Kanban Trainer"
-      },
-      {
+    },
+    {
         "abbr": "GER",
         "title": "German talk"
-      }
+    }
     ]
-  },
-  {
-    "id": 012,
+},
+{
+    "id": 12,
     "name": "Boris Karl",
     "surname": "Schlein",
     "company": "Kühne + Nagel (AG & Co.) KG",
@@ -381,15 +370,15 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/BKS707"
-      },
-      {
+    },
+    {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/boriskarlschlein/"
-      }
+    }
     ]
-  },
-  {
-    "id": 013,
+},
+{
+    "id": 13,
     "name": "Jochen",
     "surname": "Goeser",
     "company": "Robert Bosch Power Tools",
@@ -398,12 +387,12 @@
     "thumbnailUrl": "JochenGoeser.jpg",
     "keynote": false,
     "social": [{
-      "name": "linkedin",
-      "link": "https://www.linkedin.com/in/jochen-goeser-0bb4541"
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/jochen-goeser-0bb4541"
     }]
-  },
-  {
-    "id": 014,
+},
+{
+    "id": 14,
     "name": "Carmen",
     "surname": "Knippenberg",
     "company": "Robert Bosch Power Tools",
@@ -412,58 +401,48 @@
     "thumbnailUrl": "CarmenKnippenberg.jpg",
     "keynote": false,
     "social": [{
-      "name": "linkedin",
-      "link": "https://www.linkedin.com/in/carmen-knippenberg-744496a0/"
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/carmen-knippenberg-744496a0/"
     }]
-  },
-  {
-    "id": 015,
+},
+{
+    "id": 15,
     "name": "Katya",
     "surname": "Terekhova",
     "company": "Pushwoosh",
     "title": "Project Manager",
-    "bio": "Katya is a project manager at Pushwoosh in Novosibirsk, Russia.</br>
-    She learned about kanban
-    while working at Arello Mobile,
-    where they had lots of autonomy to experiment and continued working on new challenges at Arello’ s sister company,
-    Pushwoosh 2 years ago. < /br>
-    Katya is an alumni of the Kanban Coaching Masterclass,
-    Lean Kanban India and speaker at LKCE’ 17. ",
+    "bio": "Katya is a project manager at Pushwoosh in Novosibirsk, Russia.</br>She learned about kanban while working at Arello Mobile, where they had lots of autonomy to experiment and continued working on new challenges at Arello’ s sister company, Pushwoosh 2 years ago. < /br>Katya is an alumni of the Kanban Coaching Masterclass, Lean Kanban India and speaker at LKCE’ 17. ",
     "thumbnailUrl": "KatyaTerekhova.jpg",
     "keynote": false,
     "social": [{
-      "name": "linkedin",
-      "link": "https://www.linkedin.com/in/carmen-knippenberg-744496a0/"
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/carmen-knippenberg-744496a0/"
     }]
-  },
-  {
-    "id": 016,
+},
+{
+    "id": 16,
     "name": "Maren",
     "surname": "Baermann",
     "company": "Innoviva",
     "title": "Innovation Consultant",
-    "bio": "Maren is an innovation psychologist and passionate about supporting teams in strengthening creativity and their agile mindset. For her, autonomous motivation is the missing link between agility and a healthy innovation culture.
-    As an innovation consultant she facilitates idea workshops and creativity trainings and provides agile softskills seminars
-    for Product Owners.
-    She enjoys combining her insights from her M.S.Psychology(RWTH Aachen, 2001) and her M.S.Creative Studies(SUNY 2006) with experiences from working in a big corporate,
-    teaching at university(innovation, facilitation & entrepreneurship) and her competences from consulting companies and teams as a freelance since 2009. ",
+    "bio": "Maren is an innovation psychologist and passionate about supporting teams in strengthening creativity and their agile mindset. For her, autonomous motivation is the missing link between agility and a healthy innovation culture. As an innovation consultant she facilitates idea workshops and creativity trainings and provides agile softskills seminars for Product Owners. She enjoys combining her insights from her M.S.Psychology(RWTH Aachen, 2001) and her M.S.Creative Studies(SUNY 2006) with experiences from working in a big corporate, teaching at university(innovation, facilitation & entrepreneurship) and her competences from consulting companies and teams as a freelance since 2009. ",
     "thumbnailUrl": "MarenBaermann.jpg",
     "keynote": false,
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/innoviva"
-      }, {
+    }, {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/maren-baermann-04044214/"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "https://www.innoviva-consulting.de"
-      }
+    }
     ]
-  },
-  {
-    "id": 017,
+},
+{
+    "id": 17,
     "name": "Alexei",
     "surname": "Zheglov",
     "company": "Lean A-to-Z, Inc.",
@@ -474,27 +453,27 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/az1"
-      }, {
+    }, {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/azheglov/"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "https://www.leanatoz.com/"
-      }
+    }
     ],
     "ribbon": [{
         "abbr": "AKT",
         "title": "Accredited Kanban Trainer"
-      },
-      {
+    },
+    {
         "abbr": "KCP",
         "title": "Kanban Coaching Professional"
-      }
+    }
     ]
-  },
-  {
-    "id": 018,
+},
+{
+    "id": 18,
     "name": "Matthew",
     "surname": "Philip",
     "company": "1904labs",
@@ -505,55 +484,51 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/mattphilip"
-      }, {
+    }, {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/matthewphilip"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "https://mattphilip.wordpress.com"
-      }
+    }
     ]
-  },
-  {
-    "id": 019,
+},
+{
+    "id": 19,
     "name": "Anita",
     "surname": "Cattiau",
     "company": "Loopingz",
     "title": "Agile Project Manager",
-    "bio": "Anita Cattiau supports teams to create value with more happiness, less waste and solve business challenges. She has delivered projects for over 10 years with an Agile perspective and a strong background in Project Management.
-    French American with Argentinian and Lebanese origins,
-    she 's also able to pull international teams together and make the most of cultural diversity.",
+    "bio": "Anita Cattiau supports teams to create value with more happiness, less waste and solve business challenges. She has delivered projects for over 10 years with an Agile perspective and a strong background in Project Management. French American with Argentinian and Lebanese origins, she 's also able to pull international teams together and make the most of cultural diversity.",
     "thumbnailUrl": "AnitaCattiau.jpg",
     "keynote": false,
     "social": [{
-      "name": "linkedin",
-      "link": "https://www.linkedin.com/in/anitaderiane"
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/anitaderiane"
     }]
-  },
-  {
-    "id": 020,
+},
+{
+    "id": 20,
     "name": "Matías E.",
     "surname": "Fernández",
     "company": "Swisscom (Schweiz) AG",
     "title": "Agile Coach",
-    "bio": "Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is Matías' passion. He calls himself DevOps evangelist, Kanban practitioner, LeanStartup advocate, Linux and OSS afficionado. He is a keen learner and challenger of the status quo.
-    In 2017 he joined Swisscom(Schweiz) AG to support the transformation towards new ways of working.
-    ",
+    "bio": "Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is Matías' passion. He calls himself DevOps evangelist, Kanban practitioner, LeanStartup advocate, Linux and OSS afficionado. He is a keen learner and challenger of the status quo. In 2017 he joined Swisscom(Schweiz) AG to support the transformation towards new ways of working.",
     "thumbnailUrl": "MatiasEFernandez.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/matiasfrndz/"
-      },
-      {
+    },
+    {
         "name": "twitter",
         "link": "http://twitter.com/matiasfrndz"
-      }
+    }
     ]
-  },
-  {
-    "id": 021,
+},
+{
+    "id": 21,
     "name": "Mesrop",
     "surname": "Yaghubian",
     "company": "Infometis AG",
@@ -562,154 +537,118 @@
     "thumbnailUrl": "MesropYaghubian.jpg",
     "keynote": false,
     "social": [{
-      "name": "linkedin",
-      "link": "https://www.linkedin.com/in/mesrop-yaghubian-8559109/"
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/mesrop-yaghubian-8559109/"
     }]
-  },
-  {
-    "id": 022,
+},
+{
+    "id": 22,
     "name": "Daniel",
     "surname": "Schimera",
     "company": "REWE Digital GmbH",
     "title": "Tribe Master",
-    "bio": "Daniel Schimera arbeitet als Tribe Master in der Produktentwicklung von REWE Digital. Dort gestaltet er das Zusammenspiel des Produkt-Portfolio-Levels mit dem Business. Seine Themenschwerpunkte sind die Selbstorganisation rund um Wertströme, skalierte Produktentwicklung und Flight-Level-Architekturen.
-    Als Sprecher war er in den letzten Jahren auf der solutions.hamburg, der LKCE,  der Konferenz für Integriertes IT Demand und Portfolio Management, sowie auf diversen Community-Veranstaltungen tätig.",
+    "bio": "Daniel Schimera arbeitet als Tribe Master in der Produktentwicklung von REWE Digital. Dort gestaltet er das Zusammenspiel des Produkt-Portfolio-Levels mit dem Business. Seine Themenschwerpunkte sind die Selbstorganisation rund um Wertströme, skalierte Produktentwicklung und Flight-Level-Architekturen. Als Sprecher war er in den letzten Jahren auf der solutions.hamburg, der LKCE, der Konferenz für Integriertes IT Demand und Portfolio Management, sowie auf diversen Community - Veranstaltungen tätig.",
     "thumbnailUrl": "DanielSchimera.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/daniel-schimera-45b53916b/"
-      },
-      {
+    },
+    {
         "name": "twitter",
         "link": "https://twitter.com/SchimeraD"
-      }
+    }
     ],
     "ribbon": [{
         "abbr": "GER",
         "title": "German talk"
-      }
-    ]
-  },
-  {
-    "id": 026,
+    }]
+},
+{
+    "id": 26,
     "name": "Bea",
     "surname": "Knippenberg",
     "company": "REWE Digital GmbH",
     "title": "Delivery Manager",
-    "bio": "Bea Knippenberg arbeitet in der Rolle des Delivery Managers im Bereich eCommerce bei der REWE Digital GmbH in Köln. Sie beschäftigt sich in diversen Rollen seit dem Beginn ihrer beruflichen Laufbahn mit Führung, Unternehmensentwicklung und Selbstorganisation. Organisationsentwicklung und Veränderung konnte sie in verschiedensten Organisationsformen und -entwicklungsphasen begleiten. Erste Kontakte mit Scrum hat Bea Knippenberg in der Rolle als Stakeholder gemacht und war direkt begeistert von der agilen Arbeitsweise, die sie erst als Scrum Master und aktuell als Delivery Manager bei der REWE digital unterstützt.</br></br>
-
-    Als langjährige Führungskraft liegt der Schwerpunkt ihrer Tätigkeit auf organisatorischen und kollaborativen Themen der Produktentwicklung. Durch den Hintergrund im Bereich Monitoring, Evaluation und Marktforschung schlägt ihr Herz jedoch auch für gute und sinnvolle Tests und Experimente.
-    ",
+    "bio": "Bea Knippenberg arbeitet in der Rolle des Delivery Managers im Bereich eCommerce bei der REWE Digital GmbH in Köln. Sie beschäftigt sich in diversen Rollen seit dem Beginn ihrer beruflichen Laufbahn mit Führung, Unternehmensentwicklung und Selbstorganisation. Organisationsentwicklung und Veränderung konnte sie in verschiedensten Organisationsformen und -entwicklungsphasen begleiten. Erste Kontakte mit Scrum hat Bea Knippenberg in der Rolle als Stakeholder gemacht und war direkt begeistert von der agilen Arbeitsweise, die sie erst als Scrum Master und aktuell als Delivery Manager bei der REWE digital unterstützt.</br></br>Als langjährige Führungskraft liegt der Schwerpunkt ihrer Tätigkeit auf organisatorischen und kollaborativen Themen der Produktentwicklung.Durch den Hintergrund im Bereich Monitoring, Evaluation und Marktforschung schlägt ihr Herz jedoch auch für gute und sinnvolle Tests und Experimente.",
     "thumbnailUrl": "BeaKnippenberg.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/bea-knippenberg/"
-      }
-    ],
+    }],
     "ribbon": [{
         "abbr": "GER",
         "title": "German talk"
-      }
-    ]
-  },
-  {
-    "id": 023,
+    }]
+},
+{
+    "id": 23,
     "name": "Mike",
     "surname": "Freislich",
     "company": "agile42",
     "title": "Business Agility Coach and Trainer",
-    "bio": "Mike has worked as an IT professional since 1994 and has been involved in managing teams and developing software products since 1998.
-
-    Since discovering Agile in 2005,
-    Mike has been passionate about helping teams and organisations achieve their potential through the use of Lean and Agile methods.Mike believes that true organisational agility stems from engaged leadership,
-    system - aware employees,
-    a laser - like focus on customer value and relentless,
-    collaborative improvement.He has worked with countless organisations over the years,
-    helping them grow the culture and methods they need to become their best and stay there.
-
-    Mike loves the Kanban approach to creating inclusive,
-    collaborative,
-    focused,
-    measurable,
-    improvements within teams and organisations.After having been inspired by Dr.Klaus Leopold in 2015,
-    Mike has worked hard to achieve his Kanban Trainer accreditation(AKT) in 2017. Mike spends his time training and coaching individuals and organisations in South Africa and abroad.
-    ",
+    "bio": "Mike has worked as an IT professional since 1994 and has been involved in managing teams and developing software products since 1998. Since discovering Agile in 2005, Mike has been passionate about helping teams and organisations achieve their potential through the use of Lean and Agile methods.Mike believes that true organisational agility stems from engaged leadership, system - aware employees, a laser - like focus on customer value and relentless, collaborative improvement.He has worked with countless organisations over the years, helping them grow the culture and methods they need to become their best and stay there. Mike loves the Kanban approach to creating inclusive, collaborative, focused, measurable, improvements within teams and organisations.After having been inspired by Dr.Klaus Leopold in 2015, Mike has worked hard to achieve his Kanban Trainer accreditation(AKT) in 2017. Mike spends his time training and coaching individuals and organisations in South Africa and abroad.",
     "thumbnailUrl": "MikeFreislich.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/mikefreislich/"
-      },
-      {
+    },
+    {
         "name": "twitter",
         "link": "https://twitter.com/mikefreislich"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "https://www.agile42.com/en/training/trainer/35/mike-freislich/"
-      }
+    }
     ],
     "ribbon": [{
-      "abbr": "AKT",
-      "title": "Accredited Kanban Trainer"
+        "abbr": "AKT",
+        "title": "Accredited Kanban Trainer"
     }]
-  },
-  {
-    "id": 024,
+},
+{
+    "id": 24,
     "name": "Kulawat",
     "surname": "Wongsaroj",
     "company": "Lean In Consulting",
     "title": "Agile Coach",
-    "bio": "Kulawat and Kamon are Agile coaches from Thailand with more than 10+ years of unique experiences on Enterprise Agile transformation.
-    They have been helping various enterprises as well as startup programs.They are the key Lean - Kanban evangelist as well as pioneering Flight Levels in Thailand.
-    On the community side,
-    Kulawat and Kamon were the lead translators of the Official Agile Manifesto Translation project
-    for Thai language and also the co - founder of Agile66,
-    the largest Agile community in South East Asia.They are the major contributors of flagship annual Agile conferences in Thailand which are Agile Thailand and Agile Tour Bangkok hosting more than 300 people in each conference
-    for the past 8 consecutive years.
-    ",
+    "bio": "Kulawat and Kamon are Agile coaches from Thailand with more than 10+ years of unique experiences on Enterprise Agile transformation. They have been helping various enterprises as well as startup programs.They are the key Lean - Kanban evangelist as well as pioneering Flight Levels in Thailand. On the community side, Kulawat and Kamon were the lead translators of the Official Agile Manifesto Translation project for Thai language and also the co - founder of Agile66, the largest Agile community in South East Asia.They are the major contributors of flagship annual Agile conferences in Thailand which are Agile Thailand and Agile Tour Bangkok hosting more than 300 people in each conference for the past 8 consecutive years.",
     "thumbnailUrl": "KulawaWongsaroj.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/kulawat/"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "http://fb.com/leaninco"
-      }
+    }
     ]
-  },
-  {
-    "id": 025,
+},
+{
+    "id": 25,
     "name": "Kamon",
     "surname": "Treetampinij",
     "company": "Lean In Consulting",
     "title": "Agile Coach",
-    "bio": "Kulawat and Kamon are Agile coaches from Thailand with more than 10+ years of unique experiences on Enterprise Agile transformation.
-    They have been helping various enterprises as well as startup programs.They are the key Lean - Kanban evangelist as well as pioneering Flight Levels in Thailand.
-    On the community side,
-    Kulawat and Kamon were the lead translators of the Official Agile Manifesto Translation project
-    for Thai language and also the co - founder of Agile66,
-    the largest Agile community in South East Asia.They are the major contributors of flagship annual Agile conferences in Thailand which are Agile Thailand and Agile Tour Bangkok hosting more than 300 people in each conference
-    for the past 8 consecutive years.
-    ",
+    "bio": "Kulawat and Kamon are Agile coaches from Thailand with more than 10+ years of unique experiences on Enterprise Agile transformation. They have been helping various enterprises as well as startup programs.They are the key Lean - Kanban evangelist as well as pioneering Flight Levels in Thailand. On the community side, Kulawat and Kamon were the lead translators of the Official Agile Manifesto Translation project for Thai language and also the co - founder of Agile66, the largest Agile community in South East Asia.They are the major contributors of flagship annual Agile conferences in Thailand which are Agile Thailand and Agile Tour Bangkok hosting more than 300 people in each conference for the past 8 consecutive years.",
     "thumbnailUrl": "KamonTreetampinij.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/korn4d/"
-      },
-      {
+    },
+    {
         "name": "site",
         "link": "http://fb.com/leaninco"
-      }
+    }
     ]
-  },
-  {
-    "id": 027,
+},
+{
+    "id": 27,
     "name": "Henning",
     "surname": "Wolf",
     "company": "it-agile GmbH",
@@ -720,86 +659,71 @@
     "social": [{
         "name": "twitter",
         "link": "https://twitter.com/henningwolf"
-      },
-      {
-          "name": "site",
-          "link": "https://henningwolf.de"
-        }
+    },
+    {
+        "name": "site",
+        "link": "https://henningwolf.de"
+    }
     ],
     "ribbon": [{
-       "abbr": "AKT",
-       "title": "Accredited Kanban Trainer"
-     }
-    ]
-  },
-  {
-    "id": 028,
+        "abbr": "AKT",
+        "title": "Accredited Kanban Trainer"
+    }]
+},
+{
+    "id": 28,
     "name": "Sven",
     "surname": "Günther",
     "company": "it-agile GmbH",
     "title": "Kanban expert",
-    "bio": "Sven works for it-agile as AKT and KCP. He helps organisations improving their service delivery and delivering satisfying products and services. He started his carreer as software developer for mobile devices and backend systems.
-    If he does not work (which is very rarely) he enjoys to play the piano or he tries to improve his feeling for the ball by playing squash.",
+    "bio": "Sven works for it-agile as AKT and KCP. He helps organisations improving their service delivery and delivering satisfying products and services. He started his carreer as software developer for mobile devices and backend systems. If he does not work(which is very rarely) he enjoys to play the piano or he tries to improve his feeling for the ball by playing squash.",
     "thumbnailUrl": "SvenGuenther.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/sven-günther-47ab4053/"
-      },
-      {
-        "name": "twitter",
-        "link": "https://twitter.com/inevs"
-      }
-    ],
-    "ribbon":[{
-      "abbr": "AKT",
-      "title": "Accredited Kanban Trainer"
     },
     {
-      "abbr": "KCP",
-      "title": "Kanban Coaching Professional"
+        "name": "twitter",
+        "link": "https://twitter.com/inevs"
     }
-  ]
-  },
-  {
-    "id": 029,
+    ],
+    "ribbon": [{
+        "abbr": "AKT",
+        "title": "Accredited Kanban Trainer"
+    },
+    {
+        "abbr": "KCP",
+        "title": "Kanban Coaching Professional"
+    }
+    ]
+},
+{
+    "id": 29,
     "name": "Carmen",
     "surname": "Rudolph",
     "company": "it-agile GmbH",
     "title": "Moneypenny",
-    "bio": "Carmen Rudolph hat in Marburg und Hamburg Politikwissenschaften, Germanistik und
-    Geschichte studiert. Nach dem Abschluss des Studiums war sie zunächst als freie Autorin für
-    unterschiedliche Publikationen tätig, bevor es sie für fast sechs Jahre als Projektmanagerin in
-    die Werbebranche verschlug. Seit 2018 ist sie bei it-agile Teil des Moneypenny Teams und
-    begeistert sich hier vor allem für die Gestaltung und den Entwurf von Kanban-Boards.",
+    "bio": "Carmen Rudolph hat in Marburg und Hamburg Politikwissenschaften, Germanistik und Geschichte studiert.Nach dem Abschluss des Studiums war sie zunächst als freie Autorin für unterschiedliche Publikationen tätig, bevor es sie für fast sechs Jahre als Projektmanagerin in die Werbebranche verschlug.Seit 2018 ist sie bei it - agile Teil des Moneypenny Teams und begeistert sich hier vor allem für die Gestaltung und den Entwurf von Kanban - Boards.",
     "thumbnailUrl": "CarmenRudolph.jpg",
     "keynote": false,
     "ribbon": [{
-       "abbr": "GER",
-       "title": "German talk"
-     }
-    ]
-  },
-  {
-    "id": 030,
+        "abbr": "GER",
+        "title": "German talk"
+    }]
+},
+{
+    "id": 30,
     "name": "Franziska",
     "surname": "Stoll",
     "company": "it-agile GmbH",
     "title": "Moneypenny",
-    "bio": "Franziska Stoll, geboren im Jahr 1983 und aufgewachsen in Flensburg, zog es nach ihrem
-    Studium der Ethnologie, Politikwissenschaft und des Öffentlichen Rechts in Kiel weiter
-    Richtung Süden nach Hamburg. Nach 6 Jahren klassischem Projektmanagement in der
-    Werbebranche und einem Abstecher in den Vertrieb im Rohstoffhandel ist sie seit
-    September 2018 Teil des selbstorganisierten Moneypenny-Teams bei it-agile und lernt
-    seitdem die agile Welt in all ihren Facetten kennen und lieben. Ihr Interessensschwerpunkt
-    liegt bei der Anwendung der Kanban Prinzipien im Verwaltungs- und Eventorganisations-
-    Bereich.",
+    "bio": "Franziska Stoll, geboren im Jahr 1983 und aufgewachsen in Flensburg, zog es nach ihrem Studium der Ethnologie, Politikwissenschaft und des Öffentlichen Rechts in Kiel weiter Richtung Süden nach Hamburg.Nach 6 Jahren klassischem Projektmanagement in der Werbebranche und einem Abstecher in den Vertrieb im Rohstoffhandel ist sie seit September 2018 Teil des selbstorganisierten Moneypenny - Teams bei it - agile und lernt seitdem die agile Welt in all ihren Facetten kennen und lieben.Ihr Interessensschwerpunkt liegt bei der Anwendung der Kanban Prinzipien im Verwaltungs - und Eventorganisations - Bereich.",
     "thumbnailUrl": "FranziskaStoll.jpg",
     "keynote": false,
     "ribbon": [{
-       "abbr": "GER",
-       "title": "German talk"
-     }
-    ]
-  }
+        "abbr": "GER",
+        "title": "German talk"
+    }]
+}
 ]
