@@ -539,6 +539,10 @@
     "social": [{
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/mesrop-yaghubian-8559109/"
+    }],
+    "ribbon": [{
+        "abbr": "GER",
+        "title": "German talk"
     }]
 },
 {
@@ -720,6 +724,20 @@
     "title": "Moneypenny",
     "bio": "Franziska Stoll, geboren im Jahr 1983 und aufgewachsen in Flensburg, zog es nach ihrem Studium der Ethnologie, Politikwissenschaft und des Öffentlichen Rechts in Kiel weiter Richtung Süden nach Hamburg.Nach 6 Jahren klassischem Projektmanagement in der Werbebranche und einem Abstecher in den Vertrieb im Rohstoffhandel ist sie seit September 2018 Teil des selbstorganisierten Moneypenny - Teams bei it - agile und lernt seitdem die agile Welt in all ihren Facetten kennen und lieben.Ihr Interessensschwerpunkt liegt bei der Anwendung der Kanban Prinzipien im Verwaltungs - und Eventorganisations - Bereich.",
     "thumbnailUrl": "FranziskaStoll.jpg",
+    "keynote": false,
+    "ribbon": [{
+        "abbr": "GER",
+        "title": "German talk"
+    }]
+},
+{
+    "id": 32,
+    "name": "Bruna",
+    "surname": "Sassaro",
+    "company": "Zürcher Kantonalbank",
+    "title": "Teamleiterin und Streamleader",
+    "bio": "Kanban hat auch in den Wertschriftenbackoffices der Banken Einzug gehalten! Bruna Sassaro, Teamleiterin und Senior Business Engineer im Bereich Wertschriftenabwicklung, hat bei der Einführung von Kanban im Operations der grössten Kantonalbank der Schweiz, der Zürcher Kantonalbank aktiv mitgewirkt. Ihre Leidenschaft ist es, Veränderungen mitzugestalten und zu beobachten, was sie als Stream Leader ausleben kann.",
+    "thumbnailUrl": "BrunaSassaro.jpg",
     "keynote": false,
     "ribbon": [{
         "abbr": "GER",
