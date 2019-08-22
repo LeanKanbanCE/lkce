@@ -39,24 +39,6 @@
      ]
   },
   {
-     "id": 2,
-     "name": "Markus",
-     "surname": "Andrezak",
-     "title": "Program Committee",
-     "thumbnailUrl": "markusandrezak.jpg",
-     "subTeam": true,
-     "social": [
-        {
-           "name": "twitter",
-           "link": "https://twitter.com/markusandrezak"
-        },
-        {
-           "name": "site",
-           "link": "http://ueberproduct.de"
-        }
-     ]
-  },
-  {
      "id": 4,
      "name": "Klaus",
      "surname": "Leopold",
