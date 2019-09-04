@@ -140,7 +140,7 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lu
 ticketsOffers:
  -
   name: "LKCE19 - 2 days Ticket"
-  price: "1100"
+  price: "1200"
   priceCurrency: "EUR (excl. 19% VAT)"
   ticketsNumber: "1"
   ribbon: ""
