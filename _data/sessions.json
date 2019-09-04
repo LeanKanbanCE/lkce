@@ -33,7 +33,14 @@
 {
     "id": 312,
     "title": "Lunch Break",
-    "description": "Let's digest the food for thoughts by having real food.",
+    "description": "Let's digest the food for thought by having real food.",
+    "place": "Upstream",
+    "service": true
+},
+{
+    "id": 316,
+    "title": "Lunch Break + Project Portfolio Management with Kanban(ize) Workshop",
+    "description": "Let's digest the food for thought by having real food. Also, our sponsor Kanbanize will talk about Project Portfolio Management.",
     "place": "Upstream",
     "service": true
 },
