@@ -74,6 +74,7 @@ aboutTitle: "About Lean Kanban Central Europe"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Come and join us at the world’s most popular Lean Kanban conference of this world wide series. Two days packed with inspiring talks, and networking opportunities."}
  - {title: "Social Event", image: "socialevent.jpg", text: "Enjoy an evening of exchanging ideas, meeting new people and your favorite speaker while having a drink." }
+ - {title: "Hotel", image: "scandic.jpg", text: 'The Scandic Hamburg Emporio Hotel, right next to venue offers attendees of the conference a 15% discount. Just <a href="https://www.scandichotels.com/hotelreservation/select-rate?hotel=550&fromDate=2019-11-06&toDate=2019-11-08&room%5b0%5d.adults=1&bookingCode=&_ga=2.147564663.1321593296.1562772338-1113290766.1562320056">click here</a> and use the code PART.'}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -201,6 +202,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Hamburg"
 directionDetailsCards:
+ - {title: "Hotel", information: 'The Scandic Hotel, right next to venue offers attendees of the conference a 15% discount. Just <a href="https://www.scandichotels.com/hotelreservation/select-rate?hotel=550&fromDate=2019-11-06&toDate=2019-11-08&room%5b0%5d.adults=1&bookingCode=&_ga=2.147564663.1321593296.1562772338-1113290766.1562320056">click here</a> and use the code PART.'}
  - {title: "From the Airport", information: 'The airport is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.hamburg-airport.de/en/bus_rail_and_transfer.php">airport website</a>.'}
  - {title: "Public Transit", information: 'Take the subway to either Messehallen or Stephansplatz for public transportation to the central station, the airport or anywhere else in Hamburg.'}
 
