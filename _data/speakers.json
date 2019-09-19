@@ -324,11 +324,7 @@
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/sven-ditz-99847a9/"
     }
-    ],
-    "ribbon": [{
-        "abbr": "GER",
-        "title": "German talk"
-    }]
+    ]
 },
 {
     "id": 11,
@@ -351,10 +347,6 @@
     "ribbon": [{
         "abbr": "AKT",
         "title": "Accredited Kanban Trainer"
-    },
-    {
-        "abbr": "GER",
-        "title": "German talk"
     }
     ]
 },
