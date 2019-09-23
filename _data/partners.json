@@ -35,6 +35,18 @@
            "description": "Dashboards for Kanban teams - Increase your performance. Identify problems with ease. Focus on improving workflow efficienc",
            "link": "https://getnave.com",
            "imageUrl": "nave.svg"
+        },
+        {
+          "name": "LEANability",
+          "description": "Flight Levels...the LEAN way to real Business Agility",
+          "link": "https://leanability.com",
+          "imageUrl": "leanability.png"
+        },
+        {
+          "name": "Agile Experts",
+          "description": "Consult, Train and Coach for The Learning Organization",
+          "link": "https://agileexperts.at",
+          "imageUrl": "AgileExpertsLogo.png"
         }
      ]
   }
