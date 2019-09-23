@@ -219,9 +219,9 @@ enablesocialevent: true
 
 # About Social Event Block
 socialEventBlockTitle: "A night to remember"
-aboutSocialEvent: "As a Social Event we are celebrating this year a 'Night in Monte Carlo' at the Historic Customs Hall in Hamburg's world-famous Speicherstadt which is part of the UNESCO World Heritage.
-Inspired by this historic building where smuggled goods for fancy parties were confiscated we spared no expenses to transport you into a world of fun, cigars, casino and black jack
-Expect an evening with a delicious three-course menu, drinks and gambling. A bus transfer from the LKCE-venue will take you directly to the Historic Customs Hall at the end of day one - so just sit back and enjoy"
+aboutSocialEvent: "As a Social Event we are celebrating this year a "Night in Monte Carlo" at the Historic Customs Hall in Hamburg's world-famous Speicherstadt which is part of the UNESCO World Heritage.
+Inspired by this historic building where smuggled goods for fancy parties were confiscated we spared no expenses to transport you into a world of fun, cigars, casino, black jack and magic!
+Expect an evening with a delicious three-course menu, drinks, gambling and surprises."
 
 # socialevent Location Block
 socialeventLocationBlockTitle: "Location"
