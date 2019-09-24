@@ -108,7 +108,7 @@
     "description": "Flexible Prozess-Abbildung und schlankes Design verhelfen Kanban zu wachsender Beliebtheit jenseits reiner IT-Applikation. Dieser Erfahrungsbericht befasst sich mit DISCOVERY-Kanban im Online-Marketing und Produkt-Management (SME Hidden-Champion, Groß- & Einzelhandel für Werkzeug, Werkstatt-Ausstattung / Produktionslinien-Bestückung) und datiert auf 2015ff. Aufsetz - Punkt war eine WebShop - Einführung(kundenseitige IT - Abt.vollzog SW - Entwicklung auf Basis Standard - SW - Baukasten - System);das IT - Projekt litt unter Schieflage(offiz.GoLive vollzogen, der eShop generierte aber kaum Umsatz und sah wenig Traffic).Ursache war u.a.eine mangelhafte Such - Funktion(lt.Quick - Assessment von UX - Experten).Nach techn.BugFix und Umstellung der IT - SW - Entwicklung von 'Cargo-Cult Fake-Agile' auf AgileManifesto - konformeres Arbeiten, war klar, dass weitere Engpässe im Online - Marketing(ProductOwner des eShops) in Anforderungs - Selektion und - Vorbereitung bestanden.DISCOVERY - Kanban behob die Engpässe erfolgreich.",
     "subtype": "talk",
     "speakers": [
-        3
+        3, 33
     ],
     "language": "de",
     "complexity": "beginner",

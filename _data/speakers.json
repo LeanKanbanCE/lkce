@@ -132,7 +132,22 @@
     "surname": "Kneisel",
     "company": "herontix",
     "title": "Agile Innovation Coach",
-    "bio": "Over the last decade Boris developed into the profile as a cross-industry Lean &amp; Agile Innovation Expert –\nspecializing in ''turn-arounds''. He loves the really challenging so-called ''Phoenix-projects'' the most (the\nones that nobody believes in their delivery any more, at all…until their set-ups are adjusted…). He was\nemployed with a German SW-industry Global-player for 20+ years and founded a consultancy boutique.\nAs an Agile Coach be offers vast experience on approaches ranging from classic waterfall to various\nmethods of increasing Agility (Kanban & Scrum), how to align Innovation-procedures (Design Thinking, TRIZ\netc.) with them, how to scale-out their adaptation within large organizations (ESP & scaling frameworks),\nand how to ensure business resilience, continuous improvement &amp; survivability (SixSigma, DevOps, KMM).",
+    "bio": "With 20+ yrs industry-experience, leveraging his science-background (Dr. rer.nat.
+from KIT in chemistry), flavoured-up by an Exec.MBA (Henley), and intense
+product-mgmt / UX-engineering practice – Boris developed into a cross-industry
+Lean & Agile Innovation Expert role – specializing in 'scaling', 'high-risk
+undertakings', and 'turn-arounds'. He loves the really challenging so-called
+'PHOENIX-projects' the most (i.e. blood-, sweat- & adrenalin-soaked stuff that
+nobody believes anymore in 'any delivery'...until set-ups are adjusted... –
+...collaboratively). Employed with German SW-industry giant SAP for 20 years, he
+offered in parallel coaching to DACH-markets, and founded herontix GmbH – the
+
+consultancy for Agile Innovation Delivery Excellence. Herontix coaching bedrocks in a wide method-
+caleidoscope ranging from classic to various approaches designing innovation-performance for
+
+'BusinessAgility' (Kanban, Scrum, DesignThinking, TRIZ), while focusing on scaling their adoption to whole
+organizations (ESP & scaling frameworks) and ensuring business resilience, continuous improvement &
+survivability (KMM, SixSigma).",
     "thumbnailUrl": "BorisKneisel.jpg",
     "keynote": false,
     "social": [{
@@ -730,6 +745,21 @@
     "title": "Teamleiterin und Streamleader",
     "bio": "Kanban hat auch in den Wertschriftenbackoffices der Banken Einzug gehalten! Bruna Sassaro, Teamleiterin und Senior Business Engineer im Bereich Wertschriftenabwicklung, hat bei der Einführung von Kanban im Operations der grössten Kantonalbank der Schweiz, der Zürcher Kantonalbank aktiv mitgewirkt. Ihre Leidenschaft ist es, Veränderungen mitzugestalten und zu beobachten, was sie als Stream Leader ausleben kann.",
     "thumbnailUrl": "BrunaSassaro.jpg",
+    "keynote": false,
+    "ribbon": [{
+        "abbr": "GER",
+        "title": "German talk"
+    }]
+},
+{
+    "id": 33,
+    "name": "Andre",
+    "surname": "Schoenherr",
+    "company": "",
+    "title": "Chief Digital Officer",
+    "bio": "Over past decades Andre developed into the profile of an Agile Leader to cater increasingly demanding challenges of various business-eco-systems – today known as “VUCA”-world. Following his studies von business information systems (DE: Wirtschafts-Informatik) he entered into the world of Online-Marketing & eBusiness to become expert for SEM (SEA, SEO) and the Chief-ProductOwner of a VoD-platform (B2C: Entertainment industries). Recent moves include leading teams as Global Head-of-eCommerce (B2B: MRO-wholesale & retail), and surged in nomination as Chief-Digital-Officer (B2B: German brand wholesaler & retailer on professional equipment). During his career Andre led people (directly as a MMP for teams and indirectly as MMT/MMO for business-units of up to ca. 50 FTE) and realized (spent-to-revenue-ratios) of up
+    to ca.10-17x leverage in revenues at CAGR of ca.12-17% applying Agile methods and leveraging Boris’ ready-to-run “MatrixKits” for organizational evolution. He is a recognized key-note speaker at int’l events.",
+    "thumbnailUrl": "AndreSchoenherr.jpg",
     "keynote": false,
     "ribbon": [{
         "abbr": "GER",
