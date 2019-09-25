@@ -49,5 +49,16 @@
           "imageUrl": "AgileExpertsLogo.png"
         }
      ]
+  },
+  {
+    "group": "Media partner",
+    "elements": [
+        {
+          "name": "dpunkt.verlag",
+          "description": "Der Fachverlag für kreative Köpfe.",
+          "link": "https://www.dpunkt.de",
+          "imageUrl": "dpunkt.png"
+        }
+    ]
   }
 ]
