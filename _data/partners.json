@@ -58,6 +58,12 @@
           "description": "Der Fachverlag für kreative Köpfe.",
           "link": "https://www.dpunkt.de",
           "imageUrl": "dpunkt.png"
+        },
+        {
+          "name": "t3n",
+          "description": "digital pioneers",
+          "link": "https://www.t3n.de",
+          "imageUrl": "t3n.png"
         }
     ]
   }
