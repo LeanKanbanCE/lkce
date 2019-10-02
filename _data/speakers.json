@@ -481,23 +481,25 @@ survivability (KMM, SixSigma).",
 },
 {
     "id": 18,
-    "name": "Matthew",
-    "surname": "Philip",
-    "company": "1904labs",
-    "title": "Director of Delivery",
-    "bio": "As Director of Delivery at 1904labs, Matthew helps build the right teams to build the right things the right way. He is especially passionate about building learning organizations and creating humanizing and engaging work environments.",
-    "thumbnailUrl": "MatthewPhilip.jpg",
+    "name": "Cliff",
+    "surname": "Hazell",
+    "company": "Cognician Group",
+    "title": "Founder and Director",
+    "bio": "Cliff has made a career out of breaking down the obstacles that stand in the way of great work. He is often challenging the status quo in his quest to develop the right culture and systems for creation of excellent products.
+    After a tour of addresses across South Africa, Cliff moved to Stockholm where he lead a team of Coaches at Spotify for 4 years.
+    Now having founded Cognition Group, focuses on helping companies be more effective at Strategy Deployment",
+    "thumbnailUrl": "CliffHazell.png",
     "keynote": false,
     "social": [{
         "name": "twitter",
-        "link": "https://twitter.com/mattphilip"
+        "link": "https://twitter.com/ixhd"
     }, {
         "name": "linkedin",
-        "link": "https://www.linkedin.com/in/matthewphilip"
+        "link": "https://www.linkedin.com/in/cliff-hazell-517289/"
     },
     {
         "name": "site",
-        "link": "https://mattphilip.wordpress.com"
+        "link": "https://medium.com/@ixhd"
     }
     ]
 },

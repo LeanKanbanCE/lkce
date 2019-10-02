@@ -273,14 +273,15 @@
 },
 {
     "id": 18,
-    "title": "No (Lab) Jacket Required: Designing Experiments for Learning",
-    "description": "One of the Kanban method’s general practices is to 'Improve collaboratively, evolve experimentally.' In order to do that, we need to know how to conduct experiments properly. This session helps participants understand the importance of using experiments to help teams and organizations learn and improve, while giving hands-on practice in designing experiments to yield measurable evidence for that learning. We’ll even play a couple of inductive-logic games to get us in the mindset of how to write tests to validate - and invalidate - our hypotheses in order to acquire knowledge in the pursuit of continuous and incremental improvement.",
+    "title": "Beyond Copy Paste Agile",
+    "description": "Most companies claiming to, or wanting to, be agile, start at the team level. Often this involves adopting a model or framework that either only has those parts, or ignoring the Program and Stategy level changes. At best this inspires a change journey, but more often this yields little impact on the long term business metrics.
+    In this session I will draw in my different experiences, as a Business Manager, Product Lead, and Coach designing effective orgs at Spotify, to demonstrate how the 3 lenses of Systems, Science and Sapiens, help in gather broader perspective, which ultimately leads to more effective, longer lasting, impact",
     "subtype": "talk",
     "speakers": [
         18
     ],
     "language": "en",
-    "complexity": null,
+    "complexity": intermediate,
     "slides": null,
     "video": null
 },
@@ -293,7 +294,7 @@
         19
     ],
     "language": "en",
-    "complexity": null,
+    "complexity": intermediate,
     "slides": null,
     "video": null
 },
