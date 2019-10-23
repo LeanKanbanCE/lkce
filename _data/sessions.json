@@ -78,8 +78,14 @@
 },
 {
     "id": 120,
-    "title": "",
-    "description": "",
+    "title": "Using the KMM as a map to business agility",
+    "description": "The Kanban Maturity Model democratizes successful Agile transformation. It enables faster, better results without the high costs and extreme failure rate associated with the conventional path to Agile. For over a decade, the Kanban Method has been your alternative path to agility.
+
+    Now the KMM offers a map to consistently achieve superior business agility.
+
+    Regardless of your starting conditions, the Kanban Maturity Model can help you improve collaboration, trust, team work, service delivery, customer satisfaction, business agility, risk management and economic performance.
+
+    David’s talk explains how KMM helps you understand your context and choose appropriate Kanban practices. Your circumstances are unique. You need pragmatic, actionable, evidence-based guidance that works. The KMM codifies a decade of Kanban coaching experience and delivers it in a consumable package that will democratize business agility. KMM: successful evolutionary change for professional service businesses of every size and maturity level.",
     "subtype": "keynote",
     "speakers": [
         120
@@ -404,14 +410,14 @@
 },
 {
     "id": 31,
-    "title": "tbd",
-    "description": "tbd",
+    "title": "Flight Levels in Action",
+    "description": "Immer mehr Organisationen setzen Flight Levels als ein Denkmodell ein, damit das Unternehmen agil am Markt agieren kann. Dafür braucht es sehr viel mehr, als einfach nur ein paar Teams zu agilisieren. In diesem Vortrag werde ich anhand eines Unternehmens zeigen, wie Flight Levels dafür verwendet werden, teamübergreifende Business Agilität zu erreichen. Ich werde auch darauf eingehen, welche Boards gebaut wurden, um agile Interaktionen zwischen den Teams zu etablieren und wie sich die Arbeit über die Boards bewegt, damit strategisches Alignment in der gesamten Organisation erreicht wird.",
     "subtype": "talk",
     "speakers": [
         1
     ],
     "language": "de",
-    "complexity": "",
+    "complexity": "intermediate",
     "slides": null,
     "video": null
 }
