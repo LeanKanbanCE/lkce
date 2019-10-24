@@ -181,31 +181,29 @@ survivability (KMM, SixSigma).",
 },
 {
     "id": 4,
-    "name": "Wolfgang",
-    "surname": "Wiedenroth",
+    "name": "Mathias",
+    "surname": "Schröder",
     "company": "it-agile",
-    "title": "CEO, Kanban Trainer & Coach",
-    "bio": "Wolfgang works a consultant at it-agile. Wolfgang main focus lies on enabling clients to improve their business to more agility, while at the same time creating work environments where people love to work. Viewing situations in systems in combination with Lean thinking and the Kanban Method, Wolfgang helped lots of customers in improving the services including Software development, Operations, Marketing, HR, Hardware Development. As a trainer he often intertwine theory with his real-life Kanban experiences and introduce concepts with practical exercises.</br></br>Wolfgang is co-founder of the Limited WIP Society Munich, host of the Limited WIP Society DACH group on XING. He also co-translated Mike Burrow's book 'Kanban from the Inside' to German.",
-    "thumbnailUrl": "wolfgangwiedenroth.jpg",
+    "title": "Kanban Trainer & Coach",
+    "bio": "Mathias ist Jahrgang 1983, an der schönen Ostseeküste in der Nähe von Rostock aufgewachsen und seit 2005 in Hamburg zuhause.
+Seine berufliche Laufbahn startete er als Quereinsteiger in der Softwareentwicklung eines Hamburger Startup.2009 lernte er das erste mal Scrum kennen und wurde so sehr von der Agilität infiziert, dass er ab 2011 in der Rolle des Scrum Masters / Agile Coach
+nicht nur Startups, sondern auch mittelständischen Unternehmen und Konzernen geholfen hat, moderner zu arbeiten.</br></br>
+
+Seit 2014 brennt Mathias für Kanban und ist seit 2019 als einer von nur wenigen Kanban Coaching Professionals im deutschsprachigen Raum Teil von it-agile. Hier hilft er unseren Kunden dabei, fit für die Zukunft zu sein, Kanban als Methode zu verbreiten und den Markt weiterzuentwickeln.</br></br>
+
+Sein Akku lädt Mathias am besten auf, wenn er mit seiner Frau und seinen 3 Kindern im Wohnmobil durch Europa reist und die Freiheit genießt.",
+    "thumbnailUrl": "mathiasschroeder.jpg",
     "keynote": false,
     "social": [{
         "name": "twitter",
-        "link": "https://twitter.com/wwiedenroth"
+        "link": "https://twitter.com/schroedMat"
     },
     {
         "name": "linkedin",
-        "link": "https://www.linkedin.com/in/wolfgang-wiedenroth"
-    },
-    {
-        "name": "site",
-        "link": "https://agilemanic.com"
+        "link": "https://www.linkedin.com/in/mathias-schröder-1448a1101/"
     }
     ],
     "ribbon": [{
-        "abbr": "AKT",
-        "title": "Accredited Kanban Trainer"
-    },
-    {
         "abbr": "KCP",
         "title": "Kanban Coaching Professional"
     }
@@ -456,23 +454,19 @@ survivability (KMM, SixSigma).",
 },
 {
     "id": 17,
-    "name": "Alexei",
-    "surname": "Zheglov",
-    "company": "Lean A-to-Z, Inc.",
-    "title": "Founder and Principal Consultant",
-    "bio": "Alexei is a Kanban Coaching Professional (KCP) and Accredited Kanban Trainer (AKT). He has used, coached, taught Kanban for almost a decade and developed several new leaders of this method. One of his enduring interests is the phenomenon of time, simply time it takes to do something and deliver it. He does serious math so that you don’t have to and distills it into simple, practical advice. He lives in Toronto, Canada.",
-    "thumbnailUrl": "AlexeiZheglov.jpg",
+    "name": "Steve",
+    "surname": "McGee",
+    "company": "David J Anderson School of Management",
+    "title": "CEO",
+    "bio": "Steve McGee drives the development of programming and runs the David J Anderson School of Management. He has 30 years of experience in leadership and organization development, from developing programs that teach leadership and develop character, to creating, implementing and supervising staff training for leadership schools. Steve is a co-author of the 2nd edition KMM book and developer of the Leadership extensions to the Kanban Maturity Model. He is co-author of The Silicon Valley Way, to help Japanese businesses implement innovation management practices to increase business agility. Steve is former president and director of events of the Bay Area Organization Development Network, and founding member of the Association of Change Management Professionals. He teaches courses in Seattle, Bilbao, and at customer sites.",
+    "thumbnailUrl": "SteveMcGee.jpg",
     "keynote": false,
     "social": [{
         "name": "twitter",
-        "link": "https://twitter.com/az1"
+        "link": "https://twitter.com/smcgeeci"
     }, {
         "name": "linkedin",
-        "link": "https://www.linkedin.com/in/azheglov/"
-    },
-    {
-        "name": "site",
-        "link": "https://www.leanatoz.com/"
+        "link": "https://www.linkedin.com/in/stevemcgee"
     }
     ],
     "ribbon": [{
@@ -603,29 +597,20 @@ survivability (KMM, SixSigma).",
 },
 {
     "id": 23,
-    "name": "Mike",
-    "surname": "Freislich",
-    "company": "agile42",
-    "title": "Business Agility Coach and Trainer",
-    "bio": "Mike has worked as an IT professional since 1994 and has been involved in managing teams and developing software products since 1998. Since discovering Agile in 2005, Mike has been passionate about helping teams and organisations achieve their potential through the use of Lean and Agile methods.Mike believes that true organisational agility stems from engaged leadership, system - aware employees, a laser - like focus on customer value and relentless, collaborative improvement.He has worked with countless organisations over the years, helping them grow the culture and methods they need to become their best and stay there. Mike loves the Kanban approach to creating inclusive, collaborative, focused, measurable, improvements within teams and organisations.After having been inspired by Dr.Klaus Leopold in 2015, Mike has worked hard to achieve his Kanban Trainer accreditation(AKT) in 2017. Mike spends his time training and coaching individuals and organisations in South Africa and abroad.",
-    "thumbnailUrl": "MikeFreislich.jpg",
+    "name": "Oliver",
+    "surname": "Finker",
+    "company": "WEKA MEDIA PUBLISHING GmbH",
+    "title": "Senior Manager Prozesse und Architektur",
+    "bio": "Oliver Finker is an Austrian systems analyst, Enterprise Kanban Coach and versatile software practitioner with almost 20 years of experience covering project management, Agile software development and team leadership. After a brief stint with Siemens, he discarded traditional Command & Control thinking and helped with the development of several German top-20 websites in the fields of sports and general journalism, always aiming to see the products with the customer's eyes; focusing on what actually creates value for the customer eventually led him to Lean, Kanban and Wardley Mapping. In the past years he facilitated process improvement in a Senior management position of a publishing house and currently works as a business strategy coach, teaching organizations how to make better decisions with maps. He also organizes both the Kanban community and the Wardley Mapping community in Munich.",
+    "thumbnailUrl": "OliverFinker.jpg",
     "keynote": false,
     "social": [{
         "name": "linkedin",
-        "link": "https://www.linkedin.com/in/mikefreislich/"
+        "link": "https://de.linkedin.com/in/oliver-finker-3451a4187"
     },
     {
         "name": "twitter",
-        "link": "https://twitter.com/mikefreislich"
-    },
-    {
-        "name": "site",
-        "link": "https://www.agile42.com/en/training/trainer/35/mike-freislich/"
-    }
-    ],
-    "ribbon": [{
-        "abbr": "AKT",
-        "title": "Accredited Kanban Trainer"
+        "link": "https://twitter.com/ofinker"
     }]
 },
 {

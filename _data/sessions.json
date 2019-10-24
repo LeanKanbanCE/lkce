@@ -266,8 +266,10 @@
 },
 {
     "id": 17,
-    "title": "Lead Time: Let's Do Something About It",
-    "description": "Kanban systems in companies in various industries from around the world have produced plenty of evidence in the last decade: lead time (time to market, time in process, time from “we promise” to “here it is”, whatchamacallit) is one of the most difficult things to control. “Lead time control chart” is an oxymoron for many. Yet time is also a key fitness criterion for customers and a key measure of business agility. So, it’s important! The Kanban way is, then, to do something about it.</br> We’ ve learned lots in recent years about the nature of time it takes to solve a problem and deliver the solution to your customer.The nature of this problem is risk.So, we’ ll unhide the risks of delay, such as dependencies, blockage, queuing, rework and pre - emption.And then we’ ll reduce, eliminate and mitigate these risks.We’ ll prioritize these improvement actions.We’ ll balance raw data, knowledge discovery and simulation approaches to improve agility and fitness for purpose. ",
+    "title": "Kanban’s Established Solutions for Chronic Agile Pain Points",
+    "description": "For years Agile practices and methodologies have failed to adequately address legitimate management concerns: prioritization, dependencies, meaningful metrics, forecasting, and aligning specialist functions to deliver what customers request. Within the Kanban Method and the lesser-known Enterprise Services Planning (ESP) body of practices there are well-established solutions that have helped managers overcome these chronic problems. ESP is a collection of advanced practices to reach and maintain high levels of fitness-for-purpose. However there are simplified versions, based on the validated practices, than any Agile manager can use. We will look at one set of practices to address the dependencies pain point from a case study.</br></br>
+
+Agile’ s answer to dependencies has been to ‘thin slice’ or to ‘put all dependent skills in the same team.’ It’s answer to prioritization is ‘place responsibility on one person’ or ‘force stack ranking’ or ‘just do the weighted, shortest job first’. Agile metrics are not KPIs – doubling velocity would not be an improvement. For forecasting, it’s mostly smoke and mirrors with very low reliability. We will frankly look at why these popular Agile solutions don’t help managers. Then we will look simple approaches any manager can implement based on Kanban and ESP practices and how it overcomes these pain points. As a coach you will be prepared to learn more about how to start tackling these chronic issues for good. As a manager you will hear answers to your burning questions and know where to start looking for better help.",
     "subtype": "talk",
     "speakers": [
         17
@@ -345,8 +347,10 @@
 },
 {
     "id": 23,
-    "title": "How To & How not to catalyze Improvement",
-    "description": "Building a kanban system can be quick and easy. Figuring out how to implement change across a system with more than a single operative team can be challenging. The effectiveness of a multi-team system is impacted by the quality of interactions between the teams. How could we go about improving these interactions?</br> Mike will share stories of working with humans to catalyse improvement in multi - team systems: < /br>– Success - Leveraging Flight levels to increase system awareness and autonomy while decreasing synchronisation costs < /br>– Failure - How to scare the Portfolio Police into“ in -action”!",
+    "title": "Wardley Mapping meets Kanban Maturity Model",
+    "description": "Based on empiricism and many case studies, the Kanban Maturity Model offers organizations pragmatic guidance about which of about 150 sub-practices within the Kanban method are aligned with their organizational maturity levels. It maps those practices to observable business outcomes using seven levels of maturity and aids evolution of processes.
+
+    When it comes to evolution, Wardley Maps can show the state of evolution of components within a value stream in relation to a predefined anchor and helps with gaining situational awareness. In my talk I will show how Wardley Maps and the Kanban Maturity Model overlap and how you can use both in combination to assess how to choose appropriate methods and practices for the context you’re in.",
     "subtype": "talk",
     "speakers": [
         23
@@ -391,14 +395,16 @@
         29, 30
     ],
     "language": "de",
-    "complexity": "intermediate",
+    "complexity": "beginner",
     "slides": null,
     "video": null
 },
 {
     "id": 30,
-    "title": "tbd",
-    "description": "tbd",
+    "title": "Strategische Ausrichtung mal anders (aka. Wardley Maps in action)",
+    "description": "Wie genau komme ich zu einer strategischen Ausrichtung? Welche Entscheidung treffe ich? Und wie oft muss ich das tun?
+    In diesem Talk gibt Mathias eine kurze Einführung zu Wardley Maps und eine Vorstellung, was er bisher bei der Anwendung für Erfahrungen gemacht hat und welche Tipps und Tricks sich als sehr wertvoll herausgestellt haben.
+    ",
     "subtype": "talk",
     "speakers": [
         4
