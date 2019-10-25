@@ -39,6 +39,35 @@
      ]
   },
   {
+     "id": 2,
+     "name": "Chris",
+     "surname": "Steindel",
+     "title": "Marketing and Sponsor Manager",
+     "thumbnailUrl": "chrissteindel.jpg",
+     "team": true,
+     "ribbon": [
+        {
+           "abbr": "it-agile",
+           "title": "it-agile Gmbh"
+        }
+     ]
+  },
+  {
+     "id": 3,
+     "name": "Mathias",
+     "surname": "Schröder",
+     "title": "Speakers Manager & Program Committee",
+     "thumbnailUrl": "mschroeder.jpg",
+     "team": true,
+     "subTeam": true,
+     "ribbon": [
+        {
+           "abbr": "it-agile",
+           "title": "it-agile Gmbh"
+        }
+     ]
+  },
+  {
      "id": 4,
      "name": "Klaus",
      "surname": "Leopold",
