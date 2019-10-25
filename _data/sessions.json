@@ -97,8 +97,8 @@
 },
 {
     "id": 130,
-    "title": "",
-    "description": "",
+    "title": "Shift perspective, change reality",
+    "description": "George Parker lets you experience the power of changing perspective. You will discover how a shift in perspective will change the way you look at situations, a problem, other people and even yourself. George uses illusions and mentalism to teach you how to change your own perspective. But also how you can affect other people’s minds and the way they look at reality. Masters at this craft will produce better outcomes, solve problems faster and become more creative. On top of that they will collaborate better, with a lot more fun and empathy. These are all signs of high performance teams.",
     "subtype": "keynote",
     "speakers": [
         130
@@ -348,9 +348,9 @@ Agile’ s answer to dependencies has been to ‘thin slice’ or to ‘put all 
 {
     "id": 23,
     "title": "Wardley Mapping meets Kanban Maturity Model",
-    "description": "Based on empiricism and many case studies, the Kanban Maturity Model offers organizations pragmatic guidance about which of about 150 sub-practices within the Kanban method are aligned with their organizational maturity levels. It maps those practices to observable business outcomes using seven levels of maturity and aids evolution of processes.
+      "description": "Based on empiricism and many case studies, the Kanban Maturity Model offers organizations pragmatic guidance about which of about 150 sub-practices within the Kanban method are aligned with their organizational maturity levels. It maps those practices to observable business outcomes using seven levels of maturity and aids evolution of processes.
 
-    When it comes to evolution, Wardley Maps can show the state of evolution of components within a value stream in relation to a predefined anchor and helps with gaining situational awareness. In my talk I will show how Wardley Maps and the Kanban Maturity Model overlap and how you can use both in combination to assess how to choose appropriate methods and practices for the context you’re in.",
+      When it comes to evolution, Wardley Maps can show the state of evolution of components within a value stream in relation to a predefined anchor and helps with gaining situational awareness. In my talk I will show how Wardley Maps and the Kanban Maturity Model overlap and how you can use both in combination to assess how to choose appropriate methods and practices for the context you’re in.",
     "subtype": "talk",
     "speakers": [
         23
