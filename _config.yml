@@ -36,7 +36,7 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/cfp_lkce19"
+#c4pUrl: "http://bit.ly/cfp_lkce19"
 #c4sponsorsUrl: "/assets/Sponsoring_LKCE18.pdf"
 
 
@@ -52,11 +52,11 @@ navigationLinks:
  - {permalink: "/cod/", text: "Code of Conduct"}
  - {permalink: "/archive/", text: "Previous Events"}
 bottomNavigationLinks:
-  - {permalink: "/#tickets", text: "Buy tickets"}
+#  - {permalink: "/#tickets", text: "Buy tickets"}
   - {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 rightNavigationButtons:
-  - {permalink: "/#tickets", text: "Buy tickets"}
+#  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "background.jpg"
@@ -65,8 +65,8 @@ eventDate: "5th + 6th November, 2019"
 typeoutTextValues: '"", "2019"'
 typeoutFallback: "2019"
 heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
- # - {link: "http://bit.ly/cfp_lkce19", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
+# - {link: "http://bit.ly/cfp_lkce19", text: "Become a speaker"}
  - {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 # About Block
