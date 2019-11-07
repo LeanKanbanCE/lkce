@@ -92,7 +92,7 @@
     ],
     "language": "en",
     "complexity": "",
-    "slides": "",
+    "slides": "lkce19-david-j-anderson-why-we-need-kmm",
     "video": null
 },
 {
@@ -105,7 +105,7 @@
     ],
     "language": "en",
     "complexity": "",
-    "slides": "",
+    "slides": null,
     "video": null
 },
 {
@@ -118,7 +118,7 @@
     ],
     "language": "de",
     "complexity": "beginner",
-    "slides": null,
+    "slides": "lkce19-boris-kneisel-mining-for-goldnuggets-ein-erfahrungsbericht-eines-hidden-champions",
     "video": null
 },
 {
@@ -144,7 +144,7 @@
     ],
     "language": "en",
     "complexity": "intermediate",
-    "slides": null,
+    "slides": "lkce19-todd-little-risky-business-real-options-for-business-agility",
     "video": null
 },
 {
@@ -170,7 +170,7 @@
     ],
     "language": "en",
     "complexity": "beginner",
-    "slides": null,
+    "slides": "lkce19-dimitar-karaivanov-business-agility-through-the-eyes-of-a-metalhead-ceo",
     "video": null
 },
 {
@@ -183,7 +183,7 @@
     ],
     "language": "en",
     "complexity": "intermediate",
-    "slides": null,
+    "slides": "lkce19-natalia-de-souza-manha-lean-portfolio-governance-with-kanban-in-a-fintech-company",
     "video": null
 },
 {
@@ -196,7 +196,7 @@
     ],
     "language": "de",
     "complexity": "intermediate",
-    "slides": null,
+    "slides": "lkce19-thomas-epping-kanban-auf-leisen-sohlen",
     "video": null
 },
 {
@@ -248,7 +248,7 @@
     ],
     "language": "en",
     "complexity": "intermediate",
-    "slides": null,
+    "slides": "lkce19-katya-terekhova-siberian-tale-part-2-how-we-implemented-classes-of-services",
     "video": null
 },
 {
@@ -261,7 +261,7 @@
     ],
     "language": "en",
     "complexity": "intermediate",
-    "slides": null,
+    "slides": "lkce19-maren-baermann-agile-motivation-the-human-side-of-kanban",
     "video": null
 },
 {
@@ -276,7 +276,7 @@ Agile’ s answer to dependencies has been to ‘thin slice’ or to ‘put all 
     ],
     "language": "en",
     "complexity": "intermediate",
-    "slides": "lkce19-steve-mcgee-kanbans-established-solutions-for-chronic-agile-pain-points-help-specific-problems-with-things-weve",
+    "slides": "lkce19-steve-mcgee-kanbans-established-solutions-for-chronic-agile-pain-points-help-specific-problems-with-things-weve-been-doing-for-years",
     "video": null
 },
 {
@@ -383,7 +383,7 @@ Agile’ s answer to dependencies has been to ‘thin slice’ or to ‘put all 
     ],
     "language": "de",
     "complexity": "intermediate",
-    "slides": null,
+    "slides": "lkce19-bea-knippenberg-daniel-schimera-portfolioplanung-von-topdown-zu-bottomup",
     "video": null
 },
 {
@@ -411,7 +411,7 @@ Agile’ s answer to dependencies has been to ‘thin slice’ or to ‘put all 
     ],
     "language": "de",
     "complexity": "",
-    "slides": null,
+    "slides": "lkce19-mathias-schroeder-strategische-ausrichtung-mal-anders-aka-wardley-maps-in-action",
     "video": null
 },
 {
