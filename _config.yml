@@ -32,7 +32,7 @@ organizerLink: "http://www.it-agile.de"
 # Head
 metaKeywords: "kanban, lean, event, leadership, change, agile, modern management, it-agile, LKU, germany, hamburg"
 twitterAccount: "@LeanKanbanCE"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
@@ -47,13 +47,11 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/socialevent/", text: "Social Event"}
  - {permalink: "/cod/", text: "Code of Conduct"}
  - {permalink: "/archive/", text: "Previous Events"}
 bottomNavigationLinks:
 #  - {permalink: "/#tickets", text: "Buy tickets"}
-  - {permalink: "/#subscribe", text: "Subscribe for updates"}
+# - {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 rightNavigationButtons:
 #  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -61,20 +59,20 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "background.jpg"
 heroTitle: "Lean Kanban Central Europe <typeout>"
-eventDate: "5th + 6th November, 2019"
+#eventDate: "5th + 6th November, 2019"
 typeoutTextValues: '"", "2019"'
 typeoutFallback: "2019"
 heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
 # - {link: "http://bit.ly/cfp_lkce19", text: "Become a speaker"}
- - {permalink: "/#subscribe", text: "Subscribe for updates"}
+ #- {permalink: "/#subscribe", text: "Subscribe for updates"}
 
 # About Block
 aboutTitle: "About Lean Kanban Central Europe"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Come and join us at the world’s most popular Lean Kanban conference of this world wide series. Two days packed with inspiring talks, and networking opportunities."}
- - {title: "Social Event", image: "socialevent.jpg", text: "Enjoy an evening of exchanging ideas, meeting new people and your favorite speaker while having a drink." }
- - {title: "Hotel", image: "scandic.jpg", text: 'The Scandic Hamburg Emporio Hotel, right next to venue offers attendees of the conference a 15% discount. Just <a href="https://www.scandichotels.com/hotelreservation/select-rate?hotel=550&fromDate=2019-11-06&toDate=2019-11-08&room%5b0%5d.adults=1&bookingCode=&_ga=2.147564663.1321593296.1562772338-1113290766.1562320056">click here</a> and use the code PART.'}
+# - {title: "Social Event", image: "socialevent.jpg", text: "Enjoy an evening of exchanging ideas, meeting new people and your favorite speaker while having a drink." }
+ #- {title: "Hotel", image: "scandic.jpg", text: 'The Scandic Hamburg Emporio Hotel, right next to venue offers attendees of the conference a 15% discount. Just <a href="https://www.scandichotels.com/hotelreservation/select-rate?hotel=550&fromDate=2019-11-06&toDate=2019-11-08&room%5b0%5d.adults=1&bookingCode=&_ga=2.147564663.1321593296.1562772338-1113290766.1562320056">click here</a> and use the code PART.'}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -94,29 +92,29 @@ keynoteSpeakersTitle: "Keynote Speakers LKCE2019"
 keynoteSpeakersButtonText: "Learn more about the keynote speakers and other speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Panoramadeck"
-eventLocationLink: "https://www.nordevent.de/de/eventlocation-details/das-nord-event-panoramadeck.html"
-eventStreetAddress: "Dammtorwall 15"
-eventAddressLocality: "Hamburg"
-eventAddressLocalityRegion: "Hamburg"
-eventPostalCode: "20355"
-eventAddressCountry: "Germany"
-eventStartTime: "2019-11-05T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2019-11-06T18:00"
-eventPlaceCoordinates: "53.5561441, 9.9822282"
-mapCenterCoordinates: "53.5561441,9.9822282"
-mapMobileCenterCoordinates: "53.5561441,9.9822282"
+#locationBlockTitle: "Location"
+#eventLocationName: "Panoramadeck"
+#eventLocationLink: "https://www.nordevent.de/de/eventlocation-details/das-nord-event-panoramadeck.html"
+#eventStreetAddress: "Dammtorwall 15"
+#eventAddressLocality: "Hamburg"
+#eventAddressLocalityRegion: "Hamburg"
+#eventPostalCode: "20355"
+#eventAddressCountry: "Germany"
+#eventStartTime: "2019-11-05T10:00"
+#eventDoorTime: "09:00"
+#eventEndTime: "2019-11-06T18:00"
+#eventPlaceCoordinates: "53.5561441, 9.9822282"
+#mapCenterCoordinates: "53.5561441,9.9822282"
+#mapMobileCenterCoordinates: "53.5561441,9.9822282"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "NORD EVENT Panoramadeck"
-venueFeatures: ["2 rooms", "Market place to connect and discuss", "Lounge to relax and talk", "Located close to the Außenalster"]
+#venueBlockTitle: "Venue"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle: "NORD EVENT Panoramadeck"
+#venueFeatures: ["2 rooms", "Market place to connect and discuss", "Lounge to relax and talk", "Located close to the Außenalster"]
 
 # Tweets Feed Block
 tweetsFeedImage: "direction-details.jpg"
@@ -136,20 +134,20 @@ subscribeAction: "https://leankanbance.us14.list-manage.com/subscribe?u=2bd0e07c
 subscribeInfo: "We'll keep you updated on a monthly basis"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
+#ticketsTitle: "Pricetable"
+#ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
+#ticketsOffers:
  -
-  name: "LKCE19 - 2 days Ticket"
-  price: "1200"
-  priceCurrency: "EUR (excl. 19% VAT)"
-  ticketsNumber: "1"
-  ribbon: ""
-  buyButtonLink: "http://ti.to/lkce/lkce19"
-  buyButtonText: "Buy Now - the price will go up"
-  ticketContentList: ["2 Days", "2 Tracks", "Social Event"]
-  validFrom: "2018-11-25T10:00"
-  validThrough: "2019-11-04T23:59"
+  #name: "LKCE19 - 2 days Ticket"
+ # price: "1200"
+ # #priceCurrency: "EUR (excl. 19% VAT)"
+#  ticketsNumber: "1"
+#  ribbon: ""
+#  buyButtonLink: "http://ti.to/lkce/lkce19"
+#  buyButtonText: "Buy Now - the price will go up"
+#  ticketContentList: ["2 Days", "2 Tracks", "Social Event"]
+ # validFrom: "2018-11-25T10:00"
+ # validThrough: "2019-11-04T23:59"
 
 # Footer
 socialLinks:
@@ -185,33 +183,6 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "It all started 2011 in Munich and since then Lean Kanban Central Europe grew to the biggest and most popular conference on Lean and Kanban. Our mission has always been and will be again in 2018 to host an unforgetable event for system thinkers, managers, leaders, out-of-the-box-thinkers, entrepreneurs, product developers, and people who care about the way they work."
-
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "53.5561441, 9.9822282"
-logisticsMapMobileCenterCoordinates: "53.5561441, 9.9822282"
-logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Hamburg"
-directionDetailsCards:
- - {title: "Hotel", information: 'The Scandic Hotel, right next to venue offers attendees of the conference a 15% discount. Just <a href="https://www.scandichotels.com/hotelreservation/select-rate?hotel=550&fromDate=2019-11-06&toDate=2019-11-08&room%5b0%5d.adults=1&bookingCode=&_ga=2.147564663.1321593296.1562772338-1113290766.1562320056">click here</a> and use the code PART.'}
- - {title: "From the Airport", information: 'The airport is easily reachable by car, public transport or taxi. More information is available at <a href="http://www.hamburg-airport.de/en/bus_rail_and_transfer.php">airport website</a>.'}
- - {title: "Public Transit", information: 'Take the subway to either Messehallen or Stephansplatz for public transportation to the central station, the airport or anywhere else in Hamburg.'}
-
-# Archive Direction Details Block
-archiveDetailsImage: "direction-details.jpg"
-archiveDetailsTitle: "Take a tour through LKCE history"
-
-# Logistics Hotels Block
-hotelsTitle: "Hotels"
 
 # socialevent
 socialeventTitle: "Social Event"
